@@ -223,6 +223,3 @@ bld/
 # Large game data files (use Git LFS or download separately)
 game_assets/dialogue_db_typetree.json
 **/dialogue_db_typetree.json
-
-# Example save files (too large)
-example*/

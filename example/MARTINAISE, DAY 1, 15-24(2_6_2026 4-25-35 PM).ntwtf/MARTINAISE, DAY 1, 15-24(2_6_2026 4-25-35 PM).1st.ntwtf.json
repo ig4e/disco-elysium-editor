@@ -1,0 +1,30 @@
+{
+    "areaId": "Martinaise-ext",
+    "partyState": {
+        "isKimInParty": true,
+        "isKimLeftOutside": false,
+        "isKimAbandoned": false,
+        "isKimAwayUpToMorning": false,
+        "isKimSleepingInHisRoom": false,
+        "isCunoInParty": false,
+        "isCunoLeftOutside": false,
+        "isCunoAbandoned": true,
+        "isKimSayingGoodMorning": false,
+        "sleepLocation": 0,
+        "waitLocation": 0,
+        "cunoWaitLocation": 0,
+        "timeSinceKimWentSleepingInHisRoom": 0,
+        "kimLastArrivalLocation": 0,
+        "cunoLastArrivalLocation": 0,
+        "hasHangover": false
+    },
+    "fowUnrevealersStatusCache": {
+        "fog-whirling-klaasje-main": "UNSEEN",
+        "fog-whirling-kitsuragi": "UNSEEN",
+        "fog-whirling-klaasje-bathroom": "UNSEEN",
+        "fog-main": "ACTIVE",
+        "fog-whirling-backstage": "UNSEEN",
+        "fog-whirling-union": "UNSEEN",
+        "fog-whirling-kitchen": "UNSEEN"
+    }
+}
