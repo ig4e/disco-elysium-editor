@@ -17,6 +17,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
@@ -34,5 +35,6 @@
     <None Remove="Assets\GameData\**\*.json" />
     <EmbeddedResource Include="Assets\GameData\**\*.json" />
   </ItemGroup>
+
 
 </Project>

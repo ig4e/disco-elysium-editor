@@ -130,15 +130,41 @@ public class SaveFileService
 
     private async Task CreateBackupAsync(string folderPath)
     {
-        var backupFolder = folderPath + ".backup";
-        if (!Directory.Exists(backupFolder))
+        const int maxBackups = 5; // Keep 5 backup versions
+
+        // Rotate existing backups
+        for (int i = maxBackups - 1; i >= 1; i--)
         {
-            Directory.CreateDirectory(backupFolder);
-            foreach (var file in Directory.GetFiles(folderPath))
+            var oldBackup = folderPath + (i == 1 ? ".backup" : $".backup.{i}");
+            var newBackup = folderPath + $".backup.{i + 1}";
+
+            if (Directory.Exists(oldBackup))
             {
-                var destFile = Path.Combine(backupFolder, Path.GetFileName(file));
-                await Task.Run(() => File.Copy(file, destFile, overwrite: true));
+                if (i == maxBackups - 1)
+                {
+                    // Delete oldest backup
+                    Directory.Delete(oldBackup, recursive: true);
+                }
+                else
+                {
+                    // Rotate backup
+                    if (Directory.Exists(newBackup))
+                        Directory.Delete(newBackup, recursive: true);
+                    Directory.Move(oldBackup, newBackup);
+                }
             }
+        }
+
+        // Create new backup
+        var backupFolder = folderPath + ".backup";
+        if (Directory.Exists(backupFolder))
+            Directory.Delete(backupFolder, recursive: true);
+
+        Directory.CreateDirectory(backupFolder);
+        foreach (var file in Directory.GetFiles(folderPath))
+        {
+            var destFile = Path.Combine(backupFolder, Path.GetFileName(file));
+            await Task.Run(() => File.Copy(file, destFile, overwrite: true));
         }
     }
 

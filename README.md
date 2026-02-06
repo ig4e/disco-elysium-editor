@@ -11,6 +11,8 @@ A comprehensive WinUI 3 save editor for Disco Elysium with full round-trip editi
 - **Time**: In-game day, hour, and minute editing
 
 ### Inventory & Equipment
+- **Container Inspector**: Browse loot tables for all 402 containers
+- **Loot Editing**: Modify drop probabilities, item values, and potential deviations
 - **Item Management**: Add/remove items from inventory with full catalog browsing
 - **Equipment**: Manage equipped items (clothes, glasses, shoes, etc.) with automatic slot mapping
 - **Item Search**: Filter owned items and catalog by name
@@ -28,6 +30,8 @@ A comprehensive WinUI 3 save editor for Disco Elysium with full round-trip editi
 - **Bulk Actions**: Complete all or unresolve all tasks
 
 ### World & Variables
+- **Interactive Objects**: Toggle Door states (Open/Locked) and Interaction Orbs
+- **Area Progression**: detailed control over area states and exploration percentages
 - **Lua Variable Browser**: View and edit all ~12,000 game variables from the binary database
 - **Reputation System**: Quick-access editing for Communist, Ultraliberal, Moralist, Nationalist, and Kim reputation
 - **Weather Control**: Set weather presets
@@ -46,6 +50,7 @@ A comprehensive WinUI 3 save editor for Disco Elysium with full round-trip editi
 - **Seen Checks**: Track which white checks have been seen
 
 ### Save Management
+- **Undo/Redo**: Comprehensive undo/redo stack for safe editing
 - **Auto-Discovery**: Automatically finds save files in default Disco Elysium save locations
 - **Manual Open**: Browse to any `.ntwtf` save folder
 - **Save As**: Export/copy saves to new locations
@@ -54,7 +59,7 @@ A comprehensive WinUI 3 save editor for Disco Elysium with full round-trip editi
 
 ## Installation
 
-Download the latest executable from the [releases page](https://github.com/Adversarian/disco-elysium-save-editor/releases) and run it.
+Download the latest executable from the [releases page](https://github.com/ig4e/disco-elysium-editor/releases) and run it.
 
 **Requirements**: Windows 10/11 with **Windows App Runtime 1.8.x** installed.
 
@@ -116,17 +121,16 @@ dotnet publish DiscoSaveEditor/DiscoSaveEditor.csproj `
 - [x] Party state and HUD editing
 - [x] Save As / export functionality
 - [x] Auto-discovery of save files
+- [x] Container/loot editing (402 containers)
+- [x] Door states, Area states, and Orb visibility editing
+- [x] Undo/redo system
 
 🚧 **Future Enhancements:**
-- [ ] Container/loot editing (402 containers in StatesData)
-- [ ] Door states UI (data is saved, needs editing panel)
-- [ ] Area states / shown orbs editing
-- [ ] Undo/redo system
 - [ ] Multiple backup rotation
 
 ## Contributing
 
-Feature requests and bug reports are welcome via [issues](https://github.com/Adversarian/disco-elysium-save-editor/issues).
+Feature requests and bug reports are welcome via [issues](https://github.com/ig4e/disco-elysium-editor/issues).
 
 Pull requests are accepted — the codebase follows standard MVVM patterns with ViewModels in `ViewModels/`, Views in `Views/`, Models in `Models/`, and Services in `Services/`.
 

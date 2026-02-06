@@ -17,6 +17,8 @@ public partial class MainViewModel : ObservableObject
     private readonly GameDataService _gameData;
     private readonly SaveFileService _saveService;
 
+    public UndoRedoService UndoRedo { get; } = new();
+
     public ObservableCollection<RecentSaveItem> RecentSaves { get; } = new();
 
     [ObservableProperty]
@@ -42,6 +44,8 @@ public partial class MainViewModel : ObservableObject
     public PartyViewModel Party { get; }
     public WorldViewModel World { get; }
     public WhiteChecksViewModel WhiteChecks { get; }
+    public ContainersViewModel Containers { get; }
+    public StatesViewModel States { get; }
 
     public bool IsSaveLoaded => CurrentSave != null;
     public bool ShowWelcome => CurrentSave == null;
@@ -61,6 +65,17 @@ public partial class MainViewModel : ObservableObject
         Party = new PartyViewModel();
         World = new WorldViewModel(gameData);
         WhiteChecks = new WhiteChecksViewModel(gameData);
+        Containers = new ContainersViewModel();
+        States = new StatesViewModel();
+
+        // Update command states when undo/redo state changes
+        UndoRedo.PropertyChanged += (_, e) =>
+        {
+            if (e.PropertyName == nameof(UndoRedo.CanUndo))
+                UndoCommand.NotifyCanExecuteChanged();
+            if (e.PropertyName == nameof(UndoRedo.CanRedo))
+                RedoCommand.NotifyCanExecuteChanged();
+        };
 
         _ = RefreshDiscoveredSavesAsync();
     }
@@ -155,7 +170,10 @@ public partial class MainViewModel : ObservableObject
             Party.LoadFromSave(CurrentSave);
             World.LoadFromSave(CurrentSave);
             WhiteChecks.LoadFromSave(CurrentSave);
+            Containers.LoadFromSave(CurrentSave);
+            States.LoadFromSave(CurrentSave);
 
+            UndoRedo.Clear();
             HasUnsavedChanges = false;
             StatusMessage = $"Loaded: {CurrentSave.BaseName}";
         }
@@ -246,6 +264,24 @@ public partial class MainViewModel : ObservableObject
         }
     }
 
+    [RelayCommand(CanExecute = nameof(CanUndoCommand))]
+    private void Undo()
+    {
+        UndoRedo.Undo();
+        HasUnsavedChanges = true;
+    }
+
+    private bool CanUndoCommand() => UndoRedo.CanUndo;
+
+    [RelayCommand(CanExecute = nameof(CanRedoCommand))]
+    private void Redo()
+    {
+        UndoRedo.Redo();
+        HasUnsavedChanges = true;
+    }
+
+    private bool CanRedoCommand() => UndoRedo.CanRedo;
+
     private void ApplyAllViewModels()
     {
         if (CurrentSave == null) return;
@@ -256,6 +292,8 @@ public partial class MainViewModel : ObservableObject
         Party.ApplyToSave(CurrentSave);
         World.ApplyToSave(CurrentSave);
         WhiteChecks.ApplyToSave(CurrentSave);
+        Containers.ApplyToSave(CurrentSave);
+        States.ApplyToSave(CurrentSave);
     }
 
     public void MarkDirty()

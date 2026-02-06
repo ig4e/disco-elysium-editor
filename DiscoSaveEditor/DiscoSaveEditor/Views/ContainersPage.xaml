@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="DiscoSaveEditor.Views.ContainersPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:viewmodels="using:DiscoSaveEditor.ViewModels"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="24">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <StackPanel Grid.Row="0" Margin="0,0,0,24">
+            <TextBlock Text="Container / Loot Editor" Style="{StaticResource TitleTextBlockStyle}"/>
+            <TextBlock Text="402 containers with item registries. Edit loot drops and container content." 
+                      Opacity="0.7" Margin="0,4,0,0"/>
+        </StackPanel>
+
+        <!-- Main Content: Two-panel layout -->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="300"/>
+                <ColumnDefinition Width="16"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Left Panel: Container List -->
+            <StackPanel Grid.Column="0">
+                <TextBlock Text="Containers" FontWeight="SemiBold" Margin="0,0,0,8"/>
+                
+                <TextBox 
+                    PlaceholderText="Search containers..."
+                    Text="{x:Bind ViewModel.SearchQuery, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                    Margin="0,0,0,12"/>
+
+                <ListView 
+                    ItemsSource="{x:Bind ViewModel.Containers, Mode=OneWay}"
+                    SelectedValuePath="ContainerId"
+                    SelectedValue="{x:Bind ViewModel.SelectedContainerId, Mode=TwoWay}"
+                    SelectionMode="Single"
+                    MaxHeight="600">
+                    <ListView.ItemTemplate>
+                        <DataTemplate x:DataType="viewmodels:ContainerDisplayItem">
+                            <StackPanel Margin="0,4">
+                                <TextBlock Text="{x:Bind ContainerId}" FontWeight="SemiBold" TextTrimming="CharacterEllipsis"/>
+                                <TextBlock Opacity="0.7">
+                                    <Run Text="{x:Bind ItemCount}"/>
+                                    <Run Text=" items, value: "/>
+                                    <Run Text="{x:Bind TotalValue}"/>
+                                </TextBlock>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackPanel>
+
+            <!-- Right Panel: Container Items -->
+            <StackPanel Grid.Column="2">
+                <Grid Margin="0,0,0,12">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    
+                    <TextBlock Text="{x:Bind ViewModel.SelectedContainerId, Mode=OneWay}" Grid.Column="0"
+                              FontWeight="SemiBold" VerticalAlignment="Center"/>
+                    
+                    <Button Grid.Column="1" Content="Clear Container" 
+                           Command="{x:Bind ViewModel.ClearContainerCommand}"/>
+                </Grid>
+
+                <ListView 
+                    ItemsSource="{x:Bind ViewModel.CurrentContainerItems, Mode=OneWay}"
+                    SelectionMode="None"
+                    MaxHeight="600">
+                    <ListView.ItemTemplate>
+                        <DataTemplate x:DataType="viewmodels:ContainerItemDisplay">
+                            <Grid Margin="0,4" ColumnSpacing="12">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+
+                                <TextBlock Grid.Column="0" Text="{x:Bind Name}" VerticalAlignment="Center"
+                                          TextTrimming="CharacterEllipsis"/>
+                                
+                                <TextBlock Grid.Column="1" VerticalAlignment="Center" Opacity="0.7">
+                                    <Run Text="Prob: "/>
+                                    <Run Text="{x:Bind Probability}"/>
+                                </TextBlock>
+                                
+                                <TextBlock Grid.Column="2" VerticalAlignment="Center" Opacity="0.7">
+                                    <Run Text="Val: "/>
+                                    <Run Text="{x:Bind CalculatedValue}"/>
+                                </TextBlock>
+
+                                <CheckBox Grid.Column="3" Content="Bonus" IsChecked="{x:Bind BonusLoot, Mode=TwoWay}"
+                                         VerticalAlignment="Center"/>
+
+                                <Button Grid.Column="4" Content="×" FontSize="20" 
+                                       Tag="{x:Bind}" Click="RemoveItem_Click"
+                                       MinWidth="32" Padding="0"/>
+                            </Grid>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

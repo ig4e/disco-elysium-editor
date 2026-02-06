@@ -46,6 +46,8 @@ public sealed partial class MainWindow : Window
                 "Party" => typeof(PartyPage),
                 "World" => typeof(WorldPage),
                 "WhiteChecks" => typeof(WhiteChecksPage),
+                "Containers" => typeof(ContainersPage),
+                "States" => typeof(StatesPage),
                 _ => typeof(CharacterPage)
             };
 

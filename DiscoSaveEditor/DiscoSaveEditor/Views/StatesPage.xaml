@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="DiscoSaveEditor.Views.StatesPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:viewmodels="using:DiscoSaveEditor.ViewModels"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <ScrollViewer Margin="24">
+        <StackPanel Spacing="32">
+            <StackPanel>
+                <TextBlock Text="Door, Area and Orb States" Style="{StaticResource TitleTextBlockStyle}"/>
+                <TextBlock Text="Control door lock states, area progression, and interaction orb visibility." Opacity="0.7" Margin="0,4,0,0"/>
+            </StackPanel>
+
+            <Pivot>
+                <PivotItem Header="Door States">
+                    <StackPanel Spacing="16" Margin="0,16,0,0">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="8"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBox Grid.Column="0" PlaceholderText="Search doors..." Text="{x:Bind ViewModel.DoorSearchQuery, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                            <Button Grid.Column="1" Content="Open All" Command="{x:Bind ViewModel.OpenAllDoorsCommand}"/>
+                            <Button Grid.Column="3" Content="Close All" Command="{x:Bind ViewModel.CloseAllDoorsCommand}"/>
+                        </Grid>
+                        <ListView ItemsSource="{x:Bind ViewModel.Doors, Mode=OneWay}" SelectionMode="None" MaxHeight="500">
+                            <ListView.ItemTemplate>
+                                <DataTemplate x:DataType="viewmodels:DoorStateItem">
+                                    <Grid Padding="0,8">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                        </Grid.ColumnDefinitions>
+                                        <TextBlock Grid.Column="0" Text="{x:Bind DoorId}" VerticalAlignment="Center" TextTrimming="CharacterEllipsis"/>
+                                        <CheckBox Grid.Column="1" Content="Open" IsChecked="{x:Bind IsOpen, Mode=TwoWay}"/>
+                                    </Grid>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </StackPanel>
+                </PivotItem>
+
+                <PivotItem Header="Area States">
+                    <StackPanel Spacing="16" Margin="0,16,0,0">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBox Grid.Column="0" PlaceholderText="Search areas..." Text="{x:Bind ViewModel.AreaSearchQuery, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                            <Button Grid.Column="1" Content="Reset All" Command="{x:Bind ViewModel.ResetAllAreasCommand}"/>
+                        </Grid>
+                        <ListView ItemsSource="{x:Bind ViewModel.AreaStates, Mode=OneWay}" SelectionMode="None" MaxHeight="500">
+                            <ListView.ItemTemplate>
+                                <DataTemplate x:DataType="viewmodels:AreaStateItem">
+                                    <Grid Padding="0,8">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="120"/>
+                                        </Grid.ColumnDefinitions>
+                                        <TextBlock Grid.Column="0" Text="{x:Bind AreaId}" VerticalAlignment="Center" TextTrimming="CharacterEllipsis"/>
+                                        <NumberBox Grid.Column="1" Value="{x:Bind LocationState, Mode=TwoWay}" SpinButtonPlacementMode="Inline" Minimum="0" Maximum="100"/>
+                                    </Grid>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </StackPanel>
+                </PivotItem>
+
+                <PivotItem Header="Shown Orbs">
+                    <StackPanel Spacing="16" Margin="0,16,0,0">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBox Grid.Column="0" PlaceholderText="Search orbs..." Text="{x:Bind ViewModel.OrbSearchQuery, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                            <Button Grid.Column="1" Content="Reset All" Command="{x:Bind ViewModel.ResetAllOrbsCommand}"/>
+                        </Grid>
+                        <ListView ItemsSource="{x:Bind ViewModel.ShownOrbs, Mode=OneWay}" SelectionMode="None" MaxHeight="500">
+                            <ListView.ItemTemplate>
+                                <DataTemplate x:DataType="viewmodels:OrbStateItem">
+                                    <Grid Padding="0,8">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="120"/>
+                                        </Grid.ColumnDefinitions>
+                                        <TextBlock Grid.Column="0" Text="{x:Bind OrbId}" VerticalAlignment="Center" TextTrimming="CharacterEllipsis"/>
+                                        <NumberBox Grid.Column="1" Value="{x:Bind OrbSeen, Mode=TwoWay}" SpinButtonPlacementMode="Inline" Minimum="0" Maximum="10"/>
+                                    </Grid>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </StackPanel>
+                </PivotItem>
+            </Pivot>
+        </StackPanel>
+    </ScrollViewer>
+</Page>

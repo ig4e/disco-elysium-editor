@@ -41,10 +41,34 @@
                 <NavigationViewItem Content="White Checks" Tag="WhiteChecks">
                     <NavigationViewItem.Icon><FontIcon Glyph="&#xE7C1;" /></NavigationViewItem.Icon>
                 </NavigationViewItem>
+                <NavigationViewItem Content="Containers" Tag="Containers">
+                    <NavigationViewItem.Icon><FontIcon Glyph="&#xE7B8;" /></NavigationViewItem.Icon>
+                </NavigationViewItem>
+                <NavigationViewItem Content="States" Tag="States">
+                    <NavigationViewItem.Icon><FontIcon Glyph="&#xE8B7;" /></NavigationViewItem.Icon>
+                </NavigationViewItem>
             </NavigationView.MenuItems>
 
             <NavigationView.PaneFooter>
                 <StackPanel Padding="12" Spacing="6">
+                    <!-- Undo/Redo buttons -->
+                    <Grid ColumnSpacing="6">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Button Grid.Column="0" Content="&#xE7A7;" FontFamily="Segoe MDL2 Assets" 
+                                ToolTipService.ToolTip="Undo"
+                                HorizontalAlignment="Stretch"
+                                Command="{x:Bind ViewModel.UndoCommand}"
+                                IsEnabled="{x:Bind ViewModel.UndoRedo.CanUndo, Mode=OneWay}" />
+                        <Button Grid.Column="1" Content="&#xE7A6;" FontFamily="Segoe MDL2 Assets"
+                                ToolTipService.ToolTip="Redo"
+                                HorizontalAlignment="Stretch"
+                                Command="{x:Bind ViewModel.RedoCommand}"
+                                IsEnabled="{x:Bind ViewModel.UndoRedo.CanRedo, Mode=OneWay}" />
+                    </Grid>
+                    
                     <Button Content="&#xE838; Open Save Folder" FontFamily="Segoe MDL2 Assets,Segoe UI"
                             HorizontalAlignment="Stretch" Command="{x:Bind ViewModel.OpenSaveCommand}" />
                     <Button Content="&#xE74E; Save Changes" FontFamily="Segoe MDL2 Assets,Segoe UI"
