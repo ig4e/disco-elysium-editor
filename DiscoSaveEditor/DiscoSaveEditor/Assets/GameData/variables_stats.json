@@ -1,0 +1,248 @@
+[
+  {
+    "id": 5746,
+    "name": "stats.heart_t_pain",
+    "initial_value": "False",
+    "description": "Pain Threshhold fired during 1st heart attack."
+  },
+  {
+    "id": 5747,
+    "name": "stats.heart_t_half",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5748,
+    "name": "stats.heart_t_comp",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5749,
+    "name": "stats.heart_t_said_sensitive",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5750,
+    "name": "stats.heart_t_said_used_to_it",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5751,
+    "name": "stats.heart_t_lazareth",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5752,
+    "name": "stats.heart_1_volition",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5753,
+    "name": "stats.heart_1_rhet",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5754,
+    "name": "stats.heart_1_drama",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5755,
+    "name": "stats.heart_1_reaction",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5756,
+    "name": "stats.heart_2_pain",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5757,
+    "name": "stats.heart_2_logic",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5758,
+    "name": "stats.heart_2_phys",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5759,
+    "name": "stats.heart_2_kim_auth",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5760,
+    "name": "stats.heart_2_cuno_empathy",
+    "initial_value": "False",
+    "description": "lifeline related cunoing stuff"
+  },
+  {
+    "id": 5761,
+    "name": "stats.giving_t_inland",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5762,
+    "name": "stats.giving_t_concept",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5763,
+    "name": "stats.giving_t_interfacing",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5764,
+    "name": "stats.giving_1_comp",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5765,
+    "name": "stats.giving_1_auth",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5766,
+    "name": "stats.giving_3_rhet",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5767,
+    "name": "stats.giving_2_inland",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5768,
+    "name": "stats.giving_2_savoir",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5769,
+    "name": "stats.giving_isl_concept",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5770,
+    "name": "stats.uses_alcohol",
+    "initial_value": 0.0,
+    "description": "Alcohol substance use counter"
+  },
+  {
+    "id": 5771,
+    "name": "stats.uses_smokes",
+    "initial_value": 0.0,
+    "description": "Smokes substance use counter"
+  },
+  {
+    "id": 5772,
+    "name": "stats.uses_ghb",
+    "initial_value": 0.0,
+    "description": "GHB substance use counter"
+  },
+  {
+    "id": 5773,
+    "name": "stats.uses_speed",
+    "initial_value": 0.0,
+    "description": "Speed substance use counter"
+  },
+  {
+    "id": 5774,
+    "name": "stats.uses_pyrholidon",
+    "initial_value": 0.0,
+    "description": "Pyrholidon substance use counter"
+  },
+  {
+    "id": 5775,
+    "name": "stats.heart_attack_counter",
+    "initial_value": 0.0,
+    "description": "The number of times you've had a heart attack."
+  },
+  {
+    "id": 5776,
+    "name": "stats.giving_up_counter",
+    "initial_value": 0.0,
+    "description": "The number of times you've given up."
+  },
+  {
+    "id": 5777,
+    "name": "stats.heart_cuno_counter",
+    "initial_value": 0.0,
+    "description": "lifeline cunoness"
+  },
+  {
+    "id": 5778,
+    "name": "stats.heart_kim_counter",
+    "initial_value": 0.0,
+    "description": ""
+  },
+  {
+    "id": 5779,
+    "name": "stats.giving_kim_counter",
+    "initial_value": 0.0,
+    "description": ""
+  },
+  {
+    "id": 5780,
+    "name": "stats.giving_cuno_counter",
+    "initial_value": 0.0,
+    "description": "lifeline cuno counters"
+  },
+  {
+    "id": 5781,
+    "name": "stats.plaza_bench_alpha_counter",
+    "initial_value": 0.0,
+    "description": "twiddling thumbs counter"
+  },
+  {
+    "id": 5782,
+    "name": "stats.plaza_bench_beta_counter",
+    "initial_value": 0.0,
+    "description": "staring into sky counter"
+  },
+  {
+    "id": 5783,
+    "name": "stats.plaza_bench_gamma_counter",
+    "initial_value": 0.0,
+    "description": "deep thoughts counter"
+  },
+  {
+    "id": 5784,
+    "name": "stats.coast_bench_alpha_counter",
+    "initial_value": 0.0,
+    "description": "twiddling thumbs counter"
+  },
+  {
+    "id": 5785,
+    "name": "stats.coast_bench_beta_counter",
+    "initial_value": 0.0,
+    "description": "staring into sky counter"
+  },
+  {
+    "id": 5786,
+    "name": "stats.coast_bench_gamma_counter",
+    "initial_value": 0.0,
+    "description": "deep thoughts counter"
+  }
+]

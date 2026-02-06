@@ -1,0 +1,29 @@
+<Project>
+  <!--
+    Override MrtCore.PriGen targets that require Visual Studio AppxPackage
+    build tools (Microsoft.Build.Packaging.Pri.Tasks.dll / Microsoft.Build.AppxPackage.dll).
+    These DLLs are only distributed with Visual Studio and are not available in standalone .NET SDK.
+    Since we are building an unpackaged WinUI 3 app, we don't need PRI/MSIX tooling.
+  -->
+  <Target Name="_GetSdkToolsPathsFromSdk" />
+  <Target Name="_GeneratePrisForPortableLibraries" />
+  <Target Name="_GetPriFilesFromPayload" />
+  <Target Name="_ComputeInputPriFiles" />
+  <Target Name="_GenerateProjectPriConfigurationFiles" />
+  <Target Name="_GenerateProjectPriFileCore" />
+  <Target Name="_GenerateProjectPriFile" />
+  <Target Name="_ExpandProjectPriFile" />
+  <Target Name="AddPriPayloadFilesToCopyToOutputDirectoryItems" />
+  <Target Name="_ExpandPriFiles" />
+  <Target Name="GetMrtPackagingOutputs" />
+  <Target Name="CopyLocalFilesOutputGroup" Returns="@(CopyLocalFilesOutputGroupOutput)" />
+  <Target Name="_GetDefaultResourceLanguage" />
+  <Target Name="_GetPackageArchitecture" />
+  <Target Name="_GetProjectArchitecture" />
+  <Target Name="_GetRecursiveProjectArchitecture" />
+  <Target Name="_ValidateConfiguration" />
+  <Target Name="GetOptionalProjectOutputs" />
+  <Target Name="GetCopyToOutputDirectoryItemsOutputGroup" />
+  <Target Name="ComFilesOutputGroup" />
+  <Target Name="OptionalProjectsOutputGroup" />
+</Project>

@@ -1,0 +1,6788 @@
+[
+  {
+    "id": 5787,
+    "name": "TASK.attend_secret_meeting",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5788,
+    "name": "TASK.find_out_about_stebans_meeting",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5789,
+    "name": "TASK.talk_to_the_manager",
+    "initial_value": "False",
+    "description": "Talk to the manager who runs the Whirling-in-Rags. Let him know the police are here and ask him for directions."
+  },
+  {
+    "id": 5790,
+    "name": "TASK.ask_money_from_station",
+    "initial_value": "False",
+    "description": "you should ask for money from station, Kim said"
+  },
+  {
+    "id": 5791,
+    "name": "TASK.find_smokes",
+    "initial_value": "False",
+    "description": "So bad ass... find smokes and smoke them."
+  },
+  {
+    "id": 5792,
+    "name": "TASK.report_badge",
+    "initial_value": "False",
+    "description": "you should report your lost gun and bag, kim said"
+  },
+  {
+    "id": 5793,
+    "name": "TASK.get_a_drink",
+    "initial_value": "False",
+    "description": "get a god damn drink"
+  },
+  {
+    "id": 5794,
+    "name": "TASK.find_song",
+    "initial_value": "False",
+    "description": "Find the right song to sing for Karaoke. It's the same as the church song, but you don't know it yet."
+  },
+  {
+    "id": 5795,
+    "name": "TASK.find_working_class_husband",
+    "initial_value": "False",
+    "description": "find working class woman's drunk husband"
+  },
+  {
+    "id": 5796,
+    "name": "TASK.open_trash_container",
+    "initial_value": "False",
+    "description": "There's a closed trash container in the yard behind the Whirling-in-Rags. Ask Garte for the key -- or get a prybar from lieutenant Kitsuragi's motor carriage, then use it on the padlock."
+  },
+  {
+    "id": 5797,
+    "name": "TASK.is_oddfoot_one_of_the_drivers",
+    "initial_value": "False",
+    "description": "At the traffic jam in Martinaise Proper there are four drivers, talk to all of them to see if one of them participated in the lynch mob. Footpring analysis shows one of the assailants could have been a driver."
+  },
+  {
+    "id": 5798,
+    "name": "TASK.find_your_other_shoe",
+    "initial_value": "False",
+    "description": "You threw it out of the window. It's either on the balcony or down on the street"
+  },
+  {
+    "id": 5799,
+    "name": "TASK.inspect_the_dead_body",
+    "initial_value": "False",
+    "description": "The coroners case is hanging from a tree behind the Whirling-in-Rags. Inspect it."
+  },
+  {
+    "id": 5800,
+    "name": "TASK.pay_for_the_damages",
+    "initial_value": "False",
+    "description": "Find \"money\" and give it to Garte if you want to sleep at the Whirling-in-Rags tonight. You owe NUMBER"
+  },
+  {
+    "id": 5801,
+    "name": "TASK.get_the_dead_body_down_from_the_tree",
+    "initial_value": "False",
+    "description": "Somehow make it so it isn't up there any more. Ask for help. Use your imagination. Do something, you're a cop."
+  },
+  {
+    "id": 5802,
+    "name": "TASK.get_a_drink_done",
+    "initial_value": "False",
+    "description": "get a drink task done"
+  },
+  {
+    "id": 5803,
+    "name": "TASK.get_petanquista_new_boule",
+    "initial_value": "False",
+    "description": "You promised to get the pétanquista a new boule"
+  },
+  {
+    "id": 5804,
+    "name": "TASK.get_petanquista_new_boule_done",
+    "initial_value": "False",
+    "description": "You got the petanquista a new boule"
+  },
+  {
+    "id": 5805,
+    "name": "TASK.make_truce_with_Cuno",
+    "initial_value": "False",
+    "description": "You tried to hit Cuno and failed miserably. Now you must make up for that failure."
+  },
+  {
+    "id": 5806,
+    "name": "TASK.make_truce_with_Cuno_done",
+    "initial_value": "False",
+    "description": "You made peace with Cuno after trying to hit him and landing on your ass in the snow and the dirt."
+  },
+  {
+    "id": 5807,
+    "name": "TASK.get_the_dead_body_down_from_the_tree_done",
+    "initial_value": "False",
+    "description": "TASK DONE - You've managed to take the body down."
+  },
+  {
+    "id": 5808,
+    "name": "TASK.ask_money_from_station_done",
+    "initial_value": "False",
+    "description": "You asked money from your station."
+  },
+  {
+    "id": 5809,
+    "name": "TASK.interview_the_sunday_friend",
+    "initial_value": "False",
+    "description": "Interview the smoker on the balcony's friend"
+  },
+  {
+    "id": 5810,
+    "name": "TASK.interview_the_sunday_friend_done",
+    "initial_value": "False",
+    "description": "TASK DONE: You interviewed the smoker on the balcony's friend."
+  },
+  {
+    "id": 5811,
+    "name": "TASK.sylvie_talk_to_garte",
+    "initial_value": "False",
+    "description": "Sylvie asked you to tell Garte she's sorry for the way things turned out."
+  },
+  {
+    "id": 5812,
+    "name": "TASK.ask_kim_about_bulletholes",
+    "initial_value": "False",
+    "description": "you should maybe ask if there's a case in there"
+  },
+  {
+    "id": 5813,
+    "name": "TASK.ask_kim_about_bulletholes_done",
+    "initial_value": "False",
+    "description": "you've asked him and he said no"
+  },
+  {
+    "id": 5814,
+    "name": "TASK.get_ammonium",
+    "initial_value": "False",
+    "description": "get ammonium to be able to try the hanged man endurance check again -- the gardener has ammonium"
+  },
+  {
+    "id": 5815,
+    "name": "TASK.get_ammonium_done",
+    "initial_value": "False",
+    "description": "got ammonium from the gardener"
+  },
+  {
+    "id": 5816,
+    "name": "TASK.inspect_the_dead_body_done",
+    "initial_value": "False",
+    "description": "You kept it in long enough to perform a preliminary inspection of the deceased."
+  },
+  {
+    "id": 5817,
+    "name": "TASK.run_serial_number",
+    "initial_value": "False",
+    "description": "Use the shortwave in lieutenant Kitsuragi's motor-carriage to contact your Station and ask them to run the number on the boot:"
+  },
+  {
+    "id": 5818,
+    "name": "TASK.get_the_boots_off_the_hanged_mans_feet",
+    "initial_value": "False",
+    "description": "Wait till the body is down and the lieuteanant isn't around and there might be some way to get the boots off."
+  },
+  {
+    "id": 5819,
+    "name": "TASK.report_missing_gun_done",
+    "initial_value": "False",
+    "description": "You reported your gun missing."
+  },
+  {
+    "id": 5820,
+    "name": "TASK.find_your_badge",
+    "initial_value": "False",
+    "description": "You need to find your lost police badge."
+  },
+  {
+    "id": 5821,
+    "name": "TASK.find_your_sidearm",
+    "initial_value": "False",
+    "description": "You need to recover your lost service weapon"
+  },
+  {
+    "id": 5822,
+    "name": "TASK.what_is_pale",
+    "initial_value": "False",
+    "description": "Maybe you should find out what the pale is -- it seems important somehow."
+  },
+  {
+    "id": 5823,
+    "name": "TASK.what_is_pale_done",
+    "initial_value": "False",
+    "description": "you found out hwat the pale is"
+  },
+  {
+    "id": 5824,
+    "name": "TASK.ask_for_help_from_the_harbour",
+    "initial_value": "False",
+    "description": "If you can't get the body down yourself, maybe the harbour could help? Go over and ask around."
+  },
+  {
+    "id": 5825,
+    "name": "TASK.add_even_more_beauty_to_the_wall",
+    "initial_value": "False",
+    "description": "find some paint and enhance the wall's beauty even further"
+  },
+  {
+    "id": 5826,
+    "name": "TASK.add_even_more_beauty_to_the_wall_done",
+    "initial_value": "False",
+    "description": "you've added your own shit to the wall"
+  },
+  {
+    "id": 5827,
+    "name": "TASK.where_does_the_smoker_on_the_balcony_live",
+    "initial_value": "False",
+    "description": "find out where he lives"
+  },
+  {
+    "id": 5828,
+    "name": "TASK.minister_love_reporting_for_duty",
+    "initial_value": "False",
+    "description": "One cannot sit idly by when two hearts long for each other - enter minister Love."
+  },
+  {
+    "id": 5829,
+    "name": "TASK.find_your_paperwork",
+    "initial_value": "False",
+    "description": "You should try to find your paperwork"
+  },
+  {
+    "id": 5830,
+    "name": "TASK.get_primer_book",
+    "initial_value": "False",
+    "description": "You should buy a primer-book to familiarize yourself with some of the more basic concepts in life"
+  },
+  {
+    "id": 5831,
+    "name": "TASK.open_trash_container_done",
+    "initial_value": "False",
+    "description": "youve finished the open trash container quest"
+  },
+  {
+    "id": 5832,
+    "name": "TASK.ask_for_help_from_the_harbour_done",
+    "initial_value": "False",
+    "description": "you asked for help from the harbour"
+  },
+  {
+    "id": 5833,
+    "name": "TASK.perform_field_autopsy",
+    "initial_value": "False",
+    "description": "return to the victim and perform a closer inspection of his body, arriving at cause of death"
+  },
+  {
+    "id": 5834,
+    "name": "TASK.perform_field_autopsy_done",
+    "initial_value": "False",
+    "description": "finished the autopsy"
+  },
+  {
+    "id": 5835,
+    "name": "TASK.interview_union_boss",
+    "initial_value": "False",
+    "description": "seek an audience with the local Debardeur's Union leader, Evrard Claire and ask him about the murder in his District"
+  },
+  {
+    "id": 5836,
+    "name": "TASK.interview_union_boss_done",
+    "initial_value": "False",
+    "description": "had an udience with Evrard and asked him some questions"
+  },
+  {
+    "id": 5837,
+    "name": "TASK.interview_wild_pines_rep",
+    "initial_value": "False",
+    "description": "find the representative of the logistics company who owns the harbour, and ask her about the murder"
+  },
+  {
+    "id": 5838,
+    "name": "TASK.interview_wild_pines_rep_done",
+    "initial_value": "False",
+    "description": "interviewed Joyce and he told you about the lunching and the situation"
+  },
+  {
+    "id": 5839,
+    "name": "TASK.run_serial_number_done",
+    "initial_value": "False",
+    "description": "youve accomplished it and know the dude was Crenel"
+  },
+  {
+    "id": 5840,
+    "name": "TASK.find_smokes_done",
+    "initial_value": "False",
+    "description": "you've got yer damned cigarette"
+  },
+  {
+    "id": 5841,
+    "name": "TASK.is_oddfoot_one_of_the_drivers_done",
+    "initial_value": "False",
+    "description": "You've interviewed all the drivers to whatever necessary effect"
+  },
+  {
+    "id": 5842,
+    "name": "TASK.talk_to_the_manager_done",
+    "initial_value": "False",
+    "description": "You've talked to the Manager! Well done."
+  },
+  {
+    "id": 5843,
+    "name": "TASK.find_your_other_shoe_done",
+    "initial_value": "False",
+    "description": "You've found your other shoe."
+  },
+  {
+    "id": 5844,
+    "name": "TASK.call_station_lazareth",
+    "initial_value": "False",
+    "description": "You might have health issues, call the lazareth"
+  },
+  {
+    "id": 5845,
+    "name": "TASK.doomed_investigation",
+    "initial_value": "False",
+    "description": "search through the doomed commercial area and report to Plaisance of your findings"
+  },
+  {
+    "id": 5846,
+    "name": "TASK.doomed_investigation_done",
+    "initial_value": "False",
+    "description": "you've seen and heard (most) everything important in the doomed commercial area, with shivers ending"
+  },
+  {
+    "id": 5847,
+    "name": "TASK.get_gloves",
+    "initial_value": "False",
+    "description": "get gloves from the gardener for the autopsy"
+  },
+  {
+    "id": 5848,
+    "name": "TASK.get_gloves_done",
+    "initial_value": "False",
+    "description": "get gloves from the gardener for the autopsy - done"
+  },
+  {
+    "id": 5849,
+    "name": "TASK.find_your_paperwork_done",
+    "initial_value": "False",
+    "description": "youve found it and talked to it in your inventory"
+  },
+  {
+    "id": 5850,
+    "name": "TASK.find_working_class_husband_done",
+    "initial_value": "False",
+    "description": "You find him, hooray! It might be a very tragic outcome, though"
+  },
+  {
+    "id": 5851,
+    "name": "TASK.where_does_the_smoker_on_the_balcony_live_done",
+    "initial_value": "False",
+    "description": "you found out where he lives"
+  },
+  {
+    "id": 5852,
+    "name": "TASK.call_station_lazareth_done",
+    "initial_value": "False",
+    "description": "Called the lazareth."
+  },
+  {
+    "id": 5853,
+    "name": "TASK.pay_for_the_damages_done",
+    "initial_value": "False",
+    "description": "You got some sweet cash to give Garte!"
+  },
+  {
+    "id": 5854,
+    "name": "TASK.find_out_whos_in_the_union_box",
+    "initial_value": "False",
+    "description": "Find out who's in the Union box"
+  },
+  {
+    "id": 5855,
+    "name": "TASK.find_out_whos_in_the_union_box_done",
+    "initial_value": "False",
+    "description": "Found out who hangs out in the union box"
+  },
+  {
+    "id": 5856,
+    "name": "TASK.interrogate_klaasje",
+    "initial_value": "False",
+    "description": "Klaasje knows something more. Time for questions."
+  },
+  {
+    "id": 5857,
+    "name": "TASK.interrogate_klaasje_done",
+    "initial_value": "False",
+    "description": "You managed to get what you needed from Klaasje."
+  },
+  {
+    "id": 5858,
+    "name": "TASK.locate_ruby_on_the_coast",
+    "initial_value": "False",
+    "description": "Find the Instigator on the coast, wherever she is hiding"
+  },
+  {
+    "id": 5859,
+    "name": "TASK.locate_ruby_on_the_coast_done",
+    "initial_value": "False",
+    "description": "You have succeeded in your task. Instigator caught (or dead.)"
+  },
+  {
+    "id": 5860,
+    "name": "TASK.return_to_whirling",
+    "initial_value": "False",
+    "description": "Go back to Whirling, for reason, after the Instigator debacle."
+  },
+  {
+    "id": 5861,
+    "name": "TASK.return_to_whirling_done",
+    "initial_value": "False",
+    "description": "You have returned to Whirling, but shit's going down."
+  },
+  {
+    "id": 5862,
+    "name": "TASK.report_to_the_tribunal",
+    "initial_value": "False",
+    "description": "Uh-oh, mercenary tribunal is here. Shit's getting serious."
+  },
+  {
+    "id": 5863,
+    "name": "TASK.report_to_the_tribunal_done",
+    "initial_value": "False",
+    "description": "Shit got real. The end result was... rough."
+  },
+  {
+    "id": 5864,
+    "name": "TASK.investigate_sea_fortress",
+    "initial_value": "False",
+    "description": "Go to the sea fortress for endgame reasons."
+  },
+  {
+    "id": 5865,
+    "name": "TASK.investigate_sea_fortress_done",
+    "initial_value": "False",
+    "description": "Here you are, in the fortress. Finality."
+  },
+  {
+    "id": 5866,
+    "name": "TASK.sylvie_talk_to_garte_done",
+    "initial_value": "False",
+    "description": "Task complete. You've done the necessary talkings."
+  },
+  {
+    "id": 5867,
+    "name": "TASK.report_badge_done",
+    "initial_value": "False",
+    "description": "You reported your badge missing."
+  },
+  {
+    "id": 5868,
+    "name": "TASK.find_your_badge_done",
+    "initial_value": "False",
+    "description": "You found your badge. Barely."
+  },
+  {
+    "id": 5869,
+    "name": "TASK.find_your_sidearm_done",
+    "initial_value": "False",
+    "description": "Task complete. You found your sidearm."
+  },
+  {
+    "id": 5870,
+    "name": "TASK.minister_love_reporting_for_duty_done",
+    "initial_value": "False",
+    "description": "Garte and Sylvie nonsense settled."
+  },
+  {
+    "id": 5871,
+    "name": "TASK.get_primer_book_done",
+    "initial_value": "False",
+    "description": "A primer book probably didn't help, because this idea is dumb."
+  },
+  {
+    "id": 5872,
+    "name": "TASK.report_missing_gun",
+    "initial_value": "False",
+    "description": "Gotta report your missing sidearm to the Precinct"
+  },
+  {
+    "id": 5873,
+    "name": "TASK.find_song_done",
+    "initial_value": "False",
+    "description": "You sang the sad-small church song as karaoke? Your task is complete."
+  },
+  {
+    "id": 5874,
+    "name": "TASK.find_song_name",
+    "initial_value": "False",
+    "description": "You gotta figure out the name of the sad song."
+  },
+  {
+    "id": 5875,
+    "name": "TASK.find_song_name_done",
+    "initial_value": "False",
+    "description": "You identified a sad, tragic song -- *Smallest Church in Saint-Saëns*."
+  },
+  {
+    "id": 5876,
+    "name": "TASK.who_put_the_clothes_in_the_trash",
+    "initial_value": "False",
+    "description": "the ones int the container -- this quest is now on"
+  },
+  {
+    "id": 5877,
+    "name": "TASK.who_put_the_clothes_in_the_trash_done",
+    "initial_value": "False",
+    "description": "you found out gary the cryptofascist did when he got the cuirass off the hanged man on tuesday"
+  },
+  {
+    "id": 5878,
+    "name": "TASK.style_your_paperwork",
+    "initial_value": "False",
+    "description": "quest started"
+  },
+  {
+    "id": 5879,
+    "name": "TASK.style_your_paperwork_done",
+    "initial_value": "False",
+    "description": "finisht he fucking quest what is there to say"
+  },
+  {
+    "id": 5880,
+    "name": "TASK.read_the_watermark",
+    "initial_value": "False",
+    "description": "halogen watermarks in your journal. what are?"
+  },
+  {
+    "id": 5881,
+    "name": "TASK.read_the_watermark_done",
+    "initial_value": "False",
+    "description": "halogen watermarks read in front of kineema. much background info and stats"
+  },
+  {
+    "id": 5882,
+    "name": "TASK.open_official_case",
+    "initial_value": "False",
+    "description": "time to get this case started for realz. found in trash container dialogue"
+  },
+  {
+    "id": 5883,
+    "name": "TASK.open_official_case_done",
+    "initial_value": "False",
+    "description": "task done. started-named this case. officially"
+  },
+  {
+    "id": 5884,
+    "name": "TASK.cut_the_belt",
+    "initial_value": "False",
+    "description": "cut the belt!"
+  },
+  {
+    "id": 5885,
+    "name": "TASK.cut_the_belt_done",
+    "initial_value": "False",
+    "description": "you cut the belt!"
+  },
+  {
+    "id": 5886,
+    "name": "TASK.secret",
+    "initial_value": "False",
+    "description": "Keep this one false!"
+  },
+  {
+    "id": 5887,
+    "name": "TASK.wash_the_death_off_done",
+    "initial_value": "False",
+    "description": "took a bath. no more disgusting death smell"
+  },
+  {
+    "id": 5888,
+    "name": "TASK.wash_the_death_off",
+    "initial_value": "False",
+    "description": "wash the death off"
+  },
+  {
+    "id": 5889,
+    "name": "TASK.locate_a_fridge",
+    "initial_value": "False",
+    "description": "where is fridge to put hanged man body in? ask around"
+  },
+  {
+    "id": 5890,
+    "name": "TASK.locate_a_fridge_done",
+    "initial_value": "False",
+    "description": "did it. fridge found. good boy. someone told you where the fridge is."
+  },
+  {
+    "id": 5891,
+    "name": "TASK.help_revachol_ice_city_cut_losses",
+    "initial_value": "False",
+    "description": "plug out the fridges"
+  },
+  {
+    "id": 5892,
+    "name": "TASK.help_revachol_ice_city_cut_losses_done",
+    "initial_value": "False",
+    "description": "you plugged out the fridges"
+  },
+  {
+    "id": 5893,
+    "name": "TASK.debrief_with_kim_day_one",
+    "initial_value": "False",
+    "description": "gotta debrief with Kim, go to balcony."
+  },
+  {
+    "id": 5894,
+    "name": "TASK.debrief_with_kim_day_one_done",
+    "initial_value": "False",
+    "description": "debriefing done"
+  },
+  {
+    "id": 5895,
+    "name": "TASK.locate_morell",
+    "initial_value": "False",
+    "description": "You promised Lena to find her husband."
+  },
+  {
+    "id": 5896,
+    "name": "TASK.locate_morell_done",
+    "initial_value": "False",
+    "description": "You found Morell. He's on the coast, setting traps."
+  },
+  {
+    "id": 5897,
+    "name": "TASK.inspect_traps",
+    "initial_value": "False",
+    "description": "Morell asked if you could help out inspecting the traps in the reeds"
+  },
+  {
+    "id": 5898,
+    "name": "TASK.inspect_traps_done",
+    "initial_value": "False",
+    "description": "you've inspected all three traps for great results"
+  },
+  {
+    "id": 5899,
+    "name": "TASK.find_phasmid",
+    "initial_value": "False",
+    "description": "Morell wants you to find the insulindian phasmid, hard."
+  },
+  {
+    "id": 5900,
+    "name": "TASK.find_phasmid_done",
+    "initial_value": "False",
+    "description": "You found the insulindian phasmid. What a stroke of luck."
+  },
+  {
+    "id": 5901,
+    "name": "TASK.get_reality_lowdown",
+    "initial_value": "False",
+    "description": "Lena gave you a task to learn more about reality"
+  },
+  {
+    "id": 5902,
+    "name": "TASK.apprehend_reckless_driver",
+    "initial_value": "False",
+    "description": "find that reckless menace to traffic"
+  },
+  {
+    "id": 5903,
+    "name": "TASK.apprehend_reckless_driver_done",
+    "initial_value": "False",
+    "description": "reckless menace found. what a twist"
+  },
+  {
+    "id": 5904,
+    "name": "TASK.meet_lilienne_for_a_date",
+    "initial_value": "False",
+    "description": "Meet Lilienne the netpicker at Land's End to have your chat."
+  },
+  {
+    "id": 5905,
+    "name": "TASK.meet_lilienne_for_a_date_done",
+    "initial_value": "False",
+    "description": "You met her at Land's End and talked about the Setting Sun."
+  },
+  {
+    "id": 5906,
+    "name": "TASK.what_does_joyce",
+    "initial_value": "False",
+    "description": "what does joyce know of the lynching"
+  },
+  {
+    "id": 5907,
+    "name": "TASK.what_does_joyce_done",
+    "initial_value": "False",
+    "description": "she probably knows a whole lot. so many things"
+  },
+  {
+    "id": 5908,
+    "name": "TASK.probe_drivers_about_drugs",
+    "initial_value": "False",
+    "description": "joyce task: probe drivers about the drugsmuggling"
+  },
+  {
+    "id": 5909,
+    "name": "TASK.probe_drivers_about_drugs_done",
+    "initial_value": "False",
+    "description": "the large main task of jam mystery with a bunch of subtasks"
+  },
+  {
+    "id": 5910,
+    "name": "TASK.ask_about_tattoo",
+    "initial_value": "False",
+    "description": "inquire about merc tattoo"
+  },
+  {
+    "id": 5911,
+    "name": "TASK.ask_about_tattoo_done",
+    "initial_value": "False",
+    "description": "asked Klaasje (i think) about the tattoo"
+  },
+  {
+    "id": 5912,
+    "name": "TASK.decipher_tattoo",
+    "initial_value": "False",
+    "description": "what does the tattoo mean"
+  },
+  {
+    "id": 5913,
+    "name": "TASK.decipher_tattoo_done",
+    "initial_value": "False",
+    "description": "so much informationa about the tattoo"
+  },
+  {
+    "id": 5914,
+    "name": "TASK.open_gary_door",
+    "initial_value": "False",
+    "description": "Evrart requested you to go and open Gary's door to intimidate him."
+  },
+  {
+    "id": 5915,
+    "name": "TASK.open_gary_door_done",
+    "initial_value": "False",
+    "description": "You went and opened Gary's door as requested."
+  },
+  {
+    "id": 5916,
+    "name": "TASK.deliver_mail_to_fishing_village",
+    "initial_value": "False",
+    "description": "Evrart asked you to deliver a letter to the fishing village"
+  },
+  {
+    "id": 5917,
+    "name": "TASK.deliver_mail_to_fishing_village_done",
+    "initial_value": "False",
+    "description": "You delivered Evrart's message to the fishing village"
+  },
+  {
+    "id": 5918,
+    "name": "TASK.confront_the_pigs",
+    "initial_value": "False",
+    "description": "Evrart sent you off to confront the pigs and get your gun baqck"
+  },
+  {
+    "id": 5919,
+    "name": "TASK.confront_the_pigs_done",
+    "initial_value": "False",
+    "description": "You have confronted The Pigs"
+  },
+  {
+    "id": 5920,
+    "name": "TASK.inspect_traps_2",
+    "initial_value": "False",
+    "description": "You've agreed to check the traps once more."
+  },
+  {
+    "id": 5921,
+    "name": "TASK.inspect_traps_2_done",
+    "initial_value": "False",
+    "description": "You've checked all the traps a second time."
+  },
+  {
+    "id": 5922,
+    "name": "TASK.get_reality_lowdown_done",
+    "initial_value": "False",
+    "description": "reality lowdowned. so hard."
+  },
+  {
+    "id": 5923,
+    "name": "TASK.discovery_of_insulinde",
+    "initial_value": "False",
+    "description": "the lore and history"
+  },
+  {
+    "id": 5924,
+    "name": "TASK.discovery_of_insulinde_done",
+    "initial_value": "False",
+    "description": "discovery of insulinde"
+  },
+  {
+    "id": 5925,
+    "name": "TASK.send_corpse_to_processing",
+    "initial_value": "False",
+    "description": "send the corpse to processing"
+  },
+  {
+    "id": 5926,
+    "name": "TASK.send_corpse_to_processing_done",
+    "initial_value": "False",
+    "description": "the corpse has been sent to processing, boii"
+  },
+  {
+    "id": 5927,
+    "name": "TASK.get_speed",
+    "initial_value": "False",
+    "description": "find some speed. find it. gotta have speed"
+  },
+  {
+    "id": 5928,
+    "name": "TASK.get_speed_done",
+    "initial_value": "False",
+    "description": "got speed. you're like sonic the chog now"
+  },
+  {
+    "id": 5929,
+    "name": "TASK.who_was_caller",
+    "initial_value": "False",
+    "description": "who called and reported hanged man"
+  },
+  {
+    "id": 5930,
+    "name": "TASK.who_was_caller_done",
+    "initial_value": "False",
+    "description": "found out the caller. detective ahoy!"
+  },
+  {
+    "id": 5931,
+    "name": "TASK.sing_karaoke",
+    "initial_value": "False",
+    "description": "sing karaoke!"
+  },
+  {
+    "id": 5932,
+    "name": "TASK.sing_karaoke_done",
+    "initial_value": "False",
+    "description": "sing that sad song. sing it you goddamn failure of a superstar"
+  },
+  {
+    "id": 5933,
+    "name": "TASK.get_pie_from_gary",
+    "initial_value": "False",
+    "description": "Ask Gary for topping-pie back in the city."
+  },
+  {
+    "id": 5934,
+    "name": "TASK.report_to_cryptozoologists_1",
+    "initial_value": "False",
+    "description": "You need to tell Morell about one trap being empty."
+  },
+  {
+    "id": 5935,
+    "name": "TASK.report_to_cryptozoologists_1_done",
+    "initial_value": "False",
+    "description": "You've told Morell that one trap was empty."
+  },
+  {
+    "id": 5936,
+    "name": "TASK.report_to_cryptozoologists_2",
+    "initial_value": "False",
+    "description": "You need to tell Morell about the fate of the locusts."
+  },
+  {
+    "id": 5937,
+    "name": "TASK.report_to_cryptozoologists_2_done",
+    "initial_value": "False",
+    "description": "You've reported to Lena on your second round of the traps."
+  },
+  {
+    "id": 5938,
+    "name": "TASK.pick_up_your_die",
+    "initial_value": "False",
+    "description": "pick up your die from the dicemaker"
+  },
+  {
+    "id": 5939,
+    "name": "TASK.pick_up_your_die_done",
+    "initial_value": "False",
+    "description": "you picked up the die and gave it to someone special, thus completing the whole task"
+  },
+  {
+    "id": 5940,
+    "name": "TASK.ask_kim_about_seolite_database",
+    "initial_value": "False",
+    "description": "Talking to Gary and Inland gives you the idea that the Seolites might have a record of who you are and what you've done."
+  },
+  {
+    "id": 5941,
+    "name": "TASK.hear_what_sunday_night",
+    "initial_value": "False",
+    "description": "what did you do sunday night?"
+  },
+  {
+    "id": 5942,
+    "name": "TASK.hear_what_sunday_night_done",
+    "initial_value": "False",
+    "description": "you were being a drunken fool etc. embarrassing"
+  },
+  {
+    "id": 5943,
+    "name": "TASK.find_out_why_the_trap_was_empty",
+    "initial_value": "False",
+    "description": "You suspect the phasmid didn't take the locusts and want to know who did."
+  },
+  {
+    "id": 5944,
+    "name": "TASK.help_kim_with_money_plan",
+    "initial_value": "False",
+    "description": "Kim wants to figure out a way for you to pay for damages and rent."
+  },
+  {
+    "id": 5945,
+    "name": "TASK.find_out_what_anodic_dance_music_is",
+    "initial_value": "False",
+    "description": "Find out, what is this anodic dance music hou have heard so much about?"
+  },
+  {
+    "id": 5946,
+    "name": "TASK.find_out_what_anodic_dance_music_is_done",
+    "initial_value": "False",
+    "description": "You managed to find out what anodic dance music was"
+  },
+  {
+    "id": 5947,
+    "name": "TASK.pay_whirling_bill",
+    "initial_value": "False",
+    "description": "You need to pay in advance to spend the night at the hostel. Task renews nightly."
+  },
+  {
+    "id": 5948,
+    "name": "TASK.pay_whirling_bill_done",
+    "initial_value": "False",
+    "description": "You've paid your bill and your door will be unlocked."
+  },
+  {
+    "id": 5949,
+    "name": "TASK.help_kim_with_money_plan_done",
+    "initial_value": "False",
+    "description": "You've helped Kim with his pawning plan."
+  },
+  {
+    "id": 5950,
+    "name": "TASK.listen_to_merc_tape",
+    "initial_value": "False",
+    "description": "listen to the doorgunner megamix somehow"
+  },
+  {
+    "id": 5951,
+    "name": "TASK.listen_to_merc_tape_done",
+    "initial_value": "False",
+    "description": "task done, you listened to it. very doorgunner, so tuff and grim and edgy"
+  },
+  {
+    "id": 5952,
+    "name": "TASK.find_egg_beat",
+    "initial_value": "False",
+    "description": "egg head needs help with bass beat"
+  },
+  {
+    "id": 5953,
+    "name": "TASK.find_egg_beat_done",
+    "initial_value": "False",
+    "description": "found that beat for egghead"
+  },
+  {
+    "id": 5954,
+    "name": "TASK.establish_church_dance_club",
+    "initial_value": "False",
+    "description": "help establish the dance club in the church for ravers"
+  },
+  {
+    "id": 5955,
+    "name": "TASK.establish_church_dance_club_done",
+    "initial_value": "False",
+    "description": "you've helped the ravers move in, one way or another"
+  },
+  {
+    "id": 5956,
+    "name": "TASK.look_into_church_spooks",
+    "initial_value": "False",
+    "description": "andre wants you to investigate the spooky shit at the church"
+  },
+  {
+    "id": 5957,
+    "name": "TASK.look_into_church_spooks_done",
+    "initial_value": "False",
+    "description": "spooky people at the church met and so forth"
+  },
+  {
+    "id": 5958,
+    "name": "TASK.question_klaasje_victim",
+    "initial_value": "False",
+    "description": "klaasje does not want to talk about lely right now"
+  },
+  {
+    "id": 5959,
+    "name": "TASK.question_klaasje_victim_done",
+    "initial_value": "False",
+    "description": "went through the lelyhub"
+  },
+  {
+    "id": 5960,
+    "name": "TASK.talk_to_klaasje_tape",
+    "initial_value": "False",
+    "description": "talk about the doorgunner megamix"
+  },
+  {
+    "id": 5961,
+    "name": "TASK.talk_to_klaasje_tape_done",
+    "initial_value": "False",
+    "description": "talked to klaasje about the doorgunning megamixing"
+  },
+  {
+    "id": 5962,
+    "name": "TASK.confront_klaasje_with_full_story",
+    "initial_value": "False",
+    "description": "Now that you know the Hardie boys side of the story go confront Klaasje with it."
+  },
+  {
+    "id": 5963,
+    "name": "TASK.confront_klaasje_with_full_story_done",
+    "initial_value": "False",
+    "description": "You did confront Klaasje with Hardie boys truth"
+  },
+  {
+    "id": 5964,
+    "name": "TASK.sync_the_sines",
+    "initial_value": "False",
+    "description": "Noid requires sine syncing (it just means get him inside the damn church)"
+  },
+  {
+    "id": 5965,
+    "name": "TASK.sync_the_sines_done",
+    "initial_value": "False",
+    "description": "Noid and other ravers inside church."
+  },
+  {
+    "id": 5966,
+    "name": "TASK.sync_sines_further",
+    "initial_value": "False",
+    "description": "things are good, but you could sync the sines even further"
+  },
+  {
+    "id": 5967,
+    "name": "TASK.sync_sines_further_done",
+    "initial_value": "False",
+    "description": "church architecture end result syncs things to level gamma"
+  },
+  {
+    "id": 5968,
+    "name": "TASK.ballistics_analysis",
+    "initial_value": "False",
+    "description": "Kim has asked you to analyze the bullet."
+  },
+  {
+    "id": 5969,
+    "name": "TASK.ballistics_analysis_done",
+    "initial_value": "False",
+    "description": "You have analyzed the bullet."
+  },
+  {
+    "id": 5970,
+    "name": "TASK.find_out_if_whirling_part_of_doomed",
+    "initial_value": "False",
+    "description": "Find out if the Whirling is part of the Doomed Commercial Area."
+  },
+  {
+    "id": 5971,
+    "name": "TASK.find_out_if_whirling_part_of_doomed_done",
+    "initial_value": "False",
+    "description": "You got Garte to confirm that the Whirling is part of Doomed."
+  },
+  {
+    "id": 5972,
+    "name": "TASK.where_is_ruby",
+    "initial_value": "False",
+    "description": "where is ruby?"
+  },
+  {
+    "id": 5973,
+    "name": "TASK.where_is_ruby_done",
+    "initial_value": "False",
+    "description": "where is she? she's somewheeeeeerrrre"
+  },
+  {
+    "id": 5974,
+    "name": "TASK.investigate_mysterious_door",
+    "initial_value": "False",
+    "description": "You really want to find out what's behind the steel back door."
+  },
+  {
+    "id": 5975,
+    "name": "TASK.investigate_mysterious_door_done",
+    "initial_value": "False",
+    "description": "You've gone all the way from the kitchen to the roof."
+  },
+  {
+    "id": 5976,
+    "name": "TASK.find_out_whats_happening_with_the_special_brew_strikers_are_eating",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 5977,
+    "name": "TASK.inspect_the_buoy",
+    "initial_value": "False",
+    "description": "klaasje's buoy thing on the coast"
+  },
+  {
+    "id": 5978,
+    "name": "TASK.inspect_the_buoy_done",
+    "initial_value": "False",
+    "description": "done inspecting. turns out its really nothing"
+  },
+  {
+    "id": 5979,
+    "name": "TASK.egg_head_puzzle",
+    "initial_value": "False",
+    "description": "solve the egg head greeting puzzle!"
+  },
+  {
+    "id": 5980,
+    "name": "TASK.egg_head_puzzle_done",
+    "initial_value": "False",
+    "description": "you did it. egg head intro done well"
+  },
+  {
+    "id": 5981,
+    "name": "TASK.talk_to_cafeteria_manager_about_damages",
+    "initial_value": "False",
+    "description": "Kim gives you the task to talk to Garte about the money you owe."
+  },
+  {
+    "id": 5982,
+    "name": "TASK.talk_to_cafeteria_manager_about_damages_done",
+    "initial_value": "False",
+    "description": "You tried to get out of your damages bill for the night."
+  },
+  {
+    "id": 5983,
+    "name": "TASK.find_egg_melody",
+    "initial_value": "False",
+    "description": "egg head needs help with the melody line"
+  },
+  {
+    "id": 5984,
+    "name": "TASK.find_egg_melody_done",
+    "initial_value": "False",
+    "description": "found that melody reel for egg head"
+  },
+  {
+    "id": 5985,
+    "name": "TASK.egg_repair_tape",
+    "initial_value": "False",
+    "description": "you found the magnetic tape in the tree. it's broken"
+  },
+  {
+    "id": 5986,
+    "name": "TASK.egg_repair_tape_done",
+    "initial_value": "False",
+    "description": "done. magnetic tape all spooled up and ready to rock"
+  },
+  {
+    "id": 5987,
+    "name": "TASK.confront_hardie_about_drug_trade",
+    "initial_value": "False",
+    "description": "oddfoot at lynching, oddfoot at drug trade, hardie boys connected"
+  },
+  {
+    "id": 5988,
+    "name": "TASK.confront_hardie_about_drug_trade_done",
+    "initial_value": "False",
+    "description": "confronted hardies boys about your findings"
+  },
+  {
+    "id": 5989,
+    "name": "TASK.boil_the_boots",
+    "initial_value": "False",
+    "description": "You have to get the corpse residue out of the boots somehow."
+  },
+  {
+    "id": 5990,
+    "name": "TASK.boil_the_boots_done",
+    "initial_value": "False",
+    "description": "You've boiled those fancy sabatons."
+  },
+  {
+    "id": 5991,
+    "name": "TASK.get_the_boots_off_the_hanged_mans_feet_done",
+    "initial_value": "False",
+    "description": "You got the boots."
+  },
+  {
+    "id": 5992,
+    "name": "TASK.run_serial_number_personal_info",
+    "initial_value": "False",
+    "description": "You need to call Aliiz again to see if she got any personal information about the owner of the armour."
+  },
+  {
+    "id": 5993,
+    "name": "TASK.run_serial_number_personal_info_done",
+    "initial_value": "False",
+    "description": "You've learned all you could from the ICP via Aliiz."
+  },
+  {
+    "id": 5994,
+    "name": "TASK.klaasjes_real_name",
+    "initial_value": "False",
+    "description": "what is Klaasje's actual full name"
+  },
+  {
+    "id": 5995,
+    "name": "TASK.klaasjes_real_name_done",
+    "initial_value": "False",
+    "description": "Secret Task: find out Klaasje's real full name"
+  },
+  {
+    "id": 5996,
+    "name": "TASK.learn_about_acele_associates",
+    "initial_value": "False",
+    "description": "Ya want to learn about Acele and the other folx."
+  },
+  {
+    "id": 5997,
+    "name": "TASK.learn_about_acele_associates_done",
+    "initial_value": "False",
+    "description": "She be talkin' now about the folx everywhere."
+  },
+  {
+    "id": 5998,
+    "name": "TASK.tell_morell_lena_is_worried",
+    "initial_value": "False",
+    "description": "Lena asked you to tell Morell she's worried about him, and to get back."
+  },
+  {
+    "id": 5999,
+    "name": "TASK.tell_morell_lena_is_worried_done",
+    "initial_value": "False",
+    "description": "You've told Morell Lena is worried and wants him back."
+  },
+  {
+    "id": 6000,
+    "name": "TASK.find_out_why_the_trap_was_empty_done",
+    "initial_value": "False",
+    "description": "You've learned that Cuno took the locusts and reported it to Morell."
+  },
+  {
+    "id": 6001,
+    "name": "TASK.restock_trap",
+    "initial_value": "False",
+    "description": "You promised to put fresh locusts in the empty trap."
+  },
+  {
+    "id": 6002,
+    "name": "TASK.restock_trap_done",
+    "initial_value": "False",
+    "description": "You've restocked the empty trap."
+  },
+  {
+    "id": 6003,
+    "name": "TASK.get_pie_from_gary_done",
+    "initial_value": "False",
+    "description": "You've gotten your topping pie from Gary."
+  },
+  {
+    "id": 6004,
+    "name": "TASK.bring_off_site_copy_to_soona",
+    "initial_value": "False",
+    "description": "bring her the offsite copy from the doomed commercial area"
+  },
+  {
+    "id": 6005,
+    "name": "TASK.bring_off_site_copy_to_soona_done",
+    "initial_value": "False",
+    "description": "you handed over the offsite copy"
+  },
+  {
+    "id": 6006,
+    "name": "TASK.buy_a_map_of_martinaise",
+    "initial_value": "False",
+    "description": "have to acquire that map of martinaise"
+  },
+  {
+    "id": 6007,
+    "name": "TASK.buy_a_map_of_martinaise_done",
+    "initial_value": "False",
+    "description": "you got it. bought or stolen!"
+  },
+  {
+    "id": 6008,
+    "name": "TASK.check_lands_end_done",
+    "initial_value": "False",
+    "description": "lands end done"
+  },
+  {
+    "id": 6009,
+    "name": "TASK.check_boardwalk",
+    "initial_value": "False",
+    "description": "check boardwalk for shot"
+  },
+  {
+    "id": 6010,
+    "name": "TASK.check_boardwalk_done",
+    "initial_value": "False",
+    "description": "boardwalk done"
+  },
+  {
+    "id": 6011,
+    "name": "TASK.check_seafort",
+    "initial_value": "False",
+    "description": "check seafort for shot"
+  },
+  {
+    "id": 6012,
+    "name": "TASK.check_seafort_done",
+    "initial_value": "False",
+    "description": "seafort done"
+  },
+  {
+    "id": 6013,
+    "name": "TASK.check_lands_end",
+    "initial_value": "False",
+    "description": "check lands end for shot"
+  },
+  {
+    "id": 6014,
+    "name": "TASK.kim_pilot_hat",
+    "initial_value": "False",
+    "description": "get him to wear the dumb pilot hat"
+  },
+  {
+    "id": 6015,
+    "name": "TASK.kim_pilot_hat_done",
+    "initial_value": "False",
+    "description": "task done somehow eventually"
+  },
+  {
+    "id": 6016,
+    "name": "TASK.arrest_klaasje",
+    "initial_value": "False",
+    "description": "arrest klaasje"
+  },
+  {
+    "id": 6017,
+    "name": "TASK.arrest_klaasje_done",
+    "initial_value": "False",
+    "description": "you done it, arrested klaasje"
+  },
+  {
+    "id": 6018,
+    "name": "TASK.get_into_feld_building",
+    "initial_value": "False",
+    "description": "You get it upon completing the FELD Mural Shivers white check."
+  },
+  {
+    "id": 6019,
+    "name": "TASK.solve_the_strike_deadlock",
+    "initial_value": "False",
+    "description": "the strike deadlock"
+  },
+  {
+    "id": 6020,
+    "name": "TASK.solve_the_strike_deadlock_done",
+    "initial_value": "False",
+    "description": "its has been solved, as in joyce leaves and shit probably hits the fan"
+  },
+  {
+    "id": 6021,
+    "name": "TASK.la_puta_madres_peone",
+    "initial_value": "False",
+    "description": "are you la puta madres peone? does anyone know"
+  },
+  {
+    "id": 6022,
+    "name": "TASK.la_puta_madres_peone_done",
+    "initial_value": "False",
+    "description": "task finished somewhere. the answer is in thetext"
+  },
+  {
+    "id": 6023,
+    "name": "TASK.move_the_waterbowls",
+    "initial_value": "False",
+    "description": "move the waterbowls in the church"
+  },
+  {
+    "id": 6024,
+    "name": "TASK.move_the_waterbowls_done",
+    "initial_value": "False",
+    "description": "you moved the waterbowls in the church"
+  },
+  {
+    "id": 6025,
+    "name": "TASK.light_graffito_on_fire",
+    "initial_value": "False",
+    "description": "smoke and fire. light the graffito. it is very flammable"
+  },
+  {
+    "id": 6026,
+    "name": "TASK.light_graffito_on_fire_done",
+    "initial_value": "False",
+    "description": "you did it. both task/secret task, depending. very nice."
+  },
+  {
+    "id": 6027,
+    "name": "TASK.ask_twins_about_island",
+    "initial_value": "False",
+    "description": "liliennes twins know something"
+  },
+  {
+    "id": 6028,
+    "name": "TASK.ask_twins_about_island_done",
+    "initial_value": "False",
+    "description": "ya done asked the twins about the island. they barely knew anything"
+  },
+  {
+    "id": 6029,
+    "name": "TASK.fuel_the_generator",
+    "initial_value": "False",
+    "description": "fuel the generator on the island"
+  },
+  {
+    "id": 6030,
+    "name": "TASK.fuel_the_generator_done",
+    "initial_value": "False",
+    "description": "well done with this fetch quest bro"
+  },
+  {
+    "id": 6031,
+    "name": "TASK.open_blast_door",
+    "initial_value": "False",
+    "description": "quest time. open the blast door"
+  },
+  {
+    "id": 6032,
+    "name": "TASK.open_blast_door_done",
+    "initial_value": "False",
+    "description": "blast door opened. you can get to the end now!"
+  },
+  {
+    "id": 6033,
+    "name": "TASK.tell_hardie_to_take_care_of_pigs",
+    "initial_value": "False",
+    "description": "hardie boys are responsible and should take care of things"
+  },
+  {
+    "id": 6034,
+    "name": "TASK.tell_hardie_to_take_care_of_pigs_done",
+    "initial_value": "False",
+    "description": "told hardie boys that the pigs is on the coast"
+  },
+  {
+    "id": 6035,
+    "name": "TASK.ask_evrart_about_claire_connection",
+    "initial_value": "False",
+    "description": "acele said evrart is connected to the drug operation"
+  },
+  {
+    "id": 6036,
+    "name": "TASK.ask_evrart_about_claire_connection_done",
+    "initial_value": "False",
+    "description": "confronted the fat guy about the drug thing. he denied it all."
+  },
+  {
+    "id": 6037,
+    "name": "TASK.extract_a_confession",
+    "initial_value": "False",
+    "description": "extract a confession from the deserter. you need three facts"
+  },
+  {
+    "id": 6038,
+    "name": "TASK.extract_a_confession_done",
+    "initial_value": "False",
+    "description": "three arguments given for this shit"
+  },
+  {
+    "id": 6039,
+    "name": "TASK.report_to_lena",
+    "initial_value": "False",
+    "description": "You need to report to Lena about your last round of traps."
+  },
+  {
+    "id": 6040,
+    "name": "TASK.report_to_lena_done",
+    "initial_value": "False",
+    "description": "You've reported to Lena about your last roung of traps."
+  },
+  {
+    "id": 6041,
+    "name": "TASK.what_is_race_enigma",
+    "initial_value": "False",
+    "description": "measurehead race enigma int task"
+  },
+  {
+    "id": 6042,
+    "name": "TASK.what_is_race_enigma_done",
+    "initial_value": "False",
+    "description": "ho boy such interesting content task done"
+  },
+  {
+    "id": 6043,
+    "name": "TASK.buy_faln_pants_from_cuno",
+    "initial_value": "False",
+    "description": "You must have those pants. Have them."
+  },
+  {
+    "id": 6044,
+    "name": "TASK.buy_faln_pants_from_cuno_done",
+    "initial_value": "False",
+    "description": "You have them, oh joy. FALN pants for performance."
+  },
+  {
+    "id": 6045,
+    "name": "TASK.get_hardie_boys_to_tell_you_the_whole_story",
+    "initial_value": "False",
+    "description": "hardie boys full story"
+  },
+  {
+    "id": 6046,
+    "name": "TASK.get_hardie_boys_to_tell_you_the_whole_story_done",
+    "initial_value": "False",
+    "description": "got it. they told you the full story"
+  },
+  {
+    "id": 6047,
+    "name": "TASK.pay_lena_back",
+    "initial_value": "False",
+    "description": "For the pin, that is."
+  },
+  {
+    "id": 6048,
+    "name": "TASK.pay_lena_back_done",
+    "initial_value": "False",
+    "description": "Paid her back for the pin. Good boy."
+  },
+  {
+    "id": 6049,
+    "name": "TASK.who_is_the_ladydriver",
+    "initial_value": "False",
+    "description": "probed drivers, now trying to find ladydriver"
+  },
+  {
+    "id": 6050,
+    "name": "TASK.who_is_the_ladydriver_done",
+    "initial_value": "False",
+    "description": "found out information about her"
+  },
+  {
+    "id": 6051,
+    "name": "TASK.search_through_the_locked_cabin",
+    "initial_value": "False",
+    "description": "found out about ladydrivers locked cabin, try to get in now"
+  },
+  {
+    "id": 6052,
+    "name": "TASK.search_through_the_locked_cabin_done",
+    "initial_value": "False",
+    "description": "got relevant information from locked cabin"
+  },
+  {
+    "id": 6053,
+    "name": "TASK.tell_joyce_about_smuggling",
+    "initial_value": "False",
+    "description": "done stuff in jam mystery, now you can tell joyce something"
+  },
+  {
+    "id": 6054,
+    "name": "TASK.tell_joyce_about_smuggling_done",
+    "initial_value": "False",
+    "description": "you reported back and maybe said something or not"
+  },
+  {
+    "id": 6055,
+    "name": "TASK.get_into_feld_building_done",
+    "initial_value": "False",
+    "description": "Success! You got into the FELD building."
+  },
+  {
+    "id": 6056,
+    "name": "TASK.find_the_filament_memory",
+    "initial_value": "False",
+    "description": "find the off-site copy filament memory from the doomed cellar"
+  },
+  {
+    "id": 6057,
+    "name": "TASK.find_the_filament_memory_done",
+    "initial_value": "False",
+    "description": "you found the off-site copy filament memory from the doomed cellar"
+  },
+  {
+    "id": 6058,
+    "name": "TASK.find_your_heraldic_bird",
+    "initial_value": "False",
+    "description": "read about cockatoos"
+  },
+  {
+    "id": 6059,
+    "name": "TASK.find_your_heraldic_bird_done",
+    "initial_value": "False",
+    "description": "you chose which cockatoo species is your heraldic bird"
+  },
+  {
+    "id": 6060,
+    "name": "TASK.convince_garte_to_let_you_sing_karaoke",
+    "initial_value": "False",
+    "description": "you have to convince garte before you can perform"
+  },
+  {
+    "id": 6061,
+    "name": "TASK.convince_garte_to_let_you_sing_karaoke_done",
+    "initial_value": "False",
+    "description": "nothing standing on your way anymore"
+  },
+  {
+    "id": 6062,
+    "name": "TASK.report_to_the_station_corpse_boardwalk",
+    "initial_value": "False",
+    "description": "report to the station that you found a corpse from the boardwalk"
+  },
+  {
+    "id": 6063,
+    "name": "TASK.report_to_the_station_corpse_boardwalk_done",
+    "initial_value": "False",
+    "description": "you reported to the station that you found a corpse"
+  },
+  {
+    "id": 6064,
+    "name": "TASK.identify_corpse_boardwalk",
+    "initial_value": "False",
+    "description": "you need to identify the corpse you found from the boardwalk"
+  },
+  {
+    "id": 6065,
+    "name": "TASK.identify_corpse_boardwalk_done",
+    "initial_value": "False",
+    "description": "you talked to wcw and confirmed that it's her dead husband"
+  },
+  {
+    "id": 6066,
+    "name": "TASK.ask_hardie_boys_for_help_corpse_boardwalk",
+    "initial_value": "False",
+    "description": "go ask hardie boys if they can take the corpse to the morgue"
+  },
+  {
+    "id": 6067,
+    "name": "TASK.offer_dolores_dei_figurines",
+    "initial_value": "False",
+    "description": "it is your duty to spread some figurine love"
+  },
+  {
+    "id": 6068,
+    "name": "TASK.offer_dolores_dei_figurines_done",
+    "initial_value": "False",
+    "description": "done. you gave figurines. she declined. obviously"
+  },
+  {
+    "id": 6069,
+    "name": "TASK.find_murder_weapon",
+    "initial_value": "False",
+    "description": "go find da murda wepon"
+  },
+  {
+    "id": 6070,
+    "name": "TASK.find_murder_weapon_done",
+    "initial_value": "False",
+    "description": "ya found it. twas on the izle"
+  },
+  {
+    "id": 6071,
+    "name": "TASK.ask_hardie_boys_for_help_corpse_boardwalk_done",
+    "initial_value": "False",
+    "description": "ask hardies to take body to morgue done or something"
+  },
+  {
+    "id": 6072,
+    "name": "TASK.return_lenas_pin",
+    "initial_value": "False",
+    "description": "You promised to return it."
+  },
+  {
+    "id": 6073,
+    "name": "TASK.return_lenas_pin_done",
+    "initial_value": "False",
+    "description": "You got her the pin back!"
+  },
+  {
+    "id": 6074,
+    "name": "TASK.rest_in_the_flak_tower",
+    "initial_value": "False",
+    "description": "rest in the flak tower. you got dream. all is yay"
+  },
+  {
+    "id": 6075,
+    "name": "TASK.rest_in_the_flak_tower_done",
+    "initial_value": "False",
+    "description": "rested in the flak tower donzo"
+  },
+  {
+    "id": 6076,
+    "name": "TASK.ask_kim_about_seolite_database_done",
+    "initial_value": "False",
+    "description": "task finished, asking kim about dumb things"
+  },
+  {
+    "id": 6077,
+    "name": "TASK.find_your_sidearm_cancelled",
+    "initial_value": "False",
+    "description": "the cancellation task for if you refuse to take your gun"
+  },
+  {
+    "id": 6078,
+    "name": "TASK.get_the_boots_off_the_hanged_mans_feet_cancelled",
+    "initial_value": "False",
+    "description": "cancel the task when body gets sent away boiiii"
+  },
+  {
+    "id": 6079,
+    "name": "TASK.locate_a_fridge_cancelled",
+    "initial_value": "False",
+    "description": "you sent the body to processing, so no fukken fridge for you"
+  },
+  {
+    "id": 6080,
+    "name": "TASK.get_a_drink_cancelled",
+    "initial_value": "False",
+    "description": "no drinking for you, numbnuts?"
+  },
+  {
+    "id": 6081,
+    "name": "TASK.find_smokes_cancelled",
+    "initial_value": "False",
+    "description": "yeah no smoking. never smoke"
+  },
+  {
+    "id": 6082,
+    "name": "TASK.get_speed_cancelled",
+    "initial_value": "False",
+    "description": "not interested. ugh. no speed!"
+  },
+  {
+    "id": 6083,
+    "name": "TASK.talk_to_manana_about_the_armour",
+    "initial_value": "False",
+    "description": "cuno gives: talk to manana"
+  },
+  {
+    "id": 6084,
+    "name": "TASK.talk_to_manana_about_the_armour_done",
+    "initial_value": "False",
+    "description": "talked to manana, he told you about stuff"
+  },
+  {
+    "id": 6085,
+    "name": "TASK.go_see_the_fridge",
+    "initial_value": "False",
+    "description": "you learned where the fridge is, now go see it"
+  },
+  {
+    "id": 6086,
+    "name": "TASK.go_see_the_fridge_done",
+    "initial_value": "False",
+    "description": "checked out the fridge the quest is complete"
+  },
+  {
+    "id": 6087,
+    "name": "TASK.find_idiot_doom_spiral_jacket",
+    "initial_value": "False",
+    "description": "idiot doom spiral lost jacket somewhere. help him oot"
+  },
+  {
+    "id": 6088,
+    "name": "TASK.find_idiot_doom_spiral_jacket_done",
+    "initial_value": "False",
+    "description": "helped his ass out in finding jacket"
+  },
+  {
+    "id": 6089,
+    "name": "TASK.confront_cuno_about_locusts",
+    "initial_value": "False",
+    "description": "you found the stolen locusts; time to speak to cuno"
+  },
+  {
+    "id": 6090,
+    "name": "TASK.confront_cuno_about_locusts_done",
+    "initial_value": "False",
+    "description": "you talked to cuno about stealing from the cryptozoologists"
+  },
+  {
+    "id": 6091,
+    "name": "TASK.report_to_cryptozoologists_3",
+    "initial_value": "False",
+    "description": "Report on restocking the empty trap."
+  },
+  {
+    "id": 6092,
+    "name": "TASK.report_to_cryptozoologists_3_done",
+    "initial_value": "False",
+    "description": "You reported on restocking to Lena."
+  },
+  {
+    "id": 6093,
+    "name": "TASK.optional_take_down_cunos_dad",
+    "initial_value": "False",
+    "description": "Show that he's not that scary."
+  },
+  {
+    "id": 6094,
+    "name": "TASK.optional_take_down_cunos_dad_done",
+    "initial_value": "False",
+    "description": "Congrats, you've vanquished a worthy adversary."
+  },
+  {
+    "id": 6095,
+    "name": "TASK.get_drugs_from_cunos_apartment_done",
+    "initial_value": "False",
+    "description": "You got the speed."
+  },
+  {
+    "id": 6096,
+    "name": "TASK.get_drugs_from_cunos_apartment",
+    "initial_value": "False",
+    "description": "Steal Cuno's dad's speed."
+  },
+  {
+    "id": 6097,
+    "name": "TASK.ask_gardner_why_is_she_gardening_in_march",
+    "initial_value": "False",
+    "description": "why is the gardener gardening in march. important."
+  },
+  {
+    "id": 6098,
+    "name": "TASK.ask_gardner_why_is_she_gardening_in_march_done",
+    "initial_value": "False",
+    "description": "maybe its a secret task and will thus be deleted eventually"
+  },
+  {
+    "id": 6099,
+    "name": "TASK.find_out_why_cunoesse_was_in_the_hallway",
+    "initial_value": "False",
+    "description": "why was cunoesse in the hallway."
+  },
+  {
+    "id": 6100,
+    "name": "TASK.find_out_why_cunoesse_was_in_the_hallway_done",
+    "initial_value": "False",
+    "description": "you found out this thing"
+  },
+  {
+    "id": 6101,
+    "name": "TASK.put_the_dead_body_in_the_fridge",
+    "initial_value": "False",
+    "description": "So it doesn't decompose."
+  },
+  {
+    "id": 6102,
+    "name": "TASK.put_the_dead_body_in_the_fridge_done",
+    "initial_value": "False",
+    "description": "You have more time to continue the autopsy now."
+  },
+  {
+    "id": 6103,
+    "name": "TASK.find_cuno_a_new_kilo",
+    "initial_value": "False",
+    "description": "find cuno some new drugs somehow"
+  },
+  {
+    "id": 6104,
+    "name": "TASK.find_cuno_a_new_kilo_done",
+    "initial_value": "False",
+    "description": "you did it i guess"
+  },
+  {
+    "id": 6105,
+    "name": "TASK.find_one_armour_piece",
+    "initial_value": "False",
+    "description": "try to just get one piece"
+  },
+  {
+    "id": 6106,
+    "name": "TASK.find_one_armour_piece_done",
+    "initial_value": "False",
+    "description": "you did it boyo"
+  },
+  {
+    "id": 6107,
+    "name": "TASK.find_all_armour",
+    "initial_value": "False",
+    "description": "you really want the whole set"
+  },
+  {
+    "id": 6108,
+    "name": "TASK.find_all_armour_done",
+    "initial_value": "False",
+    "description": "full set achieved somehow"
+  },
+  {
+    "id": 6109,
+    "name": "TASK.ask_cuno_about_the_armour",
+    "initial_value": "False",
+    "description": "ask Cuno about the armour pieces is a task"
+  },
+  {
+    "id": 6110,
+    "name": "TASK.ask_cuno_about_the_armour_done",
+    "initial_value": "False",
+    "description": "you asked cuno all about those pieces. useful"
+  },
+  {
+    "id": 6111,
+    "name": "TASK.report_back_to_the_cuno",
+    "initial_value": "False",
+    "description": "Once you've gotten drugs from his apartment."
+  },
+  {
+    "id": 6112,
+    "name": "TASK.report_back_to_the_cuno_done",
+    "initial_value": "False",
+    "description": "You've reported on your mission to get speed."
+  },
+  {
+    "id": 6113,
+    "name": "TASK.investigate_apt_10",
+    "initial_value": "False",
+    "description": "find out who's inside"
+  },
+  {
+    "id": 6114,
+    "name": "TASK.investigate_apt_10_done",
+    "initial_value": "False",
+    "description": "you found out who's inside"
+  },
+  {
+    "id": 6115,
+    "name": "TASK.tell_joyce_about_smuggling_cancelled",
+    "initial_value": "False",
+    "description": "this cancels the task if you refuse to spill the binz"
+  },
+  {
+    "id": 6116,
+    "name": "TASK.what_does_joyce_know",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6117,
+    "name": "TASK.what_does_joyce_know_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6118,
+    "name": "TASK.return_to_mainland_done",
+    "initial_value": "False",
+    "description": "You've returned!"
+  },
+  {
+    "id": 6119,
+    "name": "TASK.return_to_mainland",
+    "initial_value": "False",
+    "description": "Come back to the mainland."
+  },
+  {
+    "id": 6120,
+    "name": "TASK.visit_the_smoker_on_the_balcony_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6121,
+    "name": "TASK.visit_the_smoker_on_the_balcony",
+    "initial_value": "False",
+    "description": "Subtask"
+  },
+  {
+    "id": 6122,
+    "name": "TASK.tell_dicemaker_of_actual_source_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6123,
+    "name": "TASK.tell_lena_about_water_lock_done",
+    "initial_value": "False",
+    "description": "she feels better now"
+  },
+  {
+    "id": 6124,
+    "name": "TASK.tell_plaisance_of_actual_source_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6125,
+    "name": "TASK.tell_plaisance_of_actual_source",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6126,
+    "name": "TASK.tell_dicemaker_of_actual_source",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6127,
+    "name": "TASK.tell_lena_about_water_lock",
+    "initial_value": "False",
+    "description": "that's probably wy her husband is missing"
+  },
+  {
+    "id": 6128,
+    "name": "TASK.take_bird_to_garte_done",
+    "initial_value": "False",
+    "description": "You've delivered your gift."
+  },
+  {
+    "id": 6129,
+    "name": "TASK.take_bird_to_garte",
+    "initial_value": "False",
+    "description": "You found a bird to give to Garte in place of his broken Skua. Take it to him!"
+  },
+  {
+    "id": 6130,
+    "name": "TASK.advanced_ballistics_analysis",
+    "initial_value": "False",
+    "description": "Subtask -- learn more about the bullet."
+  },
+  {
+    "id": 6131,
+    "name": "TASK.advanced_ballistics_analysis_done",
+    "initial_value": "False",
+    "description": "Encyc told you all about it."
+  },
+  {
+    "id": 6132,
+    "name": "TASK.help_kim_with_money_plan_cancelled",
+    "initial_value": "False",
+    "description": "You've already gotten money for damages."
+  },
+  {
+    "id": 6133,
+    "name": "TASK.wash_dirty_jacket",
+    "initial_value": "False",
+    "description": "subtask for washering"
+  },
+  {
+    "id": 6134,
+    "name": "TASK.wash_dirty_jacket_done",
+    "initial_value": "False",
+    "description": "you washed it bro."
+  },
+  {
+    "id": 6135,
+    "name": "TASK.request_info_on_armour",
+    "initial_value": "False",
+    "description": "using Kim's radio"
+  },
+  {
+    "id": 6136,
+    "name": "TASK.request_info_on_armour_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6137,
+    "name": "TASK.request_info_on_armour_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6138,
+    "name": "TASK.inspect_the_phasmid_done",
+    "initial_value": "False",
+    "description": "inspecting the phasmid. go to it."
+  },
+  {
+    "id": 6139,
+    "name": "TASK.run_serial_number_personal_info_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6140,
+    "name": "TASK.decipher_victims_tattoo",
+    "initial_value": "False",
+    "description": "learn with absolute certainty what the tattoo meant"
+  },
+  {
+    "id": 6141,
+    "name": "TASK.decipher_victims_tattoo_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6142,
+    "name": "TASK.decipher_victims_tattoo_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6143,
+    "name": "TASK.fridge_victims_body",
+    "initial_value": "False",
+    "description": "umbrella task"
+  },
+  {
+    "id": 6144,
+    "name": "TASK.fridge_victims_body_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6145,
+    "name": "TASK.fridge_victims_body_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6146,
+    "name": "TASK.get_morell_back_to_lena",
+    "initial_value": "False",
+    "description": "umbrella task"
+  },
+  {
+    "id": 6147,
+    "name": "TASK.get_morell_back_to_lena_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6148,
+    "name": "TASK.get_morell_back_to_lena_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6149,
+    "name": "TASK.tell_wcw_about_body",
+    "initial_value": "False",
+    "description": "You found her husband. Unfortunately, he's dead."
+  },
+  {
+    "id": 6150,
+    "name": "TASK.tell_wcw_about_body_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6151,
+    "name": "TASK.split_a_kilo_with_cuno",
+    "initial_value": "False",
+    "description": "umbrella task"
+  },
+  {
+    "id": 6152,
+    "name": "TASK.split_a_kilo_with_cuno_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6153,
+    "name": "TASK.split_a_kilo_with_cuno_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6154,
+    "name": "TASK.determine_where_shot_came_from",
+    "initial_value": "False",
+    "description": "if it came from a distance"
+  },
+  {
+    "id": 6155,
+    "name": "TASK.determine_where_shot_came_from_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6156,
+    "name": "TASK.find_all_armour_cancelled",
+    "initial_value": "False",
+    "description": "you couldn't find them all after all"
+  },
+  {
+    "id": 6157,
+    "name": "TASK.ask_cuno_about_missing_locusts",
+    "initial_value": "False",
+    "description": "maybe he knows who took them?"
+  },
+  {
+    "id": 6158,
+    "name": "TASK.ask_cuno_about_missing_locusts_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6159,
+    "name": "TASK.ask_cuno_about_missing_locusts_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6160,
+    "name": "TASK.find_phasmid_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6161,
+    "name": "TASK.establish_church_dance_club_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6162,
+    "name": "TASK.return_for_the_pin",
+    "initial_value": "False",
+    "description": "if you were pawning it with the intention of returning"
+  },
+  {
+    "id": 6163,
+    "name": "TASK.return_for_the_pin_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6164,
+    "name": "TASK.return_for_the_pin_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6165,
+    "name": "TASK.claim_high_tech_boots",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6166,
+    "name": "TASK.claim_high_tech_boots_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6167,
+    "name": "TASK.claim_high_tech_boots_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6168,
+    "name": "TASK.inspect_the_phasmid",
+    "initial_value": "False",
+    "description": "inspect the big phasmid lady"
+  },
+  {
+    "id": 6169,
+    "name": "TASK.double_check_fridge_is_big_enough",
+    "initial_value": "False",
+    "description": "if you tried to pick up the corpse and carry it from the hanged man dialogue"
+  },
+  {
+    "id": 6170,
+    "name": "TASK.double_check_fridge_is_big_enough_done",
+    "initial_value": "False",
+    "description": "you've check it out again yup"
+  },
+  {
+    "id": 6171,
+    "name": "TASK.double_check_fridge_with_kim",
+    "initial_value": "False",
+    "description": "go to doomed fridge to double-check it's okay"
+  },
+  {
+    "id": 6172,
+    "name": "TASK.double_check_fridge_with_kim_done",
+    "initial_value": "False",
+    "description": "you agree it's a good solution"
+  },
+  {
+    "id": 6173,
+    "name": "TASK.find_the_witch",
+    "initial_value": "False",
+    "description": "subtask for investigate the DCA"
+  },
+  {
+    "id": 6174,
+    "name": "TASK.find_the_witch_done",
+    "initial_value": "False",
+    "description": "subtask for investigate the DCA"
+  },
+  {
+    "id": 6175,
+    "name": "TASK.make_the_music_harder_core",
+    "initial_value": "False",
+    "description": "Egg Head's beats aren't cutting it."
+  },
+  {
+    "id": 6176,
+    "name": "TASK.make_the_music_harder_core_done",
+    "initial_value": "False",
+    "description": "you brought beats and melody"
+  },
+  {
+    "id": 6177,
+    "name": "TASK.make_the_music_harder_core_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6178,
+    "name": "TASK.did_sylvie_make_call",
+    "initial_value": "False",
+    "description": "about dead body"
+  },
+  {
+    "id": 6179,
+    "name": "TASK.did_sylvie_make_call_done",
+    "initial_value": "False",
+    "description": "she did not!"
+  },
+  {
+    "id": 6180,
+    "name": "TASK.talk_to_smoker_again",
+    "initial_value": "False",
+    "description": "You feel like he knows more than he's letting on."
+  },
+  {
+    "id": 6181,
+    "name": "TASK.talk_to_smoker_again_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6182,
+    "name": "TASK.talk_to_smoker_again_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6183,
+    "name": "TASK.extract_a_motive",
+    "initial_value": "False",
+    "description": "extract the motive from da desertzer"
+  },
+  {
+    "id": 6184,
+    "name": "TASK.extract_a_motive_done",
+    "initial_value": "False",
+    "description": "found the fukken motive. it was something!"
+  },
+  {
+    "id": 6185,
+    "name": "TASK.report_back_to_cleaning_lady",
+    "initial_value": "False",
+    "description": "about apartment 10"
+  },
+  {
+    "id": 6186,
+    "name": "TASK.report_back_to_cleaning_lady_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6187,
+    "name": "TASK.confront_the_pigs_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6188,
+    "name": "TASK.go_to_billies_apartment",
+    "initial_value": "False",
+    "description": "You found his or her dead loved one."
+  },
+  {
+    "id": 6189,
+    "name": "TASK.go_to_billies_apartment_done",
+    "initial_value": "False",
+    "description": "You've told her, one way or another."
+  },
+  {
+    "id": 6190,
+    "name": "TASK.search_body_for_id",
+    "initial_value": "False",
+    "description": "wch corpse"
+  },
+  {
+    "id": 6191,
+    "name": "TASK.search_body_for_id_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6192,
+    "name": "TASK.identify_corpse_boardwalk_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6193,
+    "name": "TASK.call_jamrock_library",
+    "initial_value": "False",
+    "description": "about card found on wch body"
+  },
+  {
+    "id": 6194,
+    "name": "TASK.call_jamrock_library_done",
+    "initial_value": "False",
+    "description": "you got info on billie"
+  },
+  {
+    "id": 6195,
+    "name": "TASK.report_corpse_wo_taking_main_task",
+    "initial_value": "False",
+    "description": "You didn't want to take on the investigation of this death, but you still need to call the station."
+  },
+  {
+    "id": 6196,
+    "name": "TASK.report_corpse_wo_taking_main_task_done",
+    "initial_value": "False",
+    "description": "you called the station"
+  },
+  {
+    "id": 6197,
+    "name": "TASK.help_soona_with_her_project",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6198,
+    "name": "TASK.help_soona_with_her_project_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6199,
+    "name": "TASK.help_soona_with_her_project_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6200,
+    "name": "TASK.get_filament_from_fridge",
+    "initial_value": "False",
+    "description": "Soona told you where it is -- now, go get it."
+  },
+  {
+    "id": 6201,
+    "name": "TASK.get_filament_from_fridge_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6202,
+    "name": "TASK.find_the_filament_memory_soona",
+    "initial_value": "False",
+    "description": "follow directions from note while doing soona quest"
+  },
+  {
+    "id": 6203,
+    "name": "TASK.find_the_filament_memory_soona_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6204,
+    "name": "TASK.get_frozen_ice_cream_maker_open",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6205,
+    "name": "TASK.get_frozen_ice_cream_maker_open_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6206,
+    "name": "TASK.tell_andre_to_move_in",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6207,
+    "name": "TASK.tell_andre_to_move_in_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6208,
+    "name": "TASK.visit_nightclub",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6209,
+    "name": "TASK.visit_nightclub_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6210,
+    "name": "TASK.check_on_soona",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6211,
+    "name": "TASK.check_on_soona_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6212,
+    "name": "TASK.talk_to_egg_about_cable",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6213,
+    "name": "TASK.talk_to_egg_about_cable_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6214,
+    "name": "TASK.report_to_soona_unmute",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6215,
+    "name": "TASK.report_to_soona_unmute_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6216,
+    "name": "TASK.convince_or_evict_soona",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6217,
+    "name": "TASK.convince_or_evict_soona_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6218,
+    "name": "TASK.ask_about_the_companies_subtask",
+    "initial_value": "False",
+    "description": "subtask for DCA investigation"
+  },
+  {
+    "id": 6219,
+    "name": "TASK.ask_about_the_companies_subtask_done",
+    "initial_value": "False",
+    "description": "you asked about the companies"
+  },
+  {
+    "id": 6220,
+    "name": "TASK.ask_about_the_curse_subtask",
+    "initial_value": "False",
+    "description": "subtask for DCA investigation"
+  },
+  {
+    "id": 6221,
+    "name": "TASK.ask_about_the_curse_subtask_done",
+    "initial_value": "False",
+    "description": "asked the dicemaker about the curse"
+  },
+  {
+    "id": 6222,
+    "name": "TASK.report_back_to_plaisance_subtask",
+    "initial_value": "False",
+    "description": "subtask for DCA investigation"
+  },
+  {
+    "id": 6223,
+    "name": "TASK.report_back_to_plaisance_subtask_done",
+    "initial_value": "False",
+    "description": "subtask done for DCA investigation"
+  },
+  {
+    "id": 6224,
+    "name": "TASK.ask_gardner_why_is_she_gardening_in_march_cancelled",
+    "initial_value": "False",
+    "description": "oops you met her as a fixer before asking -- so there's your answer"
+  },
+  {
+    "id": 6225,
+    "name": "TASK.retry_cuno_door",
+    "initial_value": "False",
+    "description": "Lets you retry opening the door to Cuno's apt"
+  },
+  {
+    "id": 6226,
+    "name": "TASK.retry_cuno_door_done",
+    "initial_value": "False",
+    "description": "Marks the door as open at last"
+  },
+  {
+    "id": 6227,
+    "name": "TASK.interrogate_vigilantes",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6228,
+    "name": "TASK.interrogate_vigilantes_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6229,
+    "name": "TASK.return_to_hardies_with_more_evidence",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6230,
+    "name": "TASK.return_to_hardies_with_more_evidence_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6231,
+    "name": "TASK.track_down_the_voice",
+    "initial_value": "False",
+    "description": "Main task in the Shivers coat quest"
+  },
+  {
+    "id": 6232,
+    "name": "TASK.track_down_the_voice_done",
+    "initial_value": "False",
+    "description": "Finishes the main task in the Shivers coat quest"
+  },
+  {
+    "id": 6233,
+    "name": "TASK.find_voice_in_bookshop",
+    "initial_value": "False",
+    "description": "Subtask 1 of the Shivers Coat quest"
+  },
+  {
+    "id": 6234,
+    "name": "TASK.find_voice_in_bookshop_done",
+    "initial_value": "False",
+    "description": "Completes Subtask 1 of the Shivers coat quest"
+  },
+  {
+    "id": 6235,
+    "name": "TASK.find_voice_in_harbour",
+    "initial_value": "False",
+    "description": "Subtask 2 of the Shivers Coat quest"
+  },
+  {
+    "id": 6236,
+    "name": "TASK.find_voice_in_harbour_done",
+    "initial_value": "False",
+    "description": "Completes Subtask 2 of the Shivers coat quest"
+  },
+  {
+    "id": 6237,
+    "name": "TASK.find_voice_in_whirling",
+    "initial_value": "False",
+    "description": "Subtask 3 of the Shivers Coat quest"
+  },
+  {
+    "id": 6238,
+    "name": "TASK.find_voice_in_whirling_done",
+    "initial_value": "False",
+    "description": "Completes Subtask 3 of the Shivers coat quest"
+  },
+  {
+    "id": 6239,
+    "name": "TASK.find_voice_in_apt",
+    "initial_value": "False",
+    "description": "Subtask 4 of the Shivers Coat quest"
+  },
+  {
+    "id": 6240,
+    "name": "TASK.find_voice_in_apt_done",
+    "initial_value": "False",
+    "description": "Completes Subtask 4 of the Shivers Coat quest"
+  },
+  {
+    "id": 6241,
+    "name": "TASK.find_voice_in_upper_whirling",
+    "initial_value": "False",
+    "description": "Subtask 5 of the Shivers Coat quest"
+  },
+  {
+    "id": 6242,
+    "name": "TASK.find_voice_in_upper_whirling_done",
+    "initial_value": "False",
+    "description": "Completes Subtask 5 of the Shivers Coat  quest"
+  },
+  {
+    "id": 6243,
+    "name": "TASK.find_voice_in_coast",
+    "initial_value": "False",
+    "description": "Subtask 6 of the Shivers coat quest"
+  },
+  {
+    "id": 6244,
+    "name": "TASK.find_voice_in_coast_done",
+    "initial_value": "False",
+    "description": "Finishes subtask 6 of the Shivers coat quest"
+  },
+  {
+    "id": 6245,
+    "name": "TASK.prove_your_authority_to_the_hardie_boys",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6246,
+    "name": "TASK.prove_your_authority_to_the_hardie_boys_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6247,
+    "name": "TASK.confront_the_hardie_boys_with_what_klaasje_told_you",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6248,
+    "name": "TASK.talk_to_titus_about_the_doorgunner_megamix",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6249,
+    "name": "TASK.talk_to_titus_about_the_doorgunner_megamix_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6250,
+    "name": "TASK.get_titus_to_tell_you_what_really_happened",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6251,
+    "name": "TASK.get_titus_to_tell_you_what_really_happened_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6252,
+    "name": "TASK.NewVariable",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6253,
+    "name": "TASK.present_a_case_against_ruby_to_titus",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6254,
+    "name": "TASK.present_a_case_against_ruby_to_titus_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6255,
+    "name": "TASK.question_drivers_about_drugs",
+    "initial_value": "False",
+    "description": "subtask for joyce's drug quest"
+  },
+  {
+    "id": 6256,
+    "name": "TASK.question_drivers_about_drugs_done",
+    "initial_value": "False",
+    "description": "subtask done for joyce's drug quest"
+  },
+  {
+    "id": 6257,
+    "name": "TASK.question_klaasje_about_tape",
+    "initial_value": "False",
+    "description": "Gives player the task to talk to Klaasje if they didn't take the tape."
+  },
+  {
+    "id": 6258,
+    "name": "TASK.question_klaasje_about_tape_done",
+    "initial_value": "False",
+    "description": "Finishes the task to talk to Klaasje"
+  },
+  {
+    "id": 6259,
+    "name": "TASK.question_klaasje_about_tape_cancelled",
+    "initial_value": "False",
+    "description": "This task can cancel if you elect to take the tape from Hardie, before discussing it with Klaasje"
+  },
+  {
+    "id": 6260,
+    "name": "TASK.confront_gaston_about_cheating",
+    "initial_value": "False",
+    "description": "If you notice that he was moving the boules."
+  },
+  {
+    "id": 6261,
+    "name": "TASK.confront_gaston_about_cheating_done",
+    "initial_value": "False",
+    "description": "You made sure Rene knows what's going on."
+  },
+  {
+    "id": 6262,
+    "name": "TASK.confront_gaston_about_cheating_cancelled",
+    "initial_value": "False",
+    "description": "You used the info to blackmail him instead."
+  },
+  {
+    "id": 6263,
+    "name": "TASK.find_out_whats_happening_with_the_special_brew_strikers_are_eating_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6264,
+    "name": "TASK.confront_the_hardie_boys_with_what_klaasje_told_you_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6265,
+    "name": "TASK.doorgunner_megamix",
+    "initial_value": "False",
+    "description": "umbrella task"
+  },
+  {
+    "id": 6266,
+    "name": "TASK.doorgunner_megamix_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6267,
+    "name": "TASK.doorgunner_megamix_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6268,
+    "name": "TASK.get_pie_from_gary_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6269,
+    "name": "TASK.get_the_whole_story",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6270,
+    "name": "TASK.get_the_whole_story_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6271,
+    "name": "TASK.decipher_tattoo_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6272,
+    "name": "TASK.get_the_weasel_key_from_manana",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6273,
+    "name": "TASK.get_the_weasel_key_from_manana_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6274,
+    "name": "TASK.find_klaasje",
+    "initial_value": "False",
+    "description": "to question her about the rape"
+  },
+  {
+    "id": 6275,
+    "name": "TASK.find_klaasje_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6276,
+    "name": "TASK.find_klaasje_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6277,
+    "name": "TASK.what_happened_between_klaasje_and_hanged",
+    "initial_value": "False",
+    "description": "get Klaasje's version of the purported assault"
+  },
+  {
+    "id": 6278,
+    "name": "TASK.what_happened_between_klaasje_and_hanged_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6279,
+    "name": "TASK.what_happened_between_klaasje_and_hanged_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6280,
+    "name": "TASK.find_out_whats_happening_with_the_special_brew_strikers_are_eating_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6281,
+    "name": "TASK.lie_to_evrart_that_you_opened_weasel_door",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6282,
+    "name": "TASK.lie_to_evrart_that_you_opened_weasel_door_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6283,
+    "name": "TASK.unlock_the_weasle_door",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6284,
+    "name": "TASK.unlock_the_weasle_door_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6285,
+    "name": "TASK.report_the_door_back_to_evrart",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6286,
+    "name": "TASK.report_the_door_back_to_evrart_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6287,
+    "name": "TASK.enter_the_mysterious_door",
+    "initial_value": "False",
+    "description": "Enter the mysterious pinball workshop through a mysterious door"
+  },
+  {
+    "id": 6288,
+    "name": "TASK.enter_the_mysterious_door_done",
+    "initial_value": "False",
+    "description": "Entered the mysterious pinball workshop through a mysterious door"
+  },
+  {
+    "id": 6289,
+    "name": "TASK.uncover_secrets_behind_the_mysterious_door",
+    "initial_value": "False",
+    "description": "Given when players enter through the mysterious door, to remind and encourage them to find the footprints"
+  },
+  {
+    "id": 6290,
+    "name": "TASK.uncover_secrets_behind_the_mysterious_door_done",
+    "initial_value": "False",
+    "description": "Given when players finish examining the footprints behind the mysterious door. Also wraps up the whole task."
+  },
+  {
+    "id": 6291,
+    "name": "TASK.find_rubys_shack",
+    "initial_value": "False",
+    "description": "in the village"
+  },
+  {
+    "id": 6292,
+    "name": "TASK.find_rubys_shack_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6293,
+    "name": "TASK.find_rubys_shack_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6294,
+    "name": "TASK.klaasjes_real_name_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6295,
+    "name": "TASK.return_to_klaasje_after_autopsy",
+    "initial_value": "False",
+    "description": "first things first -- then you can ask her more questions"
+  },
+  {
+    "id": 6296,
+    "name": "TASK.return_to_klaasje_after_autopsy_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6297,
+    "name": "TASK.return_to_klaasje_after_autopsy_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6298,
+    "name": "TASK.find_voice_in_bookshop_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6299,
+    "name": "TASK.find_voice_in_harbour_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6300,
+    "name": "TASK.find_voice_in_whirling_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6301,
+    "name": "TASK.find_voice_in_apt_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6302,
+    "name": "TASK.find_voice_in_coast_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6303,
+    "name": "TASK.find_song_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6304,
+    "name": "TASK.convince_garte_to_let_you_sing_karaoke_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6305,
+    "name": "TASK.ask_money_from_station_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6306,
+    "name": "TASK.talk_to_cafeteria_manager_about_damages_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6307,
+    "name": "TASK.find_the_witch_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6308,
+    "name": "TASK.ask_about_the_companies_subtask_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6309,
+    "name": "TASK.ask_about_the_curse_subtask_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6310,
+    "name": "TASK.report_back_to_plaisance_subtask_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6311,
+    "name": "TASK.report_to_the_station_corpse_boardwalk_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6312,
+    "name": "TASK.call_jamrock_library_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6313,
+    "name": "TASK.go_to_billies_apartment_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6314,
+    "name": "TASK.where_does_the_smoker_on_the_balcony_live_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6315,
+    "name": "TASK.visit_the_smoker_on_the_balcony_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6316,
+    "name": "TASK.report_back_to_cleaning_lady_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6317,
+    "name": "TASK.get_drugs_from_cunos_apartment_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6318,
+    "name": "TASK.optional_take_down_cunos_dad_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6319,
+    "name": "TASK.report_back_to_the_cuno_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6320,
+    "name": "TASK.find_cuno_a_new_kilo_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6321,
+    "name": "TASK.retry_cuno_door_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6322,
+    "name": "TASK.get_the_weasel_key_from_manana_done_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6323,
+    "name": "TASK.report_the_door_back_to_evrart_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6324,
+    "name": "TASK.open_gary_door_cancel",
+    "initial_value": "False",
+    "description": "should be deleted?"
+  },
+  {
+    "id": 6325,
+    "name": "TASK.track_down_the_voice_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6326,
+    "name": "TASK.find_your_other_shoe_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6327,
+    "name": "TASK.hear_what_sunday_night_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6328,
+    "name": "TASK.sing_karaoke_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6329,
+    "name": "TASK.pay_for_the_damages_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6330,
+    "name": "TASK.pay_whirling_bill_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6331,
+    "name": "TASK.debrief_with_kim_day_one_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6332,
+    "name": "TASK.ask_kim_about_bulletholes_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6333,
+    "name": "TASK.ask_kim_about_seolite_database_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6334,
+    "name": "TASK.report_badge_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6335,
+    "name": "TASK.find_your_badge_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6336,
+    "name": "TASK.report_missing_gun_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6337,
+    "name": "TASK.call_station_lazareth_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6338,
+    "name": "TASK.get_primer_book_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6339,
+    "name": "TASK.find_your_heraldic_bird_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6340,
+    "name": "TASK.get_petanquista_new_boule_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6341,
+    "name": "TASK.find_out_what_anodic_dance_music_is_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6342,
+    "name": "TASK.doomed_investigation_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6343,
+    "name": "TASK.tell_dicemaker_of_actual_source_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6344,
+    "name": "TASK.tell_plaisance_of_actual_source_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6345,
+    "name": "TASK.help_revachol_ice_city_cut_losses_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6346,
+    "name": "TASK.find_out_if_whirling_part_of_doomed_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6347,
+    "name": "TASK.pick_up_your_die_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6348,
+    "name": "TASK.find_working_class_husband_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6349,
+    "name": "TASK.report_corpse_wo_taking_main_task_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6350,
+    "name": "TASK.interview_the_sunday_friend_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6351,
+    "name": "TASK.investigate_apt_10_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6352,
+    "name": "TASK.talk_to_the_manager_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6353,
+    "name": "TASK.sylvie_talk_to_garte_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6354,
+    "name": "TASK.take_bird_to_garte_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6355,
+    "name": "TASK.make_truce_with_Cuno_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6356,
+    "name": "TASK.buy_faln_pants_from_cuno_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6357,
+    "name": "TASK.open_gary_door_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6358,
+    "name": "TASK.get_the_weasel_key_from_manana_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6359,
+    "name": "TASK.lie_to_evrart_that_you_opened_weasel_door_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6360,
+    "name": "TASK.lie_to_evrart_that_you_opened_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6361,
+    "name": "TASK.unlock_the_weasle_door_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6362,
+    "name": "TASK.ask_cuno_about_the_armour_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6363,
+    "name": "TASK.style_your_paperwork_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6364,
+    "name": "TASK.read_the_watermark_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6365,
+    "name": "TASK.find_your_paperwork_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6366,
+    "name": "TASK.open_official_case_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6367,
+    "name": "TASK.open_trash_container_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6368,
+    "name": "TASK.who_put_the_clothes_in_the_trash_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6369,
+    "name": "TASK.talk_to_manana_about_the_armour_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6370,
+    "name": "TASK.find_one_armour_piece_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6371,
+    "name": "TASK.what_is_race_enigma_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6372,
+    "name": "TASK.interview_union_boss_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6373,
+    "name": "TASK.deliver_mail_to_fishing_village_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6374,
+    "name": "TASK.inspect_the_dead_body_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6375,
+    "name": "TASK.get_ammonium_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6376,
+    "name": "TASK.add_even_more_beauty_to_the_wall_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6377,
+    "name": "TASK.interview_wild_pines_rep_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6378,
+    "name": "TASK.probe_drivers_about_drugs_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6379,
+    "name": "TASK.question_drivers_about_drugs_cancel",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6380,
+    "name": "TASK.who_is_the_ladydriver_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6381,
+    "name": "TASK.search_through_the_locked_cabin_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6382,
+    "name": "TASK.what_does_joyce_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6383,
+    "name": "TASK.discovery_of_insulinde_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6384,
+    "name": "TASK.what_is_pale_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6385,
+    "name": "TASK.get_the_dead_body_down_from_the_tree_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6386,
+    "name": "TASK.ask_for_help_from_the_harbour_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6387,
+    "name": "TASK.run_serial_number_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6388,
+    "name": "TASK.ask_about_tattoo_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6389,
+    "name": "TASK.perform_field_autopsy_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6390,
+    "name": "TASK.get_gloves_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6391,
+    "name": "TASK.cut_the_belt_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6392,
+    "name": "TASK.boil_the_boots_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6393,
+    "name": "TASK.find_murder_weapon_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6394,
+    "name": "TASK.ballistics_analysis_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6395,
+    "name": "TASK.advanced_ballistics_analysis_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6396,
+    "name": "TASK.go_see_the_fridge_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6397,
+    "name": "TASK.double_check_fridge_is_big_enough_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6398,
+    "name": "TASK.double_check_fridge_with_kim_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6399,
+    "name": "TASK.put_the_dead_body_in_the_fridge_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6400,
+    "name": "TASK.send_corpse_to_processing_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6401,
+    "name": "TASK.wash_the_death_off_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6402,
+    "name": "TASK.investigate_mysterious_door_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6403,
+    "name": "TASK.enter_the_mysterious_door_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6404,
+    "name": "TASK.uncover_secrets_behind_the_mysterious_door_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6405,
+    "name": "TASK.who_was_caller_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6406,
+    "name": "TASK.did_sylvie_make_call_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6407,
+    "name": "TASK.find_out_whos_in_the_union_box_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6408,
+    "name": "TASK.tell_hardie_to_take_care_of_pigs_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6409,
+    "name": "TASK.interrogate_vigilantes_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6410,
+    "name": "TASK.return_to_hardies_with_more_evidence_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6411,
+    "name": "TASK.prove_your_authority_to_the_hardie_boys_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6412,
+    "name": "TASK.interrogate_klaasje_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6413,
+    "name": "TASK.confront_the_hardie_boys_with_what_klaasje_told_you_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6414,
+    "name": "TASK.question_klaasje_victim_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6415,
+    "name": "TASK.listen_to_merc_tape_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6416,
+    "name": "TASK.talk_to_klaasje_tape_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6417,
+    "name": "TASK.talk_to_titus_about_the_doorgunner_megamix_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6418,
+    "name": "TASK.get_the_whole_story_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6419,
+    "name": "TASK.get_hardie_boys_to_tell_you_the_whole_story_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6420,
+    "name": "TASK.confront_klaasje_with_full_story_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6421,
+    "name": "TASK.present_a_case_against_ruby_to_titus_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6422,
+    "name": "TASK.confront_hardie_about_drug_trade_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6423,
+    "name": "TASK.where_is_ruby_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6424,
+    "name": "TASK.inspect_the_buoy_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6425,
+    "name": "TASK.arrest_klaasje_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6426,
+    "name": "TASK.get_into_feld_building_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6427,
+    "name": "TASK.locate_ruby_on_the_coast_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6428,
+    "name": "TASK.la_puta_madres_peone_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6429,
+    "name": "TASK.determine_where_shot_came_from_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6430,
+    "name": "TASK.buy_a_map_of_martinaise_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6431,
+    "name": "TASK.check_lands_end_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6432,
+    "name": "TASK.check_boardwalk_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6433,
+    "name": "TASK.check_seafort_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6434,
+    "name": "TASK.ask_twins_about_island_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6435,
+    "name": "TASK.return_to_whirling_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6436,
+    "name": "TASK.report_to_the_tribunal_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6437,
+    "name": "TASK.investigate_sea_fortress_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6438,
+    "name": "TASK.light_graffito_on_fire_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6439,
+    "name": "TASK.fuel_the_generator_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6440,
+    "name": "TASK.open_blast_door_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6441,
+    "name": "TASK.rest_in_the_flak_tower_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6442,
+    "name": "TASK.offer_dolores_dei_figurines_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6443,
+    "name": "TASK.extract_a_confession_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6444,
+    "name": "TASK.inspect_the_phasmid_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6445,
+    "name": "TASK.return_to_mainland_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6446,
+    "name": "TASK.return_lenas_pin_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6447,
+    "name": "TASK.pay_lena_back_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6448,
+    "name": "TASK.get_reality_lowdown_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6449,
+    "name": "TASK.locate_morell_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6450,
+    "name": "TASK.tell_lena_about_water_lock_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6451,
+    "name": "TASK.tell_morell_lena_is_worried_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6452,
+    "name": "TASK.inspect_traps_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6453,
+    "name": "TASK.report_to_cryptozoologists_1_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6454,
+    "name": "TASK.find_out_why_the_trap_was_empty_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6455,
+    "name": "TASK.confront_cuno_about_locusts_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6456,
+    "name": "TASK.report_to_cryptozoologists_2_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6457,
+    "name": "TASK.restock_trap_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6458,
+    "name": "TASK.report_to_cryptozoologists_3_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6459,
+    "name": "TASK.inspect_traps_2_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6460,
+    "name": "TASK.report_to_lena_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6461,
+    "name": "TASK.apprehend_reckless_driver_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6462,
+    "name": "TASK.find_idiot_doom_spiral_jacket_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6463,
+    "name": "TASK.wash_dirty_jacket_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6464,
+    "name": "TASK.meet_lilienne_for_a_date_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6465,
+    "name": "TASK.look_into_church_spooks_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6466,
+    "name": "TASK.convince_or_evict_soona_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6467,
+    "name": "TASK.sync_the_sines_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6468,
+    "name": "TASK.egg_head_puzzle_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6469,
+    "name": "TASK.find_egg_beat_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6470,
+    "name": "TASK.find_egg_melody_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6471,
+    "name": "TASK.egg_repair_tape_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6472,
+    "name": "TASK.learn_about_acele_associates_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6473,
+    "name": "TASK.ask_evrart_about_claire_connection_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6474,
+    "name": "TASK.get_filament_from_fridge_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6475,
+    "name": "TASK.find_the_filament_memory_soona_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6476,
+    "name": "TASK.get_frozen_ice_cream_maker_open_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6477,
+    "name": "TASK.bring_off_site_copy_to_soona_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6478,
+    "name": "TASK.move_the_waterbowls_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6479,
+    "name": "TASK.tell_andre_to_move_in_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6480,
+    "name": "TASK.visit_nightclub_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6481,
+    "name": "TASK.check_on_soona_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6482,
+    "name": "TASK.talk_to_egg_about_cable_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6483,
+    "name": "TASK.report_to_soona_unmute_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6484,
+    "name": "TASK.tell_andre_about_soona",
+    "initial_value": "False",
+    "description": "after you have learned that soona doesnt like nightclubs"
+  },
+  {
+    "id": 6485,
+    "name": "TASK.tell_andre_about_soona_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6486,
+    "name": "TASK.tell_andre_about_soona_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6487,
+    "name": "TASK.find_two_random_people_to_sign_the_papers",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6488,
+    "name": "TASK.find_two_random_people_to_sign_the_papers_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6489,
+    "name": "TASK.find_two_random_people_to_sign_the_papers_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6490,
+    "name": "TASK.mail_the_signed_documents_to_evrart",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6491,
+    "name": "TASK.mail_the_signed_documents_to_evrart_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6492,
+    "name": "TASK.mail_the_signed_documents_to_evrart_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6493,
+    "name": "TASK.forge_liliennes_and_isobels_signatures",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6494,
+    "name": "TASK.forge_liliennes_and_isobels_signatures_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6495,
+    "name": "TASK.forge_liliennes_and_isobels_signatures_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6496,
+    "name": "TASK.shit_together",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6497,
+    "name": "TASK.shit_together_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6498,
+    "name": "TASK.shit_together_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6499,
+    "name": "TASK.briefing",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6500,
+    "name": "TASK.briefing_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6501,
+    "name": "TASK.briefing_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6502,
+    "name": "TASK.NewVariable_02",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6503,
+    "name": "TASK.report_back_to_evrart_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6504,
+    "name": "TASK.report_back_to_evrart",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6505,
+    "name": "TASK.report_back_to_evrart_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6506,
+    "name": "TASK.inspect_body_parts",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6507,
+    "name": "TASK.inspect_body_parts_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6508,
+    "name": "TASK.inspect_body_parts_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6509,
+    "name": "TASK.go_to_measurehead",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6510,
+    "name": "TASK.go_to_measurehead_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6511,
+    "name": "TASK.go_to_measurehead_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6512,
+    "name": "TASK.return_to_corpse",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6513,
+    "name": "TASK.return_to_corpse_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6514,
+    "name": "TASK.return_to_corpse_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6515,
+    "name": "TASK.ask_about_tattoo_other",
+    "initial_value": "False",
+    "description": "Points you to speak to Klaasje, if you spoke to Joyce; or vice versa"
+  },
+  {
+    "id": 6516,
+    "name": "TASK.ask_about_tattoo_other_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6517,
+    "name": "TASK.ask_about_tattoo_other_done",
+    "initial_value": "False",
+    "description": "Player has spoken to both Joyce and Klaasje about the tattoos"
+  },
+  {
+    "id": 6518,
+    "name": "TASK.talk_merc_tattoo",
+    "initial_value": "False",
+    "description": "Joyce has pointed you to talk to the Scab Leader about the tattoo"
+  },
+  {
+    "id": 6519,
+    "name": "TASK.talk_merc_tattoo_done",
+    "initial_value": "False",
+    "description": "Joyce has pointed you to talk to the Scab Leader about the tattoo and you've done it"
+  },
+  {
+    "id": 6520,
+    "name": "TASK.talk_merc_tattoo_cancelled",
+    "initial_value": "False",
+    "description": "Joyce has pointed you to talk to the Scab Leader about the tattoo but you've cancelled it"
+  },
+  {
+    "id": 6521,
+    "name": "TASK.watermark_turn_headlights_on",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6522,
+    "name": "TASK.watermark_turn_headlights_on_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6523,
+    "name": "TASK.watermark_turn_headlights_on_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6524,
+    "name": "TASK.watermark_stand_in_front",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6525,
+    "name": "TASK.watermark_stand_in_front_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6526,
+    "name": "TASK.watermark_stand_in_front_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6527,
+    "name": "TASK.search_the_mc_to_identify_the_traffic_hooligans_identity",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6528,
+    "name": "TASK.search_the_mc_to_identify_the_traffic_hooligans_identity_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6529,
+    "name": "TASK.search_the_mc_to_identify_the_traffic_hooligans_identity_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6530,
+    "name": "TASK.spirit_is_eternal",
+    "initial_value": "False",
+    "description": "Main task for the Spirit Bomb quest. Horrid Tie instructs you to buy the spirits and hold on."
+  },
+  {
+    "id": 6531,
+    "name": "TASK.spirit_is_eternal_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6532,
+    "name": "TASK.gain_the_spirits",
+    "initial_value": "False",
+    "description": "First subtask in the Spirit Is Eternal quest. Reminds the player to buy the spirits."
+  },
+  {
+    "id": 6533,
+    "name": "TASK.gain_the_spirits_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6534,
+    "name": "TASK.gain_the_spirits_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6535,
+    "name": "TASK.wait_for_the_signal",
+    "initial_value": "False",
+    "description": "Second subtask in the Spirit is Eternal quest. After the player has made the spirits, reminds them to hold onto the bottle and wait for the signal."
+  },
+  {
+    "id": 6536,
+    "name": "TASK.wait_for_the_signal_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6537,
+    "name": "TASK.wait_for_the_signal_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6538,
+    "name": "TASK.hold_onto_the_spirit_bomb",
+    "initial_value": "False",
+    "description": "Third and final subtask in the Spirit is Eternal quest. After the player has made the bomb, it reminds them to hold onto it -- to wait until the time is right."
+  },
+  {
+    "id": 6539,
+    "name": "TASK.hold_onto_the_spirit_bomb_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6540,
+    "name": "TASK.spirit_is_eternal_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6541,
+    "name": "TASK.hold_onto_the_spirit_bomb_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6542,
+    "name": "TASK.inspect_window",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6543,
+    "name": "TASK.inspect_window_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6544,
+    "name": "TASK.inspect_window_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6545,
+    "name": "TASK.perform_map_extrapolation",
+    "initial_value": "False",
+    "description": "now that you have a map, go back to the window"
+  },
+  {
+    "id": 6546,
+    "name": "TASK.perform_map_extrapolation_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6547,
+    "name": "TASK.perform_map_extrapolation_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6548,
+    "name": "TASK.find_heavy_fuel_oil",
+    "initial_value": "False",
+    "description": "to paint the wall"
+  },
+  {
+    "id": 6549,
+    "name": "TASK.find_heavy_fuel_oil_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6550,
+    "name": "TASK.find_heavy_fuel_oil_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6551,
+    "name": "TASK.ask_little_girl_in_village_about_gloves",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6552,
+    "name": "TASK.ask_little_girl_in_village_about_gloves_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6553,
+    "name": "TASK.ask_little_girl_in_village_about_gloves_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6554,
+    "name": "TASK.use_fuel_oil_to_paint_wall",
+    "initial_value": "False",
+    "description": "now that you have it"
+  },
+  {
+    "id": 6555,
+    "name": "TASK.use_fuel_oil_to_paint_wall_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6556,
+    "name": "TASK.use_fuel_oil_to_paint_wall_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6557,
+    "name": "TASK.ask_little_lily_about_gloves",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6558,
+    "name": "TASK.ask_little_lily_about_gloves_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6559,
+    "name": "TASK.ask_little_lily_about_gloves_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6560,
+    "name": "TASK.klaasjes_room_do_viscal",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6561,
+    "name": "TASK.klaasjes_room_do_viscal_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6562,
+    "name": "TASK.klaasjes_room_do_viscal_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6563,
+    "name": "TASK.perform_in_whirling",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6564,
+    "name": "TASK.perform_in_whirling_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6565,
+    "name": "TASK.perform_in_whirling_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6566,
+    "name": "TASK.use_boat",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6567,
+    "name": "TASK.use_boat_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6568,
+    "name": "TASK.use_boat_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6569,
+    "name": "TASK.plug_in_the_fridge",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6570,
+    "name": "TASK.plug_in_the_fridge_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6571,
+    "name": "TASK.plug_in_the_fridge_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6572,
+    "name": "TASK.get_kim_to_help_you_with_the_fridge",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6573,
+    "name": "TASK.get_kim_to_help_you_with_the_fridge_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6574,
+    "name": "TASK.get_kim_to_help_you_with_the_fridge_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6575,
+    "name": "TASK.discover_new_species",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6576,
+    "name": "TASK.discover_new_species_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6577,
+    "name": "TASK.discover_new_species_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6578,
+    "name": "TASK.find_the_traffic_hooligans_vehicle",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6579,
+    "name": "TASK.find_the_traffic_hooligans_vehicle_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6580,
+    "name": "TASK.find_the_traffic_hooligans_vehicle_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6581,
+    "name": "TASK.extract_a_motive_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6582,
+    "name": "TASK.deserter_again",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6583,
+    "name": "TASK.deserter_again_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6584,
+    "name": "TASK.deserter_again_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6585,
+    "name": "TASK.more_phasmid",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6586,
+    "name": "TASK.more_phasmid_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6587,
+    "name": "TASK.more_phasmid_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6588,
+    "name": "TASK.first_phasmid",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6589,
+    "name": "TASK.first_phasmid_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6590,
+    "name": "TASK.first_phasmid_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6591,
+    "name": "TASK.look_for_paperwork_in_trash",
+    "initial_value": "False",
+    "description": "sylvie told you she threw it away"
+  },
+  {
+    "id": 6592,
+    "name": "TASK.look_for_paperwork_in_trash_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6593,
+    "name": "TASK.look_for_paperwork_in_trash_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6594,
+    "name": "TASK.ask_rene_about_maybells",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6595,
+    "name": "TASK.ask_rene_about_maybells_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6596,
+    "name": "TASK.ask_rene_about_maybells_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6597,
+    "name": "TASK.minister_love_reporting_for_duty_cancelled",
+    "initial_value": "False",
+    "description": "help garte and sylvie out! oh, young love."
+  },
+  {
+    "id": 6598,
+    "name": "TASK.ask_boy_about_armour",
+    "initial_value": "False",
+    "description": "ask cuno if haven't met cuno yet"
+  },
+  {
+    "id": 6599,
+    "name": "TASK.ask_boy_about_armour_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6600,
+    "name": "TASK.ask_boy_about_armour_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6601,
+    "name": "TASK.ask_sylvie_about_gun",
+    "initial_value": "False",
+    "description": "ask sylvie about your missing gun"
+  },
+  {
+    "id": 6602,
+    "name": "TASK.ask_sylvie_about_gun_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6603,
+    "name": "TASK.ask_sylvie_about_gun_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6604,
+    "name": "TASK.close_water_lock",
+    "initial_value": "False",
+    "description": "once it's fixed"
+  },
+  {
+    "id": 6605,
+    "name": "TASK.close_water_lock_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6606,
+    "name": "TASK.close_water_lock_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6607,
+    "name": "TASK.return_to_cuno_from_manana",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6608,
+    "name": "TASK.return_to_cuno_from_manana_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6609,
+    "name": "TASK.return_to_cuno_from_manana_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6610,
+    "name": "TASK.NewVariable_01",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6611,
+    "name": "TASK.locate_the_firearm",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6612,
+    "name": "TASK.locate_the_firearm_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6613,
+    "name": "TASK.locate_the_firearm_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6614,
+    "name": "TASK.keep_searching_who_made_the_call",
+    "initial_value": "False",
+    "description": "subtask for when you find out that sylvie didn't make the call"
+  },
+  {
+    "id": 6615,
+    "name": "TASK.keep_searching_who_made_the_call_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6616,
+    "name": "TASK.keep_searching_who_made_the_call_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6617,
+    "name": "TASK.did_gartre_make_the_call",
+    "initial_value": "False",
+    "description": "first subtask of who made the call"
+  },
+  {
+    "id": 6618,
+    "name": "TASK.did_garte_make_the_call_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6619,
+    "name": "TASK.did_garte_make_the_call_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6620,
+    "name": "TASK.did_garte_make_the_call",
+    "initial_value": "False",
+    "description": "first subtask for who made the call"
+  },
+  {
+    "id": 6621,
+    "name": "TASK.take_spinners_to_pawnshop",
+    "initial_value": "False",
+    "description": "subtask of pay for damages"
+  },
+  {
+    "id": 6622,
+    "name": "TASK.take_spinners_to_pawnshop_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6623,
+    "name": "TASK.take_spinners_to_pawnshop_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6624,
+    "name": "TASK.return_to_garte_with_spinner_cash",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6625,
+    "name": "TASK.return_to_garte_with_spinner_cash_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6626,
+    "name": "TASK.return_to_garte_with_spinner_cash_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6627,
+    "name": "TASK.pass_the_hardie_authority_check",
+    "initial_value": "False",
+    "description": "Tutorializes the player to do the Hardie White check to proceed"
+  },
+  {
+    "id": 6628,
+    "name": "TASK.pass_the_hardie_authority_check_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6629,
+    "name": "TASK.pass_the_hardie_authority_check_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6630,
+    "name": "TASK.find_a_way_inside_apt_building",
+    "initial_value": "False",
+    "description": "first subtask for smoker on the balcony"
+  },
+  {
+    "id": 6631,
+    "name": "TASK.find_a_way_inside_apt_building_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6632,
+    "name": "TASK.find_a_way_inside_apt_building_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6633,
+    "name": "TASK.find_apartment_twenty_eight",
+    "initial_value": "False",
+    "description": "subtask for locating smoker's apt door"
+  },
+  {
+    "id": 6634,
+    "name": "TASK.find_apartment_twenty_eight_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6635,
+    "name": "TASK.find_apartment_twenty_eight_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6636,
+    "name": "TASK.ask_garte_about_clothes",
+    "initial_value": "False",
+    "description": "the ones in the trash"
+  },
+  {
+    "id": 6637,
+    "name": "TASK.ask_garte_about_clothes_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6638,
+    "name": "TASK.ask_garte_about_clothes_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6639,
+    "name": "TASK.ask_cuno_about_clothes",
+    "initial_value": "False",
+    "description": "the ones in the trash"
+  },
+  {
+    "id": 6640,
+    "name": "TASK.ask_cuno_about_clothes_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6641,
+    "name": "TASK.ask_cuno_about_clothes_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6642,
+    "name": "TASK.find_mystery_trash_person",
+    "initial_value": "False",
+    "description": "who put clothes in the trash"
+  },
+  {
+    "id": 6643,
+    "name": "TASK.find_mystery_trash_person_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6644,
+    "name": "TASK.find_mystery_trash_person_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6645,
+    "name": "TASK.fuel_generator",
+    "initial_value": "False",
+    "description": "subtask for blast door"
+  },
+  {
+    "id": 6646,
+    "name": "TASK.fuel_generator_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6647,
+    "name": "TASK.fuel_generator_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6648,
+    "name": "TASK.ask_rene_about_the_photograph_found_in_his_booth",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6649,
+    "name": "TASK.ask_rene_about_the_photograph_found_in_his_booth_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6650,
+    "name": "TASK.ask_rene_about_the_photograph_found_in_his_booth_canceled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6651,
+    "name": "TASK.waiting_for_info_on_armour",
+    "initial_value": "False",
+    "description": "Called in armour on Day 1 and are waiting for Day 2"
+  },
+  {
+    "id": 6652,
+    "name": "TASK.waiting_for_info_on_armour_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6653,
+    "name": "TASK.waiting_for_info_on_armour_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6654,
+    "name": "TASK.find_voice_in_apt_done_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6655,
+    "name": "TASK.perikarnassian_theory_of_love",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6656,
+    "name": "TASK.perikarnassian_theory_of_love_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6657,
+    "name": "TASK.perikarnassian_theory_of_love_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6658,
+    "name": "TASK.trap_boathouses",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6659,
+    "name": "TASK.trap_boathouses_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6660,
+    "name": "TASK.trap_boathouses_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6661,
+    "name": "TASK.trap_landsend",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6662,
+    "name": "TASK.trap_landsend_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6663,
+    "name": "TASK.trap_landsend_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6664,
+    "name": "TASK.trap_morell",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6665,
+    "name": "TASK.trap_morell_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6666,
+    "name": "TASK.trap_morell_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6667,
+    "name": "TASK.trap_canal",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6668,
+    "name": "TASK.trap_canal_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6669,
+    "name": "TASK.trap_canal_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6670,
+    "name": "TASK.garys_last_secret",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6671,
+    "name": "TASK.garys_last_secret_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6672,
+    "name": "TASK.garys_last_secret_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6673,
+    "name": "TASK.lena_hiding",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6674,
+    "name": "TASK.lena_hiding_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6675,
+    "name": "TASK.lena_hiding_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6676,
+    "name": "TASK.undaunted_phasmid_discoverer",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6677,
+    "name": "TASK.undaunted_phasmid_discoverer_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6678,
+    "name": "TASK.undaunted_phasmid_discoverer_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6679,
+    "name": "TASK.check_one_more_trap",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6680,
+    "name": "TASK.check_one_more_trap_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6681,
+    "name": "TASK.check_one_more_trap_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6682,
+    "name": "TASK.ask_about_ruby_in_village",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6683,
+    "name": "TASK.ask_about_ruby_in_village_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6684,
+    "name": "TASK.ask_about_ruby_in_village_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6685,
+    "name": "TASK.washerwoman_hiding_something",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6686,
+    "name": "TASK.washerwoman_hiding_something_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6687,
+    "name": "TASK.washerwoman_hiding_something_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6688,
+    "name": "TASK.confront_washerwoman_bullet",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6689,
+    "name": "TASK.confront_washerwoman_bullet_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6690,
+    "name": "TASK.confront_washerwoman_bullet_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6691,
+    "name": "TASK.ruby_not_village_explore_peninsula",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6692,
+    "name": "TASK.ruby_not_village_explore_peninsula_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6693,
+    "name": "TASK.ruby_not_village_explore_peninsula_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6694,
+    "name": "TASK.inspect_mural",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6695,
+    "name": "TASK.inspect_mural_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6696,
+    "name": "TASK.inspect_mural_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6697,
+    "name": "TASK.begin_with_fisherfolk",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6698,
+    "name": "TASK.begin_with_fisherfolk_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6699,
+    "name": "TASK.begin_with_fisherfolk_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6700,
+    "name": "TASK.ask_the_wind",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6701,
+    "name": "TASK.ask_the_wind_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6702,
+    "name": "TASK.ask_the_wind_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6703,
+    "name": "TASK.climb_ladder",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6704,
+    "name": "TASK.climb_ladder_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6705,
+    "name": "TASK.climb_ladder_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6706,
+    "name": "TASK.go_down_get_kim",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6707,
+    "name": "TASK.go_down_get_kim_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6708,
+    "name": "TASK.go_down_get_kim_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6709,
+    "name": "TASK.explore_the_passages",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6710,
+    "name": "TASK.explore_the_passages_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6711,
+    "name": "TASK.explore_the_passages_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6712,
+    "name": "TASK.enter_cavern",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6713,
+    "name": "TASK.enter_cavern_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6714,
+    "name": "TASK.enter_cavern_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6715,
+    "name": "TASK.look_at_tent",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6716,
+    "name": "TASK.look_at_tent_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6717,
+    "name": "TASK.look_at_tent_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6718,
+    "name": "TASK.read_ruby_journal",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6719,
+    "name": "TASK.read_ruby_journal_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6720,
+    "name": "TASK.read_ruby_journal_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6721,
+    "name": "TASK.find_the_armoured_gloves",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6722,
+    "name": "TASK.find_the_armoured_gloves_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6723,
+    "name": "TASK.find_the_armoured_gloves_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6724,
+    "name": "TASK.ask_cindy_about_the_armoured_gloves",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6725,
+    "name": "TASK.ask_cindy_about_the_armoured_gloves_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6726,
+    "name": "TASK.ask_cindy_about_the_armoured_gloves_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6727,
+    "name": "TASK.solve_the_strike_deadlock_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6728,
+    "name": "TASK.search_tent",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6729,
+    "name": "TASK.search_tent_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6730,
+    "name": "TASK.search_tent_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6731,
+    "name": "TASK.get_the_armoured_gloves_from_lillys_sandcastle",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6732,
+    "name": "TASK.get_the_armoured_gloves_from_lillys_sandcastle_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6733,
+    "name": "TASK.get_the_armoured_gloves_from_lillys_sandcastle_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6734,
+    "name": "TASK.look_through_magazines",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6735,
+    "name": "TASK.look_through_magazines_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6736,
+    "name": "TASK.look_through_magazines_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6737,
+    "name": "TASK.find_the_armoured_gauntlets",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6738,
+    "name": "TASK.find_the_armoured_gauntlets_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6739,
+    "name": "TASK.find_the_armoured_gauntlets_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6740,
+    "name": "TASK.pissing_competition",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6741,
+    "name": "TASK.pissing_competition_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6742,
+    "name": "TASK.pissing_competition_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6743,
+    "name": "TASK.pyrholidon",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6744,
+    "name": "TASK.pyrholidon_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6745,
+    "name": "TASK.pyrholidon_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6746,
+    "name": "TASK.questions_for_joyce",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6747,
+    "name": "TASK.questions_for_joyce_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6748,
+    "name": "TASK.questions_for_joyce_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6749,
+    "name": "TASK.tell_cryptos_of_city",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6750,
+    "name": "TASK.tell_cryptos_of_city_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6751,
+    "name": "TASK.tell_cryptos_of_city_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6752,
+    "name": "TASK.examine_libray_card_wo_taking_main_task",
+    "initial_value": "False",
+    "description": "subtask for reporting the dead body to the station"
+  },
+  {
+    "id": 6753,
+    "name": "TASK.examine_libray_card_wo_taking_main_task_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6754,
+    "name": "TASK.examine_libray_card_wo_taking_main_task_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6755,
+    "name": "TASK.examine_library_card_with_main_task",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6756,
+    "name": "TASK.examine_library_card_with_main_task_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6757,
+    "name": "TASK.examine_library_card_with_main_task_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6758,
+    "name": "TASK.NewVariable_03",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6759,
+    "name": "TASK.call_station_about_dead_body_wo_taking_main_case",
+    "initial_value": "False",
+    "description": "dead body on the boardwalk"
+  },
+  {
+    "id": 6760,
+    "name": "TASK.call_station_about_dead_body_wo_taking_main_case_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6761,
+    "name": "TASK.call_station_about_dead_body_wo_taking_main_case_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6762,
+    "name": "TASK.joyce_keep_asking_later",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6763,
+    "name": "TASK.joyce_keep_asking_later_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6764,
+    "name": "TASK.joyce_keep_asking_later_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6765,
+    "name": "TASK.return_to_body_on_boardwalk_with_kim",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6766,
+    "name": "TASK.return_to_body_on_boardwalk_with_kim_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6767,
+    "name": "TASK.return_to_body_on_boardwalk_with_kim_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6768,
+    "name": "TASK.third_test_subtask",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6769,
+    "name": "TASK.ask_soona_about_dance_club",
+    "initial_value": "False",
+    "description": "subtask - ask her how she likes the idea of a dance club"
+  },
+  {
+    "id": 6770,
+    "name": "TASK.ask_soona_about_dance_club_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6771,
+    "name": "TASK.ask_soona_about_dance_club_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6772,
+    "name": "TASK.find_any_info_on_gun",
+    "initial_value": "False",
+    "description": "Directs player to talk to people abotu the missing gun"
+  },
+  {
+    "id": 6773,
+    "name": "TASK.find_any_info_on_gun_done",
+    "initial_value": "False",
+    "description": "Finishes task"
+  },
+  {
+    "id": 6774,
+    "name": "TASK.find_any_info_on_gun_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6775,
+    "name": "TASK.keep_looking_for_gun",
+    "initial_value": "False",
+    "description": "AFter talking to Roy about missing gun, directs player to talk to more folk"
+  },
+  {
+    "id": 6776,
+    "name": "TASK.keep_looking_for_gun_done",
+    "initial_value": "False",
+    "description": "Finishes task"
+  },
+  {
+    "id": 6777,
+    "name": "TASK.keep_looking_for_gun_cancelled",
+    "initial_value": "False",
+    "description": "Cancels task"
+  },
+  {
+    "id": 6778,
+    "name": "TASK.find_bullet_before_fooled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6779,
+    "name": "TASK.find_bullet_before_fooled_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6780,
+    "name": "TASK.find_bullet_before_fooled_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6781,
+    "name": "TASK.do_not_talk_to_rene_and_gaston_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6782,
+    "name": "TASK.do_not_talk_to_rene_and_gaston_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6783,
+    "name": "TASK.helping_soona",
+    "initial_value": "False",
+    "description": "a subtask for help ravers start a nightclub"
+  },
+  {
+    "id": 6784,
+    "name": "TASK.helping_soona_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6785,
+    "name": "TASK.helping_soona_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6786,
+    "name": "TASK.soona_headphones_subtask",
+    "initial_value": "False",
+    "description": "succeed the perception white check in soona's main"
+  },
+  {
+    "id": 6787,
+    "name": "TASK.soona_headphones_subtask_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6788,
+    "name": "TASK.soona_headphones_subtask_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6789,
+    "name": "TASK.do_not_talk_to_rene_and_gaston",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6790,
+    "name": "TASK.what_happened_to_the_previous_forewoman",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6791,
+    "name": "TASK.what_happened_to_the_previous_forewoman_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6792,
+    "name": "TASK.what_happened_to_the_previous_forewoman_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6793,
+    "name": "TASK.communist_dream_quest_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6794,
+    "name": "TASK.communist_dream_quest",
+    "initial_value": "False",
+    "description": "get organized, comrade"
+  },
+  {
+    "id": 6795,
+    "name": "TASK.communist_dream_quest_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6796,
+    "name": "TASK.sniff_out_comrades",
+    "initial_value": "False",
+    "description": "talk to cindy and manana"
+  },
+  {
+    "id": 6797,
+    "name": "TASK.sniff_out_comrades_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6798,
+    "name": "TASK.sniff_out_comrades_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6799,
+    "name": "TASK.get_yourself_organised",
+    "initial_value": "False",
+    "description": "communist dream quest"
+  },
+  {
+    "id": 6800,
+    "name": "TASK.get_yourself_organised_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6801,
+    "name": "TASK.get_yourself_organised_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6802,
+    "name": "TASK.find_passphrase_steban",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6803,
+    "name": "TASK.find_passphrase_steban_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6804,
+    "name": "TASK.find_passphrase_steban_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6805,
+    "name": "TASK.find_out_about_ideologo",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6806,
+    "name": "TASK.find_out_about_ideologo_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6807,
+    "name": "TASK.find_out_about_ideologo_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6808,
+    "name": "TASK.attend_secret_communist_meeting",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6809,
+    "name": "TASK.attend_secret_communist_meeting_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6810,
+    "name": "TASK.attend_secret_communist_meeting_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6811,
+    "name": "TASK.join_reading_group",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6812,
+    "name": "TASK.join_reading_group_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6813,
+    "name": "TASK.join_reading_group_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6814,
+    "name": "TASK.read_stebans_book",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6815,
+    "name": "TASK.read_stebans_book_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6816,
+    "name": "TASK.read_stebans_book_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6817,
+    "name": "TASK.return_to_steban",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6818,
+    "name": "TASK.return_to_steban_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6819,
+    "name": "TASK.return_to_steban_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6820,
+    "name": "TASK.take_on_responsibility",
+    "initial_value": "False",
+    "description": "moralist dream quest main task"
+  },
+  {
+    "id": 6821,
+    "name": "TASK.take_on_responsibility_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6822,
+    "name": "TASK.take_on_responsibility_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6823,
+    "name": "TASK.talk_moralism_with_sunday_friend",
+    "initial_value": "False",
+    "description": "moralist dream subtask"
+  },
+  {
+    "id": 6824,
+    "name": "TASK.talk_moralism_with_sunday_friend_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6825,
+    "name": "TASK.talk_moralism_with_sunday_friend_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6826,
+    "name": "TASK.form_a_committee",
+    "initial_value": "False",
+    "description": "moralist dream subtask"
+  },
+  {
+    "id": 6827,
+    "name": "TASK.form_a_committee_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6828,
+    "name": "TASK.form_a_committee_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6829,
+    "name": "TASK.find_some_moralists",
+    "initial_value": "False",
+    "description": "moralist dream subtask"
+  },
+  {
+    "id": 6830,
+    "name": "TASK.find_some_moralists_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6831,
+    "name": "TASK.find_some_moralists_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6832,
+    "name": "TASK.ask_smoker_about_sunday_friend",
+    "initial_value": "False",
+    "description": "moralist dream subtask"
+  },
+  {
+    "id": 6833,
+    "name": "TASK.ask_smoker_about_sunday_friend_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6834,
+    "name": "TASK.ask_smoker_about_sunday_friend_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6835,
+    "name": "TASK.talk_moralism_with_trant",
+    "initial_value": "False",
+    "description": "moralist dream subtask"
+  },
+  {
+    "id": 6836,
+    "name": "TASK.talk_moralism_with_trant_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6837,
+    "name": "TASK.talk_moralism_with_trant_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6838,
+    "name": "TASK.find_technical_expertise",
+    "initial_value": "False",
+    "description": "moralist dream subtask"
+  },
+  {
+    "id": 6839,
+    "name": "TASK.find_technical_expertise_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6840,
+    "name": "TASK.find_technical_expertise_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6841,
+    "name": "TASK.visit_landsend",
+    "initial_value": "False",
+    "description": "moralist dream subtask"
+  },
+  {
+    "id": 6842,
+    "name": "TASK.visit_landsend_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6843,
+    "name": "TASK.visit_landsend_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6844,
+    "name": "TASK.find_antenna_location",
+    "initial_value": "False",
+    "description": "moralist dream subtask"
+  },
+  {
+    "id": 6845,
+    "name": "TASK.find_antenna_location_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6846,
+    "name": "TASK.find_antenna_location_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6847,
+    "name": "TASK.find_working_transceiver",
+    "initial_value": "False",
+    "description": "moralist dream subtask"
+  },
+  {
+    "id": 6848,
+    "name": "TASK.find_working_transceiver_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6849,
+    "name": "TASK.find_working_transceiver_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6850,
+    "name": "TASK.contact_warship_archer",
+    "initial_value": "False",
+    "description": "moralist dream subtask"
+  },
+  {
+    "id": 6851,
+    "name": "TASK.contact_warship_archer_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6852,
+    "name": "TASK.contact_warship_archer_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6853,
+    "name": "TASK.find_children_of_the_big_sea",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6854,
+    "name": "TASK.NewVariable_05",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6855,
+    "name": "TASK.NewVariable_06",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6856,
+    "name": "TASK.find_children_of_the_sea_first_step",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6857,
+    "name": "TASK.find_children_of_the_sea_first_step_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6858,
+    "name": "TASK.find_children_of_the_sea_first_step_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6859,
+    "name": "TASK.talk_to_twins_with_kim",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6860,
+    "name": "TASK.talk_to_twins_with_kim_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6861,
+    "name": "TASK.talk_to_twins_with_kim_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6862,
+    "name": "TASK.talk_to_speedfreaks_fm",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6863,
+    "name": "TASK.talk_to_speedfreaks_fm_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6864,
+    "name": "TASK.talk_to_speedfreaks_fm_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6865,
+    "name": "TASK.return_to_ask_kids_where",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6866,
+    "name": "TASK.return_to_ask_kids_where_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6867,
+    "name": "TASK.return_to_ask_kids_where_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6868,
+    "name": "TASK.return_to_mural_for_new_check",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6869,
+    "name": "TASK.return_to_mural_for_new_check_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6870,
+    "name": "TASK.return_to_mural_for_new_check_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6871,
+    "name": "TASK.find_children_of_the_big_sea_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6872,
+    "name": "TASK.find_children_of_the_big_sea_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6873,
+    "name": "TASK.become_man_of_plenty",
+    "initial_value": "False",
+    "description": "ultraliberal dream main quest"
+  },
+  {
+    "id": 6874,
+    "name": "TASK.become_man_of_plenty_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6875,
+    "name": "TASK.become_man_of_plenty_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6876,
+    "name": "TASK.buy_art_become_patron",
+    "initial_value": "False",
+    "description": "ultraliberal dream subtask"
+  },
+  {
+    "id": 6877,
+    "name": "TASK.buy_art_become_patron_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6878,
+    "name": "TASK.buy_art_become_patron_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6879,
+    "name": "TASK.sell_art_for_gains",
+    "initial_value": "False",
+    "description": "ultraliberal dream quest task to sell cindy's art"
+  },
+  {
+    "id": 6880,
+    "name": "TASK.sell_art_for_gains_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6881,
+    "name": "TASK.sell_art_for_gains_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6882,
+    "name": "TASK.get_wealth_manager",
+    "initial_value": "False",
+    "description": "ultraliberal dream quest task to get wealth manager"
+  },
+  {
+    "id": 6883,
+    "name": "TASK.get_wealth_manager_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6884,
+    "name": "TASK.get_wealth_manager_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6885,
+    "name": "TASK.see_ids_monument_renovation",
+    "initial_value": "False",
+    "description": "ultraliberal dream quest subtask"
+  },
+  {
+    "id": 6886,
+    "name": "TASK.see_ids_monument_renovation_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6887,
+    "name": "TASK.see_ids_monument_renovation_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6888,
+    "name": "TASK.discuss_renovation_ids",
+    "initial_value": "False",
+    "description": "ultraliberal dream quest subtask"
+  },
+  {
+    "id": 6889,
+    "name": "TASK.discuss_renovation_ids_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6890,
+    "name": "TASK.discuss_renovation_ids_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6891,
+    "name": "TASK.check_back_on_renovation_later",
+    "initial_value": "False",
+    "description": "ultraliberal dream quest subtask"
+  },
+  {
+    "id": 6892,
+    "name": "TASK.check_back_on_renovation_later_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6893,
+    "name": "TASK.check_back_on_renovation_later_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6894,
+    "name": "TASK.ask_traditionalists_how_to_turn_back_time",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6895,
+    "name": "TASK.ask_traditionalists_how_to_turn_back_time_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6896,
+    "name": "TASK.ask_traditionalists_how_to_turn_back_time_canceled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6897,
+    "name": "TASK.ask_paledriver_how_to_turn_back_time",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6898,
+    "name": "TASK.ask_paledriver_how_to_turn_back_time_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6899,
+    "name": "TASK.ask_paledriver_how_to_turn_back_time_canceled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6900,
+    "name": "TASK.face_yourself",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6901,
+    "name": "TASK.face_yourself_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6902,
+    "name": "TASK.face_yourself_canceled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6903,
+    "name": "TASK.find_a_way_to_turn_back_time",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6904,
+    "name": "TASK.find_a_way_to_turn_back_time_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6905,
+    "name": "TASK.find_a_way_to_turn_back_time_canceled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6906,
+    "name": "TASK.talk_to_washer_woman_about_radio",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6907,
+    "name": "TASK.talk_to_washer_woman_about_radio_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6908,
+    "name": "TASK.talk_to_washer_woman_about_radio_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6909,
+    "name": "TASK.talk_to_washer_woman_again_with_kim_radio",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6910,
+    "name": "TASK.talk_to_washer_woman_again_with_kim_radio_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6911,
+    "name": "TASK.talk_to_washer_woman_again_with_kim_radio_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6912,
+    "name": "TASK.return_to_mhead_once_you_understand_reality",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6913,
+    "name": "TASK.return_to_mhead_once_you_understand_reality_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6914,
+    "name": "TASK.return_to_mhead_once_you_understand_reality_cancelled",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6915,
+    "name": "TASK.return_to_measurehead_after_joyce_left",
+    "initial_value": "False",
+    "description": "can't finish the reality quest, but must continue turning back time quest"
+  },
+  {
+    "id": 6916,
+    "name": "TASK.return_to_measurehead_after_joyce_left_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 6917,
+    "name": "TASK.return_to_measurehead_after_joyce_left_cancelled",
+    "initial_value": "False",
+    "description": ""
+  }
+]

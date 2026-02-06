@@ -1,0 +1,41 @@
+<Page
+    x:Class="DiscoSaveEditor.Views.PartyPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <ScrollViewer Padding="32,24,32,32">
+        <StackPanel Spacing="24" MaxWidth="600">
+
+            <TextBlock Text="Party &amp; Location" Style="{StaticResource TitleTextBlockStyle}" />
+
+            <!-- Area -->
+            <StackPanel Spacing="4">
+                <TextBlock Text="Current Area" Style="{StaticResource CaptionTextBlockStyle}" 
+                           Foreground="{ThemeResource TextFillColorSecondaryBrush}" />
+                <TextBox Text="{x:Bind ViewModel.AreaId, Mode=TwoWay}" />
+            </StackPanel>
+
+            <!-- Kim -->
+            <TextBlock Text="Kim Kitsuragi" Style="{StaticResource SubtitleTextBlockStyle}" Margin="0,8,0,0" />
+            <StackPanel Spacing="8">
+                <ToggleSwitch Header="Kim in Party" IsOn="{x:Bind ViewModel.IsKimInParty, Mode=TwoWay}" />
+                <ToggleSwitch Header="Kim Left Outside" IsOn="{x:Bind ViewModel.IsKimLeftOutside, Mode=TwoWay}" />
+                <ToggleSwitch Header="Kim Abandoned" IsOn="{x:Bind ViewModel.IsKimAbandoned, Mode=TwoWay}" />
+                <ToggleSwitch Header="Kim Away Until Morning" IsOn="{x:Bind ViewModel.IsKimAwayUpToMorning, Mode=TwoWay}" />
+                <ToggleSwitch Header="Kim Sleeping in His Room" IsOn="{x:Bind ViewModel.IsKimSleepingInHisRoom, Mode=TwoWay}" />
+            </StackPanel>
+
+            <!-- Cuno -->
+            <TextBlock Text="Cuno" Style="{StaticResource SubtitleTextBlockStyle}" Margin="0,8,0,0" />
+            <StackPanel Spacing="8">
+                <ToggleSwitch Header="Cuno in Party" IsOn="{x:Bind ViewModel.IsCunoInParty, Mode=TwoWay}" />
+                <ToggleSwitch Header="Cuno Left Outside" IsOn="{x:Bind ViewModel.IsCunoLeftOutside, Mode=TwoWay}" />
+                <ToggleSwitch Header="Cuno Abandoned" IsOn="{x:Bind ViewModel.IsCunoAbandoned, Mode=TwoWay}" />
+            </StackPanel>
+
+            <!-- Misc -->
+            <TextBlock Text="Status" Style="{StaticResource SubtitleTextBlockStyle}" Margin="0,8,0,0" />
+            <ToggleSwitch Header="Has Hangover" IsOn="{x:Bind ViewModel.HasHangover, Mode=TwoWay}" />
+        </StackPanel>
+    </ScrollViewer>
+</Page>

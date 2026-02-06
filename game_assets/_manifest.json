@@ -1,0 +1,86 @@
+{
+  "version": "5/20/2022 12:05:57 PM",
+  "author": "ZAUM",
+  "files": {
+    "actors_skills.json": {
+      "count": 28,
+      "size_kb": 29.2
+    },
+    "actors_npcs_major.json": {
+      "count": 122,
+      "size_kb": 38.5
+    },
+    "actors_npcs_minor.json": {
+      "count": 263,
+      "size_kb": 82.2
+    },
+    "actors_player.json": {
+      "count": 1,
+      "size_kb": 0.3
+    },
+    "actors_voices.json": {
+      "count": 10,
+      "size_kb": 3.1
+    },
+    "items_inventory.json": {
+      "count": 206,
+      "size_kb": 195.8
+    },
+    "items_thoughts.json": {
+      "count": 53,
+      "size_kb": 82.8
+    },
+    "conversations_index.json": {
+      "count": 1501,
+      "size_kb": 418.2
+    },
+    "variables_tasks.json": {
+      "count": 1131,
+      "size_kb": 167.3
+    },
+    "variables_xp.json": {
+      "count": 689,
+      "size_kb": 102.5
+    },
+    "variables_reputation.json": {
+      "count": 21,
+      "size_kb": 3.0
+    },
+    "variables_character.json": {
+      "count": 111,
+      "size_kb": 18.0
+    },
+    "variables_stats.json": {
+      "count": 41,
+      "size_kb": 5.3
+    },
+    "variables_inventory.json": {
+      "count": 266,
+      "size_kb": 44.2
+    },
+    "variables_locations.json": {
+      "count": 8307,
+      "size_kb": 1555.0
+    },
+    "variables_auto.json": {
+      "count": 56,
+      "size_kb": 8.4
+    },
+    "variables_globals.json": {
+      "count": 5,
+      "size_kb": 0.7
+    },
+    "variables_all.json": {
+      "count": 10645,
+      "size_kb": 1906.7
+    },
+    "skill_key_map.json": {
+      "description": "Maps save file camelCase keys to UPPER_CASE skill types and display names",
+      "size_kb": 4.6
+    },
+    "save_file_schema.json": {
+      "description": "Complete schema of every field in every save file section",
+      "size_kb": 16.4
+    }
+  }
+}

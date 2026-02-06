@@ -1,0 +1,40 @@
+<Window
+    x:Class="DiscoSaveEditor.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:controls="using:Microsoft.UI.Xaml.Controls"
+    mc:Ignorable="d"
+    Title="Disco Elysium Save Editor">
+
+    <Grid>
+        <NavigationView x:Name="NavView" 
+                        PaneDisplayMode="Left"
+                        IsSettingsVisible="False"
+                        SelectionChanged="NavView_SelectionChanged">
+            <NavigationView.MenuItems>
+                <NavigationViewItem Content="Character" Icon="Contact" Tag="Character" />
+                <NavigationViewItem Content="Inventory" Icon="Shop" Tag="Inventory" />
+                <NavigationViewItem Content="Thoughts" Icon="PostMessage" Tag="ThoughtCabinet" />
+                <NavigationViewItem Content="Journal" Icon="Read" Tag="Journal" />
+                <NavigationViewItem Content="Party" Icon="People" Tag="Party" />
+                <NavigationViewItem Content="World &amp; Variables" Icon="Globe" Tag="World" />
+            </NavigationView.MenuItems>
+
+            <Frame x:Name="ContentFrame" />
+            
+            <NavigationView.PaneFooter>
+                <StackPanel Orientation="Vertical" Padding="12">
+                    <Button Content="Load Save" HorizontalAlignment="Stretch" Command="{x:Bind ViewModel.LoadSaveCommand}" />
+                    <Button Content="Save File" HorizontalAlignment="Stretch" Margin="0,8,0,0" 
+                            Command="{x:Bind ViewModel.SaveCommand}" Style="{StaticResource AccentButtonStyle}" />
+                </StackPanel>
+            </NavigationView.PaneFooter>
+        </NavigationView>
+
+        <controls:ProgressBar VerticalAlignment="Top" 
+                              IsIndeterminate="True" 
+                              Visibility="{x:Bind ViewModel.IsLoading, Mode=OneWay}" />
+    </Grid>
+</Window>

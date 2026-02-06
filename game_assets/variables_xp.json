@@ -1,0 +1,4825 @@
+[
+  {
+    "id": 9319,
+    "name": "XP.pinball_beat_gurdis_goats",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9320,
+    "name": "XP.assess_your_medical_condition",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9321,
+    "name": "XP.contact_la_revacholiere",
+    "initial_value": "False",
+    "description": "100",
+    "xp_points": "100"
+  },
+  {
+    "id": 9322,
+    "name": "XP.a_hat_for_acele",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9323,
+    "name": "XP.almost_turn_cuno_into_a_pig",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9324,
+    "name": "XP.analyze_footprints_in_the_yard",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9325,
+    "name": "XP.ask_cuno_about_the_nakks",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9326,
+    "name": "XP.avellonian_bathroom_steam_fixer",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9327,
+    "name": "XP.confirm_name_harry",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9328,
+    "name": "XP.cross_the_cunos_off_the_suspect_list",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9329,
+    "name": "XP.cry_in_front_of_the_hanged_man",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9330,
+    "name": "XP.detect_compromized_skillset",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9331,
+    "name": "XP.determine_victims_age",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9332,
+    "name": "XP.determine_victims_ethnicity",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9333,
+    "name": "XP.discover_the_bullet",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9334,
+    "name": "XP.do_pyrholidon",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9335,
+    "name": "XP.egg_head_politics",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9336,
+    "name": "XP.ethnic_analysis",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9337,
+    "name": "XP.find_a_way_inside_harbour",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9338,
+    "name": "XP.find_cunos_shack",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9339,
+    "name": "XP.find_out_whose_apartment_you_opened",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9340,
+    "name": "XP.find_the_apricot_chewing_gum_scented_one",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9341,
+    "name": "XP.find_your_initials",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9342,
+    "name": "XP.form_a_theory_on_deserter",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9343,
+    "name": "XP.give_the_case_an_alphanumeric",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9344,
+    "name": "XP.got_into_the_apartment_building",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9345,
+    "name": "XP.determine_lividity_tampering",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9346,
+    "name": "XP.determine_victim_coitus",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9347,
+    "name": "XP.determine_why_he_died",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9348,
+    "name": "XP.help_annette",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9349,
+    "name": "XP.is_garte_bartender",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9350,
+    "name": "XP.kim_aerostatic",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9351,
+    "name": "XP.listen_to_one_of_roys_recordings",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9352,
+    "name": "XP.meet_the_smoker_on_the_balcony_again",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9353,
+    "name": "XP.phasmid_antenna",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9354,
+    "name": "XP.phasmid_thinks_with_its_limbs",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9355,
+    "name": "XP.pinpoint_ledger_smell",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9356,
+    "name": "XP.psych_session",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9357,
+    "name": "XP.read_the_damaged_letter",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9358,
+    "name": "XP.reconstruct_the_day_at_the_aquarium",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9359,
+    "name": "XP.rediscovery_of_insulinde",
+    "initial_value": "False",
+    "description": "100",
+    "xp_points": "100"
+  },
+  {
+    "id": 9360,
+    "name": "XP.remind_yourself_of_dolores_dei",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9361,
+    "name": "XP.report_antique_weapon_cache",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9362,
+    "name": "XP.reveal_the_boat_discrepancy",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9363,
+    "name": "XP.sylvie_departure",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9364,
+    "name": "XP.teach_cuno_about_the_k_word",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9365,
+    "name": "XP.the_claire_connection",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9366,
+    "name": "XP.the_name_of_your_wife",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9367,
+    "name": "XP.turn_klaasje_over_moralintern",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9368,
+    "name": "XP.who_built_martinaise",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9369,
+    "name": "XP.win_kim_in_authority_off",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9370,
+    "name": "XP.dance_to_the_anodic_music",
+    "initial_value": "False",
+    "description": "100",
+    "xp_points": "100"
+  },
+  {
+    "id": 9371,
+    "name": "XP.teenage_escapades",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9372,
+    "name": "XP.bluedoor_orb",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9373,
+    "name": "XP.execution_visual",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9374,
+    "name": "XP.why_officer_dros_kept_fighting",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9375,
+    "name": "XP.connect_cigarettes_to_deserter",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9376,
+    "name": "XP.connect_cache_to_deserter",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9377,
+    "name": "XP.connect_bunker_to_deserter",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9378,
+    "name": "XP.discover_a_new_species",
+    "initial_value": "False",
+    "description": "100",
+    "xp_points": "100"
+  },
+  {
+    "id": 9379,
+    "name": "XP.insane_and_median_lifeforms",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9380,
+    "name": "XP.connect_pinball_footprints_to_deserter",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9381,
+    "name": "XP.did_communism_kill_him",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9382,
+    "name": "XP.connect_secret_roof_path_to_deserter",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9383,
+    "name": "XP.connect_may_bells_to_deserter",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9384,
+    "name": "XP.deserter_ages_ago",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9385,
+    "name": "XP.analyze_monument_of_filippe",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9386,
+    "name": "XP.connect_statue_bullets_to_deserter",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9387,
+    "name": "XP.deserter_enemy_dead",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9388,
+    "name": "XP.coin_operated_bay",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9389,
+    "name": "XP.withhold_speed_from_cuno",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9390,
+    "name": "XP.get_alcohol_for_idiot_doom_spiral",
+    "initial_value": "False",
+    "description": "brought alco, got story",
+    "xp_points": "brought alco, got story"
+  },
+  {
+    "id": 9391,
+    "name": "XP.get_more_alcohol_for_idiot_doom_spiral",
+    "initial_value": "False",
+    "description": "second story done for more booze",
+    "xp_points": "second story done for more booze"
+  },
+  {
+    "id": 9392,
+    "name": "XP.get_most_alcohol_for_idiot_doom_spiral",
+    "initial_value": "False",
+    "description": "final story for now done oh boy yay",
+    "xp_points": "final story for now done oh boy yay"
+  },
+  {
+    "id": 9393,
+    "name": "XP.roadside_squirrel",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9394,
+    "name": "XP.stas_rajko",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9395,
+    "name": "XP.saw_expression_in_mirror",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9396,
+    "name": "XP.kim_trashed_room",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9397,
+    "name": "XP.gardener_not_personal",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9398,
+    "name": "XP.gardener_music_dictionary",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9399,
+    "name": "XP.gardener_do_me",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9400,
+    "name": "XP.gardener_not_a_winner",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9401,
+    "name": "XP.hangover_do_without_speed",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9402,
+    "name": "XP.gardener_body_removed",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9403,
+    "name": "XP.gardener_stench",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9404,
+    "name": "XP.gardener_body_down",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9405,
+    "name": "XP.gardener_keep_eye_on_you",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9406,
+    "name": "XP.cuno_push_buttons",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9407,
+    "name": "XP.cuno_artist",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9408,
+    "name": "XP.there_for_cuno",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9409,
+    "name": "XP.cuno_can_get_shot_as_pig",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9410,
+    "name": "XP.what_does_cunos_dad_say",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9411,
+    "name": "XP.cuno_unclimbable_ladder",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9412,
+    "name": "XP.star_chamber",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9413,
+    "name": "XP.suruese_community",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9414,
+    "name": "XP.cuno_suspicion",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9415,
+    "name": "XP.cuno_pig_head",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9416,
+    "name": "XP.is_that_your_jacket",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9417,
+    "name": "XP.cuno_lame",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9418,
+    "name": "XP.cuno_is_the_shit",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9419,
+    "name": "XP.kim_satisfied_about_drugs",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9420,
+    "name": "XP.kim_thought_so_about_drugs",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9421,
+    "name": "XP.kim_nacra",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9422,
+    "name": "XP.kim_flower_on_roof",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9423,
+    "name": "XP.kim_tracks_giant_of_koko_nur",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9424,
+    "name": "XP.kim_tracks_carrying_body",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9425,
+    "name": "XP.kim_tracks_driver",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9426,
+    "name": "XP.ruyters_thrown_out",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9427,
+    "name": "XP.correct_about_al_gul",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9428,
+    "name": "XP.revachol_did_not_love_merc",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9429,
+    "name": "XP.brilliantine_in_autopsy",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9430,
+    "name": "XP.silly_notes_in_autopsy",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9431,
+    "name": "XP.klaasje_guilty_about_him",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9432,
+    "name": "XP.klaasje_broke_landline",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9433,
+    "name": "XP.head_in_the_game_son",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9434,
+    "name": "XP.klaasje_funny_did_not_do_it",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9435,
+    "name": "XP.funk",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9436,
+    "name": "XP.klaasje_betrayed_by_love",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9437,
+    "name": "XP.klaasje_took_her_preptide",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9438,
+    "name": "XP.klaasje_the_windowbreaker",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9439,
+    "name": "XP.got_into_doomed_commercial_area",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9440,
+    "name": "XP.convince_deserter_you_are_communist",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9441,
+    "name": "XP.keep_your_eye_on_the_powerful_guy_minus1_rhet_wc_pressure_cooker",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9442,
+    "name": "XP.reported_gun_found",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9443,
+    "name": "XP.mullen_novel_solution",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9444,
+    "name": "XP.school_of_mullen",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9445,
+    "name": "XP.baddest_romance",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9446,
+    "name": "XP.pale_medicine_concoction",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9447,
+    "name": "XP.learn_you_were_gym_teacher",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9448,
+    "name": "XP.gardner_confirmed_shes_not_eight_hardie",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9449,
+    "name": "XP.glen_says_he_thinks_she_could_be_a_new_hardie",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9450,
+    "name": "XP.titus_almost_let_it_get_out_of_hand",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9451,
+    "name": "XP.titus_agrees_love_might_have_had_something_to_do_with_mercs_death",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9452,
+    "name": "XP.glen_says_noone_was_thinking_indicating_some_of_them_were_thinking_titus_might_not_be_the_big_boss",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9453,
+    "name": "XP.titus_says_they_killed_him_again",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9454,
+    "name": "XP.powerful_guy_is_gonna_break",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9455,
+    "name": "XP.lieutenant_takes_you_to_cool_off",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9456,
+    "name": "XP.gardener_steps_in_with_this_line_of_questioning_is_over",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9457,
+    "name": "XP.titus_said_the_assault_victims_name_is_klaasje_amandou_and_shes_staying_in_whirling",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9458,
+    "name": "XP.put_the_gun_in_your_mouth_to_establish_authority_now_kim_takes_you_on_a_walk_to_calm_your_nerves",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9459,
+    "name": "XP.suggestion_said_titus_wanted_klaasje_to_see_hangedman_for_what_he_was",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9460,
+    "name": "XP.logic_clebrates_they_admitted_to_unlawful_collaboration_to_derail_investigatiom",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9461,
+    "name": "XP.conze_atticus_and_lucretia_hardie",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9462,
+    "name": "XP.titus_says_it_was_the_other_girls_idea",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9463,
+    "name": "XP.logic_there_you_go_your_mind_is_a_relaxed_muscle",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9464,
+    "name": "XP.manana_shift_card_failure",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9465,
+    "name": "XP.manana_after_tribunal_checkup",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9466,
+    "name": "XP.hardies_logic_wc_its_that_simple",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9467,
+    "name": "XP.titus_says_its_possible_someone_from_lelys_unit_shot_him_from_coast",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9468,
+    "name": "XP.titus_thinks_martinaise_could_use_ballistics_lab",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9469,
+    "name": "XP.figured_out_the_odd_sole",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9470,
+    "name": "XP.titus_architectural_mystery_doesnt_concer_ruby",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9471,
+    "name": "XP.theo_mentions_a_fella_nyflox",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9472,
+    "name": "XP.titus_says_they_need_to_take_a_look_of_this_secret_pasage",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9473,
+    "name": "XP.titus_asks_theo_if_the_key_looked_like_it_was_recently_put_there",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9474,
+    "name": "XP.glen_likes_men",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9475,
+    "name": "XP.thats_why_shanky_no_like_ruby",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9476,
+    "name": "XP.figured_out_hardies_present_at_the_lynching",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9477,
+    "name": "XP.give_xp_for_geeting_through_the_file_cabinet",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9478,
+    "name": "XP.got_the_container_information",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9479,
+    "name": "XP.leo_gave_container_location",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9480,
+    "name": "XP.gaston_was_leos_teacher",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9481,
+    "name": "XP.found_out_the_borscht_had_wodka_in_it",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9482,
+    "name": "XP.hardie_says_evrart_knows_fast",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9483,
+    "name": "XP.evrart_rewards_initiative",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9484,
+    "name": "XP.evrart_got_the_folder_from_cencus_bureau",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9485,
+    "name": "XP.heard_about_sunday_night",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9486,
+    "name": "XP.klaasjes_take_on_tattoos",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9487,
+    "name": "XP.evrart_throws_some_weird_kojko_names_your_Way",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9488,
+    "name": "XP.told_evrart_you_closed_amphetamine_production_but_kept_nightclub",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9489,
+    "name": "XP.told_evrart_you_let_the_nighclub_and_amphetamine_alone",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9490,
+    "name": "XP.scab_leaders_take_on_tattoos_part",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9491,
+    "name": "XP.hardie_dance",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9492,
+    "name": "XP.encyc_serial_number",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9493,
+    "name": "XP.drama_serial_number",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9494,
+    "name": "XP.pissing_competition",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9495,
+    "name": "XP.got_gloves",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9496,
+    "name": "XP.the_mug_owner_dumps_illegal_trash_in_whirling_container_and_is_a_weasel",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9497,
+    "name": "XP.ruby_motive",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9498,
+    "name": "XP.ask_kim_about_executions",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9499,
+    "name": "XP.klaasje_boy",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9500,
+    "name": "XP.klaasje_parents",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9501,
+    "name": "XP.did_not_arrest_klaasje",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9502,
+    "name": "XP.klaasje_docs_discussed",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9503,
+    "name": "XP.klaasje_ruby_sentimental_radios",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9504,
+    "name": "XP.klaasje_suspicion",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9505,
+    "name": "XP.klaasje_peephole_maybe_ruby",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9506,
+    "name": "XP.klaasje_door_mystery",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9507,
+    "name": "XP.klaasje_volition_told",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9508,
+    "name": "XP.klaasje_volition_kept_quiet",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9509,
+    "name": "XP.nothing_is_useless",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9510,
+    "name": "XP.ruby_did_it_klaasje_said",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9511,
+    "name": "XP.klaasje_pi_new_knowledge",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9512,
+    "name": "XP.klaasje_rubys_type",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9513,
+    "name": "XP.klaasje_ruby_peephole",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9514,
+    "name": "XP.klaasje_live_with_self",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9515,
+    "name": "XP.klaasje_clear_head",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9516,
+    "name": "XP.klaasje_life_is_hell",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9517,
+    "name": "XP.klaasje_best_not_to_lie",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9518,
+    "name": "XP.returned_dockworker_id_to_manana",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9519,
+    "name": "XP.klaasje_the_return",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9520,
+    "name": "XP.klaasje_window_success",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9521,
+    "name": "XP.garte_union",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9522,
+    "name": "XP.lelys_name_not_his",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9523,
+    "name": "XP.sunglasses_irony",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9524,
+    "name": "XP.horse_compassion",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9525,
+    "name": "XP.sunglasses_esprit",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9526,
+    "name": "XP.phasmid_viscal",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9527,
+    "name": "XP.phasmid_political",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9528,
+    "name": "XP.klaasje_passport_lie",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9529,
+    "name": "XP.deserter_hole",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9530,
+    "name": "XP.deserter_animated",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9531,
+    "name": "XP.deserter_oxytocin",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9532,
+    "name": "XP.posse_g_bevy",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9533,
+    "name": "XP.posse_gun",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9534,
+    "name": "XP.posse_forgot_to_drink",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9535,
+    "name": "XP.posse_has_gun",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9536,
+    "name": "XP.posse_affect_human",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9537,
+    "name": "XP.posse_kim_claires",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9538,
+    "name": "XP.posse_shitkid",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9539,
+    "name": "XP.posse_ten_years",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9540,
+    "name": "XP.posse_too_unstable",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9541,
+    "name": "XP.posse_kim_41",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9542,
+    "name": "XP.spare_kim_blue_door",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9543,
+    "name": "XP.spare_titus_wisdom",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9544,
+    "name": "XP.spare_titus_fair",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9545,
+    "name": "XP.spare_inland",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9546,
+    "name": "XP.spare_shanky_pigs",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9547,
+    "name": "XP.joyce_bloodletting",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9548,
+    "name": "XP.joyce_death_squad",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9549,
+    "name": "XP.joyce_kim_injury",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9550,
+    "name": "XP.joyce_who_merc",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9551,
+    "name": "XP.joyce_waterways",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9552,
+    "name": "XP.kortenaer_not_brother",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9553,
+    "name": "XP.kortenaer_logic_brothers",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9554,
+    "name": "XP.kortenaer_al_gul",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9555,
+    "name": "XP.dicemaker_precarious",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9556,
+    "name": "XP.klaasje_eighth_hardie",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9557,
+    "name": "XP.dark_celebration_kim",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9558,
+    "name": "XP.seafort_generator_maybe_it_was_fire_guy",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9559,
+    "name": "XP.pinball_dicemaker",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9560,
+    "name": "XP.play_pinball_kim_end",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9561,
+    "name": "XP.play_pinball_kim_boring",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9562,
+    "name": "XP.rene_revolution",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9563,
+    "name": "XP.rene_jeanne_marie",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9564,
+    "name": "XP.gastons_sandwich",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9565,
+    "name": "XP.gaston_jeanne_marie",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9566,
+    "name": "XP.bounced_gary_ideas_off_evrart_minus_two_cuirass_check",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9567,
+    "name": "XP.evrart_weasel_hackpiece_journos",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9568,
+    "name": "XP.evrart_is_not_a_slut_you_got_a_work_for_second_base",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9569,
+    "name": "XP.evrart_no_rubys_running_drugs_for_me",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9570,
+    "name": "XP.evrart_admits_sending_liz_to_spy_on_you",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9571,
+    "name": "XP.evrart_agrees_to_help_with_hardies",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9572,
+    "name": "XP.minot_believes_phasmid",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9573,
+    "name": "XP.hoarding_freak",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9574,
+    "name": "XP.identified_the_song_in_your_head",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9575,
+    "name": "XP.seafort_rcm_icm",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9576,
+    "name": "XP.titus_asked_your_thoughts_on_klaasje_refusal_to_cooperate",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9577,
+    "name": "XP.heard_rumble_church",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9578,
+    "name": "XP.evrart_counters_your_killerhornets_with_beeblanked",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9579,
+    "name": "XP.nice_one_evrarts_gonna_get_wrong_signatures",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9580,
+    "name": "XP.decided_not_to_mail_the_signatures",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9581,
+    "name": "XP.joyce_passport_read",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9582,
+    "name": "XP.joyce_shooting_self_in_foot",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9583,
+    "name": "XP.joyce_forewoman_vanished",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9584,
+    "name": "XP.joyce_showed_your_badge",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9585,
+    "name": "XP.joyce_shared_ulan_frequencies",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9586,
+    "name": "XP.joyce_where_we_are",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9587,
+    "name": "XP.joyce_disco_crown_of_the_world",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9588,
+    "name": "XP.joyce_broke_loop",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9589,
+    "name": "XP.evrart_simply_dont_know_who_the_real_killer_is",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9590,
+    "name": "XP.evrart_looking_out_for_the_little_birds_plus_fifty_xp",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9591,
+    "name": "XP.evrarts_brave_new_martinaise",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9592,
+    "name": "XP.evrart_gonna_take_it_all_for_people_and_fuck_the_company",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9593,
+    "name": "XP.joyce_saudetic_syndrome",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9594,
+    "name": "XP.technically_one_island",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9595,
+    "name": "XP.joyce_full_cooperation",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9596,
+    "name": "XP.joyce_created_the_traffic",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9597,
+    "name": "XP.joyce_part_of_her_design",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9598,
+    "name": "XP.joyce_vantage_point_merc",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9599,
+    "name": "XP.joyce_deep_synthesis",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9600,
+    "name": "XP.joyce_ancient_ways_modern_ways",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9601,
+    "name": "XP.joyce_a_patriot",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9602,
+    "name": "XP.joyce_rue_de_saint",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9603,
+    "name": "XP.joyce_explains_to_a_child",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9604,
+    "name": "XP.joyce_quoting_guillaume",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9605,
+    "name": "XP.joyce_gun_almost_ready",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9606,
+    "name": "XP.joyce_an_ultra",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9607,
+    "name": "XP.joyce_international_zone",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9608,
+    "name": "XP.joyce_explains_to_an_adult",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9609,
+    "name": "XP.joyce_on_your_gun",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9610,
+    "name": "XP.joyce_hulls_of_airships",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9611,
+    "name": "XP.joyce_turned_down_heat",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9612,
+    "name": "XP.joyce_turned_up_heat",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9613,
+    "name": "XP.joyce_untie_the_knot",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9614,
+    "name": "XP.joyce_regional_papers",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9615,
+    "name": "XP.joyce_nobody_fucks_with_frittte",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9616,
+    "name": "XP.joyce_revoke_the_pigment_standard",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9617,
+    "name": "XP.joyce_thinking_it_over",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9618,
+    "name": "XP.joyce_keeping_it_together",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9619,
+    "name": "XP.evrart_commented_on_megarich_lightbending_guy",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9620,
+    "name": "XP.joyce_take_on_tattoos",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9621,
+    "name": "XP.evrart_knew_the_word_would_sound_much_more_convincing_if_it_was_coming_from_you",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9622,
+    "name": "XP.evrart_insider_information_is_better_than_money_or_pussy",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9623,
+    "name": "XP.inland_of_course_everything_is_okay_with_sunken_motorcarrriages",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9624,
+    "name": "XP.asked_goracy_about_fridge",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9625,
+    "name": "XP.kim_joins_you_in_whispering_the_seaside_tune",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9626,
+    "name": "XP.whispering_a_tune_undeniably_lifts_your_spirits",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9627,
+    "name": "XP.figured_out_radio_ghost",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9628,
+    "name": "XP.soona_pale_logic_wc_success",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9629,
+    "name": "XP.you_put_your_life_on_the_line_and_we_came_out_on_top",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9630,
+    "name": "XP.kim_not_putting_up_you_do_good_police_work",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9631,
+    "name": "XP.guessed_you_might_be_from_hypo41",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9632,
+    "name": "XP.more_bullet_holes",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9633,
+    "name": "XP.kind_of_convinced_eugene_to_take_over",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9634,
+    "name": "XP.harry_would_make_one_hell_of_a_hardie_boy",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9635,
+    "name": "XP.shook_hands_with_titus",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9636,
+    "name": "XP.ask_money_from_station",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9637,
+    "name": "XP.cuno_and_netpicker_sitting_on_a_tree",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9638,
+    "name": "XP.scab_leader_go_find_your_own_boots",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9639,
+    "name": "XP.broke_prybar",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9640,
+    "name": "XP.broke_kvalsund",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9641,
+    "name": "XP.truckman_cabin_done",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9642,
+    "name": "XP.merging_into_stereo_investigation",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9643,
+    "name": "XP.the_whirling_landline_klaasje_nicked",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9644,
+    "name": "XP.no_mystery_klaasje_handywork",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9645,
+    "name": "XP.greatful_tommy_glad_to_run_mouth_with_you",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9646,
+    "name": "XP.figured_out_how_kim_got_kineema",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9647,
+    "name": "XP.recognized_the_whiny_sound_of_kineema",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9648,
+    "name": "XP.decided_you_are_kras_mazov",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9649,
+    "name": "XP.what_happened_to_the_previous_forewoman",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9650,
+    "name": "XP.rain_shivers_ocean",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9651,
+    "name": "XP.rain_shivers_kim",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9652,
+    "name": "XP.abigail_drunk_alt_greet",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9653,
+    "name": "XP.hum_aid_interesting",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9654,
+    "name": "XP.siileng_sneakers",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9655,
+    "name": "XP.paledriver_boots",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9656,
+    "name": "XP.paledriver_kim_done",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9657,
+    "name": "XP.paledriver_terrifying",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9658,
+    "name": "XP.paledriver_vapour",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9659,
+    "name": "XP.racist_tears",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9660,
+    "name": "XP.racist_strange_glint",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9661,
+    "name": "XP.racist_genetics",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9662,
+    "name": "XP.racist_map",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9663,
+    "name": "XP.garte_hellish_karaoke",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9664,
+    "name": "XP.garte_klaasje_degenerate",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9665,
+    "name": "XP.garte_patch",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9666,
+    "name": "XP.check_lands_end",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9667,
+    "name": "XP.sleeping_killer",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9668,
+    "name": "XP.sleeping_disgruntled",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9669,
+    "name": "XP.isola_wide_hangover",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9670,
+    "name": "XP.asked_sylvie_about_gun",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9671,
+    "name": "XP.befriend_the_cuno",
+    "initial_value": "False",
+    "description": "100",
+    "xp_points": "100"
+  },
+  {
+    "id": 9672,
+    "name": "XP.make_cuno_a_detective",
+    "initial_value": "False",
+    "description": "100",
+    "xp_points": "100"
+  },
+  {
+    "id": 9673,
+    "name": "XP.find_out_who_you_are",
+    "initial_value": "False",
+    "description": "100",
+    "xp_points": "100"
+  },
+  {
+    "id": 9674,
+    "name": "XP.fuel_generator",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9675,
+    "name": "XP.heard_about_the_fate_of_your_gun_from_roy",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9676,
+    "name": "XP.reported_gun_missing",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9677,
+    "name": "XP.slide_the_offsitecopy_into_radiocomputer_in_doomed",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9678,
+    "name": "XP.lide_the_production_schedule_into_radio_computer_in_doomed",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9679,
+    "name": "XP.convinced_dicemaker_to_open_the_steel_door",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9680,
+    "name": "XP.found_out_whos_in_union_box",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9681,
+    "name": "XP.rene_gaston_jeannemarie_may_bells",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9682,
+    "name": "XP.make_acele_put_hat_on_success",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9683,
+    "name": "XP.pick_up_aceles_tape_recorder_success",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9684,
+    "name": "XP.became_renes_revacholian_sandwich_brother",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9685,
+    "name": "XP.learned_about_posse",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9686,
+    "name": "XP.made_kim_dance_successfully",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9687,
+    "name": "XP.threatened_ravers_with_gun",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9688,
+    "name": "XP.andre_admitted_speed_lab",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9689,
+    "name": "XP.arrested_or_evicted_ravers",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9690,
+    "name": "XP.got_pyrholidon_from_roy",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9691,
+    "name": "XP.roy_vortex_on_the_roof",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9692,
+    "name": "XP.roy_pyrholidon_wc_success",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9693,
+    "name": "XP.kineema_shivers_valley_of_dogs",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9694,
+    "name": "XP.told_lena_waterlock_closed",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9695,
+    "name": "XP.seafort_chain_enemies_of_commune",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9696,
+    "name": "XP.seafort_critical_theory",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9697,
+    "name": "XP.seafort_cool_detective_shit",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9698,
+    "name": "XP.seafort_contact_soona_the_hacker",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9699,
+    "name": "XP.seafort_shooter_smokes",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9700,
+    "name": "XP.deserter_told_twins_fire",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9701,
+    "name": "XP.deserter_cities_cant_talk",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9702,
+    "name": "XP.phasmid_nest",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9703,
+    "name": "XP.phasmid_tastes_like_sugar",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9704,
+    "name": "XP.deserter_seen_real_world",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9705,
+    "name": "XP.deserters_take_on_beats",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9706,
+    "name": "XP.told_deserter_rene_fate",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9707,
+    "name": "XP.this_is_how_phasmid_hides",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9708,
+    "name": "XP.posse_enemies_in_church",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9709,
+    "name": "XP.dolores_voyager_road",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9710,
+    "name": "XP.dolores_we_are_on_voyager_road",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9711,
+    "name": "XP.dolores_the_coolest",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9712,
+    "name": "XP.dolores_zoo",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9713,
+    "name": "XP.ledger_cool_toilet_paper",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9714,
+    "name": "XP.ledger_pt_wearing_out",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9715,
+    "name": "XP.ledger_kim_body_smell_exquisite",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9716,
+    "name": "XP.ledger_fill_those_forms",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9717,
+    "name": "XP.ledger_hookah_the_killer",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9718,
+    "name": "XP.ledger_unsolvable_case",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9719,
+    "name": "XP.ledger_next_world_mural",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9720,
+    "name": "XP.ledger_building_safety_regulation",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9721,
+    "name": "XP.ledger_building_will_come_down",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9722,
+    "name": "XP.ledger_couch_at_unexpected_location",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9723,
+    "name": "XP.ledger_compartment_police_backup",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9724,
+    "name": "XP.ledger_of_oblivion_induced_mh",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9725,
+    "name": "XP.ledger_remove_tissue",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9726,
+    "name": "XP.bullet_rifle_from_doomed",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9727,
+    "name": "XP.bullet_finding_gun_itself",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9728,
+    "name": "XP.bullet_encyclo_antique",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9729,
+    "name": "XP.bullet_rcm_unjacketed",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9730,
+    "name": "XP.hangman_detectives",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9731,
+    "name": "XP.hangman_autopsy_form",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9732,
+    "name": "XP.hangman_ellis_kortenaer",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9733,
+    "name": "XP.hangman_rhet_kim_avoids_escalation",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9734,
+    "name": "XP.hangman_kim_undercompensated",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9735,
+    "name": "XP.hangman_slash_knot",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9736,
+    "name": "XP.hangman_cuno_proud",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9737,
+    "name": "XP.hangman_professional_autopsy",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9738,
+    "name": "XP.cindy_art_idea_success",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9739,
+    "name": "XP.hangman_bullet_icebear",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9740,
+    "name": "XP.hangman_bullet_irregularity",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9741,
+    "name": "XP.hangedman_vermillion",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9742,
+    "name": "XP.hangedman_six_rotors",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9743,
+    "name": "XP.hangedman_ladder_cant_carry",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9744,
+    "name": "XP.hangedman_precious_underneath",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9745,
+    "name": "XP.hangedman_perc_serial",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9746,
+    "name": "XP.hangedman_enjoy_death",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9747,
+    "name": "XP.hangedman_occidental",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9748,
+    "name": "XP.hangedman_love_did_him_in",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9749,
+    "name": "XP.hangedman_corpse_smile",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9750,
+    "name": "XP.hangedman_rocks_off",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9751,
+    "name": "XP.hangedman_more_pronounced",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9752,
+    "name": "XP.hangedman_killed_by_communism",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9753,
+    "name": "XP.joyce_previous_forewoman",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9754,
+    "name": "XP.joyce_eastmotortract",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9755,
+    "name": "XP.kim_wakeup_cops_like_it",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9756,
+    "name": "XP.kim_went_with_furies",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9757,
+    "name": "XP.tommy_thanks_for_talking",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9758,
+    "name": "XP.tommy_gave_hope_thumbs_up",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9759,
+    "name": "XP.scableader_not_from_domain",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9760,
+    "name": "XP.scableader_called_out",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9761,
+    "name": "XP.clear_window_viscal_shoe_theory",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9762,
+    "name": "XP.clear_window_viscal_sniper_boardwalk",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9763,
+    "name": "XP.clear_window_viscal_lands_end",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9764,
+    "name": "XP.kim_says_u_didnt_kill_victim",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9765,
+    "name": "XP.titus_tightlipped",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9766,
+    "name": "XP.titus_tells_u_to_cool",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9767,
+    "name": "XP.asked_dicemaker_about_fortress_accident",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9768,
+    "name": "XP.asked_about_revachol_ice_city",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9769,
+    "name": "XP.asked_dicemaker_about_doorbell_anomaly",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9770,
+    "name": "XP.ruby_headed_west",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9771,
+    "name": "XP.washerwoman_mentioned_police_car",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9772,
+    "name": "XP.listened_renes_medal_story",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9773,
+    "name": "XP.came_up_with_name_tequila_sunset",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9774,
+    "name": "XP.call_me_manana",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9775,
+    "name": "XP.rich_guy_container_door_opens",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9776,
+    "name": "XP.rich_guy_name_known",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9777,
+    "name": "XP.rich_guy_single_digit_billionaire",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9778,
+    "name": "XP.told_rene_about_waking_up_drunk",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9779,
+    "name": "XP.ids_got_bum_signatures",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9780,
+    "name": "XP.ids_high_concept_advertising",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9781,
+    "name": "XP.NewVariable",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9782,
+    "name": "XP.ids_gave_clean_jacket",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9783,
+    "name": "XP.ids_refused_clean_jacket",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9784,
+    "name": "XP.ids_refused_dirty_jacket",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9785,
+    "name": "XP.ids_tequila_story",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9786,
+    "name": "XP.NewVariable_01",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9787,
+    "name": "XP.ids_faln_rider",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9788,
+    "name": "XP.ids_cocaine_skull",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9789,
+    "name": "XP.flaubert_left_midgreet",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9790,
+    "name": "XP.flaubert_yell",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9791,
+    "name": "XP.flaubert_both_jackets",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9792,
+    "name": "XP.flaubert_got_one_jacket",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9793,
+    "name": "XP.gaston_told_technically_jeanmarie_still_engaged_to_both_rene_and_hjim",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9794,
+    "name": "XP.showed_rene_belmagrave",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9795,
+    "name": "XP.gaston_said_rene_guardjob_is_evrarts_charity",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9796,
+    "name": "XP.rene_asked_him_about_maybells",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9797,
+    "name": "XP.tiago_name_known",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9798,
+    "name": "XP.tiago_dialogue_done",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9799,
+    "name": "XP.saw_crabman",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9800,
+    "name": "XP.unlocked_church_fil_memory_with_password",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9801,
+    "name": "XP.gaston_pointing_out_carabineer_pension_doesnt_include_monetary_means",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9802,
+    "name": "XP.gave_renes_photo_to_gaston_after_rene_dead",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9803,
+    "name": "XP.gaston_realized_you_did_the_fascha_just_to_get_sandwich",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9804,
+    "name": "XP.perikarnassian_theory_of_love",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9805,
+    "name": "XP.best_racist",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9806,
+    "name": "XP.asked_gary_about_seolite_conspiracy",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9807,
+    "name": "XP.lena_phasmid_seen_discussed",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9808,
+    "name": "XP.told_lena_about_water_lock",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9809,
+    "name": "XP.learned_the_name_of_the_lullaby",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9810,
+    "name": "XP.apartment_shivers",
+    "initial_value": "False",
+    "description": "Pico bool",
+    "xp_points": "Pico bool"
+  },
+  {
+    "id": 9811,
+    "name": "XP.kras_bust",
+    "initial_value": "False",
+    "description": "Pico bool",
+    "xp_points": "Pico bool"
+  },
+  {
+    "id": 9812,
+    "name": "XP.footprints_studied",
+    "initial_value": "False",
+    "description": "pico bool",
+    "xp_points": "pico bool"
+  },
+  {
+    "id": 9813,
+    "name": "XP.empty_room_inland_done",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9814,
+    "name": "XP.orb_blocked_door_phys_int",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9815,
+    "name": "XP.littlelilly_got_new_bird_from_her",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9816,
+    "name": "XP.logic_thats_why_gastons_not_a_union_member",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9817,
+    "name": "XP.already_had_the_boule_and_gave_it_to_rene",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9818,
+    "name": "XP.klaasjes_real_name",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9819,
+    "name": "XP.remembered_vicuemares_voice_from_posse_dialogue",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9820,
+    "name": "XP.videorental_call_harry",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9821,
+    "name": "XP.cargo_sad_party_grew",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9822,
+    "name": "XP.trant_feld_discussed",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9823,
+    "name": "XP.gun_got_back",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9824,
+    "name": "XP.annette_asked_questions",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9825,
+    "name": "XP.annette_shivers_remorse",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9826,
+    "name": "XP.annette_called_you_sober",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9827,
+    "name": "XP.annette_master_class",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9828,
+    "name": "XP.annette_learned_about_self",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9829,
+    "name": "XP.garyapartment_flag_bowed",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9830,
+    "name": "XP.sylvie_thanks_for_talking",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9831,
+    "name": "XP.sylvie_fate_of_paperwork",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9832,
+    "name": "XP.sylvie_tape_named",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9833,
+    "name": "XP.sylvie_klaasje_caller_confirmed",
+    "initial_value": "False",
+    "description": "50",
+    "xp_points": "50"
+  },
+  {
+    "id": 9834,
+    "name": "XP.sylvie_i_am_authority",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9835,
+    "name": "XP.sylvie_wanted_away",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9836,
+    "name": "XP.sylvie_named_song",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9837,
+    "name": "XP.sylvie_waving_gun_larks",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9838,
+    "name": "XP.kineema_woke_me_up",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9839,
+    "name": "XP.kineema_station_call_far_away",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9840,
+    "name": "XP.kineema_station_call_badge_found",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9841,
+    "name": "XP.kineema_poured_one_out",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9842,
+    "name": "XP.tracks_car_drove_through",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9843,
+    "name": "XP.tracks_did_alone",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9844,
+    "name": "XP.lena_met_husband",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9845,
+    "name": "XP.lena_man_into_cryptids",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9846,
+    "name": "XP.bookstore_curtains_fiddle",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9847,
+    "name": "XP.bookstore_biographies_jacob_rose",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9848,
+    "name": "XP.smoker_already_questioned",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9849,
+    "name": "XP.ruby_inland_future_insight",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9850,
+    "name": "XP.lair_portrait_seen",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9851,
+    "name": "XP.ruby_journal_entry_ends",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9852,
+    "name": "XP.ruby_mysterious_rooms",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9853,
+    "name": "XP.ruby_did_not_leave_flowers",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9854,
+    "name": "XP.ruby_peephole",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9855,
+    "name": "XP.morell_sprayed_down",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9856,
+    "name": "XP.gary_the_pie_man",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9857,
+    "name": "XP.gary_door_opened",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9858,
+    "name": "XP.gary_hoped_helped",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9859,
+    "name": "XP.kim_gave_big_apology",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9860,
+    "name": "XP.netpicker_sober_a_day",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9861,
+    "name": "XP.netpicker_named_boat_sun",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9862,
+    "name": "XP.frittte_no_more_nonsense",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9863,
+    "name": "XP.mirror_expression_of_pain",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9864,
+    "name": "XP.window_shoe_smashed",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9865,
+    "name": "XP.window_move_on",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9866,
+    "name": "XP.peephole_knows_what_happened",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9867,
+    "name": "XP.fridge_hanged_man_likes_it_here",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9868,
+    "name": "XP.butter_sign_i_did_this",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9869,
+    "name": "XP.roy_nuclear_failure",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9870,
+    "name": "XP.roy_lamp_got_a_light",
+    "initial_value": "False",
+    "description": "100",
+    "xp_points": "100"
+  },
+  {
+    "id": 9871,
+    "name": "XP.cindy_bumpy_ride",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9872,
+    "name": "XP.cindy_skull_and_commie",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9873,
+    "name": "XP.ruby_heard_kineema",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9874,
+    "name": "XP.roy_knew_cavalry",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9875,
+    "name": "XP.joyce_apes_duking",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9876,
+    "name": "XP.manana_coin_caught",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9877,
+    "name": "XP.manana_did_not_kill",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9878,
+    "name": "XP.manana_politics_nailed",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9879,
+    "name": "XP.garte_they_hoisted",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9880,
+    "name": "XP.garte_did_not_kill",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9881,
+    "name": "XP.garte_slipped_away",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9882,
+    "name": "XP.searails_did_the_damage",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9883,
+    "name": "XP.tommy_ruby_got_away",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9884,
+    "name": "XP.garte_got_lena_address",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9885,
+    "name": "XP.garte_no_marinella",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9886,
+    "name": "XP.garte_union_suck_up",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9887,
+    "name": "XP.garte_back_door_ignorant",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9888,
+    "name": "XP.klaasje_gave_real_name",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9889,
+    "name": "XP.kim_warned_compromised",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9890,
+    "name": "XP.half_light_fuck_off",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9891,
+    "name": "XP.netpicker_asked_about_cryptos",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9892,
+    "name": "XP.cleaning_lady_no_martin",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9893,
+    "name": "XP.foreclosed_logic_hole_wall",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9894,
+    "name": "XP.foreclosed_shivers_look_around",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9895,
+    "name": "XP.kim_took_body_in_morning",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9896,
+    "name": "XP.hardie_showed_breechloader",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9897,
+    "name": "XP.evrart_did_not_sit",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9898,
+    "name": "XP.kim_in_for_surprise",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9899,
+    "name": "XP.kim_stopped_obsessing",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9900,
+    "name": "XP.evrart_did_not_actually",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9901,
+    "name": "XP.evrart_not_worried_tribunal",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9902,
+    "name": "XP.file_cabinet_found_note",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9903,
+    "name": "XP.cargo_belt_spotted_same",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9904,
+    "name": "XP.kim_revolution_non_info",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9905,
+    "name": "XP.gardener_be_a_winner",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9906,
+    "name": "XP.doorbell_recording_heard",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9907,
+    "name": "XP.doorbell_hung_up",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9908,
+    "name": "XP.kim_war_paint",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9909,
+    "name": "XP.kim_rifle_here",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9910,
+    "name": "XP.smoker_underground_investigation",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9911,
+    "name": "XP.kim_doom_spotted",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9912,
+    "name": "XP.moodboard_did_not_make_it",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9913,
+    "name": "XP.radiocomputer_fortress_accident",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9914,
+    "name": "XP.kim_boxing_club",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9915,
+    "name": "XP.kim_ginger_kid",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9916,
+    "name": "XP.kim_keep_moving",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9917,
+    "name": "XP.morell_dread_moose",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9918,
+    "name": "XP.morell_gary_burning_rhino",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9919,
+    "name": "XP.dicemaker_killed_bear",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9920,
+    "name": "XP.dicemaker_drugs_asked",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9921,
+    "name": "XP.dicemaker_snuff_milieu",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9922,
+    "name": "XP.kim_bagged_shirt",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9923,
+    "name": "XP.evrart_wants_joyce_to_know",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9924,
+    "name": "XP.leo_trouble_defined",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9925,
+    "name": "XP.monument_buried_done",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9926,
+    "name": "XP.monument_indentations",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9927,
+    "name": "XP.kineema_radio_over",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9928,
+    "name": "XP.videorental_call_vo_harryy",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9929,
+    "name": "XP.soona_bitter_failure",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9930,
+    "name": "XP.soona_found_fridge_note",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9931,
+    "name": "XP.soona_body_in_fridge",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9932,
+    "name": "XP.stained_lady_in_glass",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9933,
+    "name": "XP.stained_motto_says",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9934,
+    "name": "XP.acele_complimented_lies",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9935,
+    "name": "XP.acele_jamrock_learned",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9936,
+    "name": "XP.hjelmdallerman_suffered_through_the_whole_book",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9937,
+    "name": "XP.mainframe_that_was_me",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9938,
+    "name": "XP.tiago_carved_pillars",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9939,
+    "name": "XP.kineema_finger_memory",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9940,
+    "name": "XP.kineema_library_called_and_thanked",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9941,
+    "name": "XP.book_gi_well_done",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9942,
+    "name": "XP.ruby_friends_are_here",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9943,
+    "name": "XP.depot_seen_and_done",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9944,
+    "name": "XP.glass_how_and_why",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9945,
+    "name": "XP.noid_sticker_what_it_is",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9946,
+    "name": "XP.acele_hunch_described",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9947,
+    "name": "XP.acele_silver_bird_is",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9948,
+    "name": "XP.acele_seen_crabman",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9949,
+    "name": "XP.acele_not_yet_seen_crabman",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9950,
+    "name": "XP.andre_i_smell_ether",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9951,
+    "name": "XP.andre_jacked_up_to_snuff",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9952,
+    "name": "XP.kim_said_never_repeat",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9953,
+    "name": "XP.kim_leaves_for_now",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9954,
+    "name": "XP.kim_smoking_assailant",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9955,
+    "name": "XP.frittte_has_an_army_so",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9956,
+    "name": "XP.klaasje_showed_church_tape",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9957,
+    "name": "XP.tree_kicked_pain_power",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9958,
+    "name": "XP.truckman_truck_no_mistake",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9959,
+    "name": "XP.tribunal_counted_fifty_figures",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9960,
+    "name": "XP.tribunal_they_were_korty_bros",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9961,
+    "name": "XP.feld_mural_know_the_place",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9962,
+    "name": "XP.gaston_he_was_hiding",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9963,
+    "name": "XP.rene_commie_propaganda",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9964,
+    "name": "XP.rene_rode_into_gunfire",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9965,
+    "name": "XP.told_gardener_evrart_said_he_sent_her_to_spy_on_you",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9966,
+    "name": "XP.seafort_perc_below_silence_redone",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9967,
+    "name": "XP.seafort_rcm_from_icm_redone",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9968,
+    "name": "XP.cool_with_cuno",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9969,
+    "name": "XP.did_not_subject_yourself_to_graad_realism",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9970,
+    "name": "XP.rene_fascha_dq_rc_sccss",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9971,
+    "name": "XP.remember_the_beanbag",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9972,
+    "name": "XP.elchem_useful_info",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9973,
+    "name": "XP.fascha_dq_lorryman_logic_poor_you",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9974,
+    "name": "XP.gaston_fascha_dq_if_asked_him_when_rene_dead",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9975,
+    "name": "XP.made_kim_transceiver_jealous",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9976,
+    "name": "XP.fascha_dq_talked_to_gary",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  },
+  {
+    "id": 9977,
+    "name": "XP.fascha_dq_talked_to_measurehead",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 9978,
+    "name": "XP.mrlb_true_form",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9979,
+    "name": "XP.read_stock_certificate",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9980,
+    "name": "XP.trash_reckoning_survived",
+    "initial_value": "False",
+    "description": "Player got in the trash then got out",
+    "xp_points": "Player got in the trash then got out"
+  },
+  {
+    "id": 9981,
+    "name": "XP.night_of_the_hobocop",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9982,
+    "name": "XP.garte_sorry_for_trash_sleep",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9983,
+    "name": "XP.communist_wind_accept",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9984,
+    "name": "XP.communist_wind_cunoess_approach",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9985,
+    "name": "XP.communist_wind_cuno_approach",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9986,
+    "name": "XP.swearing_drama_promise",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9987,
+    "name": "XP.swearing_psycho_drama",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9988,
+    "name": "XP.communist_child_lily",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9989,
+    "name": "XP.swore_before_the_twins",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9990,
+    "name": "XP.points_for_knowing_the_radio",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9991,
+    "name": "XP.roy_debt_known",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9992,
+    "name": "XP.idiot_reconceptualization_verdict_given",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9993,
+    "name": "XP.reached_third_level",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 9994,
+    "name": "XP.reached_second_level",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9995,
+    "name": "XP.esprit_mustard_heard",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9996,
+    "name": "XP.student_held_rifle",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9997,
+    "name": "XP.gave_student_comments",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9998,
+    "name": "XP.encyclo_dobreva_passed",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 9999,
+    "name": "XP.made_kim_jealous",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 10000,
+    "name": "XP.got_speed_from_noid",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 10001,
+    "name": "XP.archer_accepted_request",
+    "initial_value": "False",
+    "description": "10",
+    "xp_points": "10"
+  },
+  {
+    "id": 10002,
+    "name": "XP.monument_kim_after_talk",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 10003,
+    "name": "XP.put_sword_horse",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 10004,
+    "name": "XP.challenged_sunday_friend",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 10005,
+    "name": "XP.guessed_archer_name",
+    "initial_value": "False",
+    "description": "5",
+    "xp_points": "5"
+  },
+  {
+    "id": 10006,
+    "name": "XP.radio_loves_you_star",
+    "initial_value": "False",
+    "description": "20",
+    "xp_points": "20"
+  },
+  {
+    "id": 10007,
+    "name": "XP.fascha_dq_talked_to_lorryman",
+    "initial_value": "False",
+    "description": "",
+    "xp_points": ""
+  }
+]

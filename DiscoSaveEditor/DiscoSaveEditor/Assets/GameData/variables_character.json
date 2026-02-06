@@ -1,0 +1,668 @@
+[
+  {
+    "id": 1224,
+    "name": "character.wearing_bodysuit",
+    "initial_value": "False",
+    "description": "Easter Egg, Leopard bodysuit"
+  },
+  {
+    "id": 1225,
+    "name": "character.opened_tequila_door",
+    "initial_value": "False",
+    "description": "ENDDAY: opened the door to your room"
+  },
+  {
+    "id": 1226,
+    "name": "character.door1_locked_inland",
+    "initial_value": "False",
+    "description": "Inland encourages you to gain access to your room."
+  },
+  {
+    "id": 1227,
+    "name": "character.door1_locked_half",
+    "initial_value": "False",
+    "description": "Half light encourages you to punch the door."
+  },
+  {
+    "id": 1228,
+    "name": "character.door1_tried_locked",
+    "initial_value": "False",
+    "description": "You know you can't just use your key on the door."
+  },
+  {
+    "id": 1229,
+    "name": "character.door1_pain_anti",
+    "initial_value": "False",
+    "description": "Your second punch was painful."
+  },
+  {
+    "id": 1230,
+    "name": "character.door1_pain_pass",
+    "initial_value": "False",
+    "description": "You got through the pain of the second punch swimmingly."
+  },
+  {
+    "id": 1231,
+    "name": "character.door1_comp_cool",
+    "initial_value": "False",
+    "description": "You keep your cool despite the pain."
+  },
+  {
+    "id": 1232,
+    "name": "character.door1_punched",
+    "initial_value": "False",
+    "description": "You tried to punch the door."
+  },
+  {
+    "id": 1233,
+    "name": "character.door1_damages_hub_reached",
+    "initial_value": "False",
+    "description": "You've already learned that your door is locked."
+  },
+  {
+    "id": 1234,
+    "name": "character.smoking_logic_wont_always_be_looking",
+    "initial_value": "False",
+    "description": "Logic doesn't agree with the statement that people will always be looking."
+  },
+  {
+    "id": 1235,
+    "name": "character.smoking_endurance_antipassive_fired",
+    "initial_value": "False",
+    "description": "If your endurance is low this antipassive fires and give you a teethshatteringly negative smoking expeirence."
+  },
+  {
+    "id": 1236,
+    "name": "character.smoking_conze_island_savages",
+    "initial_value": "False",
+    "description": "Conze compare the experience of smoking to an island savage's wicked curse"
+  },
+  {
+    "id": 1237,
+    "name": "character.smoking_inland_island_primitives_is_not_correct_term",
+    "initial_value": "False",
+    "description": "Inland empire calls you out on yourn weird racism"
+  },
+  {
+    "id": 1238,
+    "name": "character.beard_shaven",
+    "initial_value": "False",
+    "description": "for janus and other purposes."
+  },
+  {
+    "id": 1239,
+    "name": "character.moralist_encyc_dolores",
+    "initial_value": "False",
+    "description": "Encyclopedia told you more about Dolores Dei"
+  },
+  {
+    "id": 1240,
+    "name": "character.moralist_half_light_no",
+    "initial_value": "False",
+    "description": "Half-light tells you to reject moralism"
+  },
+  {
+    "id": 1241,
+    "name": "character.sorry_cop_volition_trigger",
+    "initial_value": "False",
+    "description": "volition tries to do something in sorrycop thought"
+  },
+  {
+    "id": 1242,
+    "name": "character.superstar_clicked_do",
+    "initial_value": "False",
+    "description": "You asked what you should do as a superstar"
+  },
+  {
+    "id": 1243,
+    "name": "character.superstar_encyc_disco",
+    "initial_value": "False",
+    "description": "Encyclopaedia explains disco music is from the '30s"
+  },
+  {
+    "id": 1244,
+    "name": "character.superstar_encyc_dolorian",
+    "initial_value": "False",
+    "description": "Encyclopaedia explains \"Dolorian polymath\""
+  },
+  {
+    "id": 1245,
+    "name": "character.honourable_volition_save",
+    "initial_value": "False",
+    "description": "Volition doesn't want you to be a honour for life"
+  },
+  {
+    "id": 1246,
+    "name": "character.boring_cop_thought_done",
+    "initial_value": "False",
+    "description": "afterthought done now it's gone forever"
+  },
+  {
+    "id": 1247,
+    "name": "character.sorry_cop_thought_done",
+    "initial_value": "False",
+    "description": "afterthought done now it's gone forever"
+  },
+  {
+    "id": 1248,
+    "name": "character.apocalypse_cop_thought_done",
+    "initial_value": "False",
+    "description": "afterthought done now it's gone forever"
+  },
+  {
+    "id": 1249,
+    "name": "character.superstar_cop_thought_done",
+    "initial_value": "False",
+    "description": "afterthought done now it's gone forever"
+  },
+  {
+    "id": 1250,
+    "name": "character.moralist_thought_done",
+    "initial_value": "False",
+    "description": "afterthought done now it's gone forever"
+  },
+  {
+    "id": 1251,
+    "name": "character.communist_thought_done",
+    "initial_value": "False",
+    "description": "afterthought done now it's gone forever"
+  },
+  {
+    "id": 1252,
+    "name": "character.liberal_thought_done",
+    "initial_value": "False",
+    "description": "afterthought done now it's gone forever"
+  },
+  {
+    "id": 1253,
+    "name": "character.fascist_thought_done",
+    "initial_value": "False",
+    "description": "afterthought done now it's gone forever"
+  },
+  {
+    "id": 1254,
+    "name": "character.honourable_thought_done",
+    "initial_value": "False",
+    "description": "afterthought done now it's gone forever"
+  },
+  {
+    "id": 1255,
+    "name": "character.fairweather_thought_done",
+    "initial_value": "False",
+    "description": "afterthought done now it's gone forever"
+  },
+  {
+    "id": 1256,
+    "name": "character.torque_dork_thought_done",
+    "initial_value": "False",
+    "description": "afterthought done now it's gone forever"
+  },
+  {
+    "id": 1257,
+    "name": "character.coach_physint_thought_done",
+    "initial_value": "False",
+    "description": "afterthought done now it's gone forever"
+  },
+  {
+    "id": 1258,
+    "name": "character.destroyer_thought_done",
+    "initial_value": "False",
+    "description": "afterthought done now it's gone forever"
+  },
+  {
+    "id": 1259,
+    "name": "character.apocalypse_cop_volition_escape",
+    "initial_value": "False",
+    "description": "Volition aims to let you off the Copopocalypse path"
+  },
+  {
+    "id": 1260,
+    "name": "character.fascist_volition_save",
+    "initial_value": "False",
+    "description": "Volition tried to hold you back from banishing all the kip, kojko and pygme out of Revachol."
+  },
+  {
+    "id": 1261,
+    "name": "character.communist_rhetoric_trigger",
+    "initial_value": "False",
+    "description": "a rhetoric thing in communist thought"
+  },
+  {
+    "id": 1262,
+    "name": "character.art_cop_thought_done",
+    "initial_value": "False",
+    "description": "afterthought done now it's gone forever"
+  },
+  {
+    "id": 1263,
+    "name": "character.speed_endurance_puke",
+    "initial_value": "False",
+    "description": "feels like you're gonna puke"
+  },
+  {
+    "id": 1264,
+    "name": "character.speed_composure_disco",
+    "initial_value": "False",
+    "description": "composure suggests that disco is a good idea"
+  },
+  {
+    "id": 1265,
+    "name": "character.speed_logic_work",
+    "initial_value": "False",
+    "description": "logic suggests that work is a good idea"
+  },
+  {
+    "id": 1266,
+    "name": "character.alcohol_endurance_oh_no",
+    "initial_value": "False",
+    "description": "endurance doesn't like that boozin'"
+  },
+  {
+    "id": 1267,
+    "name": "character.pyrholidon_endurance_no_no",
+    "initial_value": "False",
+    "description": "endurance doesn't enjoy pyrholidon"
+  },
+  {
+    "id": 1268,
+    "name": "character.liberal_thought_volition_save",
+    "initial_value": "False",
+    "description": "volition is really trying i guess"
+  },
+  {
+    "id": 1269,
+    "name": "character.suicide_cop_half",
+    "initial_value": "False",
+    "description": "Half Light doesn't want to die."
+  },
+  {
+    "id": 1270,
+    "name": "character.suicide_cop_drama",
+    "initial_value": "False",
+    "description": "Drama says to stall."
+  },
+  {
+    "id": 1271,
+    "name": "character.suicide_cop_percept_taste",
+    "initial_value": "False",
+    "description": "You taste the gun barrell."
+  },
+  {
+    "id": 1272,
+    "name": "character.lifeline_heart_attack_in_progress",
+    "initial_value": "False",
+    "description": "Tequila is in the middle of a heart attack (0 endurance)"
+  },
+  {
+    "id": 1273,
+    "name": "character.lifeline_giving_up_in_progress",
+    "initial_value": "False",
+    "description": "Tequila is in the middle of giving up (0 volition)"
+  },
+  {
+    "id": 1274,
+    "name": "character.orb_cannot_pay_trigger",
+    "initial_value": "False",
+    "description": "this makes orb appear?"
+  },
+  {
+    "id": 1275,
+    "name": "character.pay_garte_70",
+    "initial_value": "False",
+    "description": "pay this amount of dosh!"
+  },
+  {
+    "id": 1276,
+    "name": "character.pay_garte_30",
+    "initial_value": "False",
+    "description": "pay garte this dosh!"
+  },
+  {
+    "id": 1277,
+    "name": "character.pay_garte_100",
+    "initial_value": "False",
+    "description": "garte really needs this dosh!"
+  },
+  {
+    "id": 1278,
+    "name": "character.pay_garte_60",
+    "initial_value": "False",
+    "description": "garte dosh needed!p"
+  },
+  {
+    "id": 1279,
+    "name": "character.pay_garte_130",
+    "initial_value": "False",
+    "description": "pay garte all the dosh ever!"
+  },
+  {
+    "id": 1280,
+    "name": "character.lifeline_heart_attack_tutorial_got",
+    "initial_value": "False",
+    "description": "got first freebie tutorial means one heart attack"
+  },
+  {
+    "id": 1281,
+    "name": "character.read_greatest_innocence",
+    "initial_value": "False",
+    "description": "read the book about innocences"
+  },
+  {
+    "id": 1282,
+    "name": "character.already_been_told_to_open_official_case",
+    "initial_value": "False",
+    "description": "check for exiting dialogue properly"
+  },
+  {
+    "id": 1283,
+    "name": "character.liberal_thought_other_money_from_evrart",
+    "initial_value": "False",
+    "description": "took the other money too"
+  },
+  {
+    "id": 1284,
+    "name": "character.liberal_thought_concept",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 1285,
+    "name": "character.liberal_thought_money_from_evrart",
+    "initial_value": "False",
+    "description": "took bribe"
+  },
+  {
+    "id": 1286,
+    "name": "character.liberal_thought_money_from_joyce",
+    "initial_value": "False",
+    "description": "took other bribe"
+  },
+  {
+    "id": 1287,
+    "name": "character.liberal_thought_money_from_manana",
+    "initial_value": "False",
+    "description": "took more money"
+  },
+  {
+    "id": 1288,
+    "name": "character.liberal_thought_money_from_siileng",
+    "initial_value": "False",
+    "description": "took more bribes"
+  },
+  {
+    "id": 1289,
+    "name": "character.liberal_thought_money_philosophy_from_garte",
+    "initial_value": "False",
+    "description": "took so many bribes"
+  },
+  {
+    "id": 1290,
+    "name": "character.liberal_thought_rhet",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 1291,
+    "name": "character.liberal_thought_roy_pawned",
+    "initial_value": "False",
+    "description": "pawned stuff"
+  },
+  {
+    "id": 1292,
+    "name": "character.fascist_thought_wanted_traditionalism",
+    "initial_value": "False",
+    "description": "renamed your fascism traditionalism"
+  },
+  {
+    "id": 1293,
+    "name": "character.fascist_thought_open_seizure",
+    "initial_value": "False",
+    "description": "open next step"
+  },
+  {
+    "id": 1294,
+    "name": "character.fascist_thought_open_traditionalism",
+    "initial_value": "False",
+    "description": "open dialogue option"
+  },
+  {
+    "id": 1295,
+    "name": "character.fascist_thought_open_why",
+    "initial_value": "False",
+    "description": "open dialogues"
+  },
+  {
+    "id": 1296,
+    "name": "character.suicide_cop_done",
+    "initial_value": "False",
+    "description": "you gon done pussied out"
+  },
+  {
+    "id": 1297,
+    "name": "character.sobriety_one_done",
+    "initial_value": "False",
+    "description": "the thought be done"
+  },
+  {
+    "id": 1298,
+    "name": "character.sobriety_forever_done",
+    "initial_value": "False",
+    "description": "the thought got"
+  },
+  {
+    "id": 1299,
+    "name": "character.orb_prepare_to_fight_done",
+    "initial_value": "False",
+    "description": "the spirit bomb/weapons ready orb go go go"
+  },
+  {
+    "id": 1300,
+    "name": "character.investigator_thought_done",
+    "initial_value": "False",
+    "description": "master investigator investigating places"
+  },
+  {
+    "id": 1301,
+    "name": "character.habit_alcohol",
+    "initial_value": "False",
+    "description": "started drinking"
+  },
+  {
+    "id": 1302,
+    "name": "character.habit_pyrholidon",
+    "initial_value": "False",
+    "description": "started pyrholidon habit"
+  },
+  {
+    "id": 1303,
+    "name": "character.habit_smokes",
+    "initial_value": "False",
+    "description": "started smoking"
+  },
+  {
+    "id": 1304,
+    "name": "character.habit_speed",
+    "initial_value": "False",
+    "description": "started doing speed"
+  },
+  {
+    "id": 1305,
+    "name": "character.kim_talked_about_clothes",
+    "initial_value": "False",
+    "description": "you talked all your talks about what you're wearing"
+  },
+  {
+    "id": 1306,
+    "name": "character.magnesium_thought_done",
+    "initial_value": "False",
+    "description": "the magnesium thought has been gone through"
+  },
+  {
+    "id": 1307,
+    "name": "character.bench_expert_thumbs",
+    "initial_value": "False",
+    "description": "your thumb-dexterity is off the chain"
+  },
+  {
+    "id": 1308,
+    "name": "character.called_kim_binoclard",
+    "initial_value": "False",
+    "description": "at one point or another"
+  },
+  {
+    "id": 1309,
+    "name": "character.motorway_south_thought_done",
+    "initial_value": "False",
+    "description": "You've had it, the thought."
+  },
+  {
+    "id": 1310,
+    "name": "character.lifeline_kim_returned_to_party",
+    "initial_value": "False",
+    "description": "if Kim was absent during lifeline, he is returned to party"
+  },
+  {
+    "id": 1311,
+    "name": "character.remote_viewer_thought_done",
+    "initial_value": "False",
+    "description": "you have mystical visions"
+  },
+  {
+    "id": 1312,
+    "name": "character.meltdown_thought_done",
+    "initial_value": "False",
+    "description": "you got the meltdown cop thought"
+  },
+  {
+    "id": 1313,
+    "name": "character.meltdown_empathy_save",
+    "initial_value": "False",
+    "description": "empathy tries to save you from melting down"
+  },
+  {
+    "id": 1314,
+    "name": "character.cuno_asked_about_cunoesse",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 1315,
+    "name": "character.cuno_halflight_liar_hasnt_been_to_hiddeout",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 1316,
+    "name": "character.pyrholidon_popup_done",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 1317,
+    "name": "character.suicide_has_gunandbullets",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 1318,
+    "name": "character.trigger_master_investigator_thought",
+    "initial_value": "False",
+    "description": "triggers afterthought that give you the thought"
+  },
+  {
+    "id": 1319,
+    "name": "character.got_hobocop_climb_into_trashbin_idea",
+    "initial_value": "False",
+    "description": "savoir faire suggested climbing into trashbin when you have hobocop thought"
+  },
+  {
+    "id": 1320,
+    "name": "character.net_worth",
+    "initial_value": "False",
+    "description": "you have net worth now"
+  },
+  {
+    "id": 1321,
+    "name": "character.Avowed_inframaterialist",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 1322,
+    "name": "character.icebreaker",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 1323,
+    "name": "character.networthy_individual",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 1324,
+    "name": "character.committee_of_la_responsabilite",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 1325,
+    "name": "character.a_friend_of_honor",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 1326,
+    "name": "character.NewVariable",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 1327,
+    "name": "character.hardies_heroes",
+    "initial_value": "False",
+    "description": ""
+  },
+  {
+    "id": 1328,
+    "name": "character.interactable_tutorial_seen",
+    "initial_value": "False",
+    "description": "saw the interactable tutorial agent card"
+  },
+  {
+    "id": 1329,
+    "name": "character.cheque_payment_counter",
+    "initial_value": 0.0,
+    "description": "this counts how many days has gone by with your pre-paid novelty cheque thing"
+  },
+  {
+    "id": 1330,
+    "name": "character.habit_smokes_postponed_deadline",
+    "initial_value": 0.0,
+    "description": "if you decline the habit once but maybe want to do it later"
+  },
+  {
+    "id": 1331,
+    "name": "character.habit_alcohol_postponed_deadline",
+    "initial_value": 0.0,
+    "description": "for if you decline alcohol but maybe want to start again later"
+  },
+  {
+    "id": 1332,
+    "name": "character.habit_speed_postponed_deadline",
+    "initial_value": 0.0,
+    "description": "decline speed at first but wanna get on that shit later"
+  },
+  {
+    "id": 1333,
+    "name": "character.habit_pyrholidon_postponed_deadline",
+    "initial_value": 0.0,
+    "description": "no pyrho for you, right now, but really want to get on that train later"
+  },
+  {
+    "id": 1334,
+    "name": "character.books_read_counter",
+    "initial_value": 0.0,
+    "description": "how many books have you read?"
+  }
+]
